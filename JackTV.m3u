@@ -218,6 +218,9 @@ https://stream.rdstv.radio/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCxYHXpD/rds-social-tv.png",RDS Social Tv (Tvheadend)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://tvheadend-veneto1.zappr.stream/stream/channel/72c800717fc17dc36993073e817543c5?profile=webtv-vp8-vorbis-webm
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FqH5LHn3/Match-music.png",Match Music
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://5a1178b42cc03.streamlock.net/MATCHMUSIC/MATCHMUSIC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rai_4_-_Logo_2016.svg/320px-Rai_4_-_Logo_2016.svg.png",Rai 4 (Rai Play)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
