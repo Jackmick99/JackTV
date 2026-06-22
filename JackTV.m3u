@@ -163,13 +163,8 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?h
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GhwgK25p/Nove.png",Nove
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=010043c37b66261b7b08a4420e871324:abe412fe39ba5eff6ff576a6cdd8b845
-#KODIPROP:inputstream.adaptive.license_key=010152ad7ba3403fe31de4ef1b9a098b:e07059a95232b08e0c4f60268b83cd70
-#KODIPROP:inputstream.adaptive.license_key=0102079f94a152ab42228d541d895a12:103ed73228117befc316f36113d3225e
-#KODIPROP:inputstream.adaptive.license_key=01038123c12420f84a578c8b819921f7:00000000000000000000000000000000
-#KODIPROP:inputstream.adaptive.license_key=0104f7876c67c31f8815d9bcb3e5049c:00000000000000000000000000000000
-#KODIPROP:inputstream.adaptive.license_key=01051f2b5db19b13fe7402b4d1e53fb6:00000000000000000000000000000000
-https://api.zappr.stream/nove.mpd?clearkeyPlayer.maxQuality=720
+#KODIPROP:inputstream.adaptive.license_key=68b6ba1e6373339b9b2e8ed930f7e3ee:ddbeebe1601da5a71e82c3eeeaaddf7b
+https://pb-o0zu14lv7kvp9.akamaized.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GhwgK25p/Nove.png",Nove (m3u8/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://viamotionhsi.netplus.ch/live/eds/nove/browser-HLS8/nove.m3u8
@@ -470,23 +465,13 @@ https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFCshzPg/Real-Time.png",Real Time
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0100f7e1e92039dcbf28d85af51e1fa3:a70ae41bc0cf1adfd58563e62d1bfb8f
-#KODIPROP:inputstream.adaptive.license_key=0101b31884be65933dbb3a94b326d108:4c2e9223f3e15cc3484ff1b88dfbcfff
-#KODIPROP:inputstream.adaptive.license_key=010215557c898b730a16405fc6a7d594:0e1e9183255b1db525a6569f94631036
-#KODIPROP:inputstream.adaptive.license_key=0103a18e48bc4e0899fd9850447c7ee4:00000000000000000000000000000000
-#KODIPROP:inputstream.adaptive.license_key=01047897bfba70c27d98af57f449ed0a:00000000000000000000000000000000
-#KODIPROP:inputstream.adaptive.license_key=01052f86b83705659de18a9e97d9ce83:00000000000000000000000000000000
-https://api.zappr.stream/realtime.mpd
+#KODIPROP:inputstream.adaptive.license_key=64144d4fd45734f8b196d157a983aa51:e6e0b229e3eb3b180b5a95bb799d8fae
+https://d1677shmrj0dei.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4Q01b6K/DMAX.png",DMAX
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=01003b85994dc3274165ac2d2bc1c0b0:e35f031bcaa1714ac57a022fb26f135f
-#KODIPROP:inputstream.adaptive.license_key=0101998a4079efbebf260c192deaea9a:6d9db354981743fc743fc02c5f98f699
-#KODIPROP:inputstream.adaptive.license_key=010285f1a98cb0f9c2690d6834b0cd7a:a7afa9c822191295a655f82148b9b4bb
-#KODIPROP:inputstream.adaptive.license_key=01031ef976fa45e0b19b6b6b5919b1cb:00000000000000000000000000000000
-#KODIPROP:inputstream.adaptive.license_key=01042986e9051678a4b6a4905ebbbefb:00000000000000000000000000000000
-#KODIPROP:inputstream.adaptive.license_key=0105d330b73558c1a7ddc4aedc7e8f95:00000000000000000000000000000000
-https://api.zappr.stream/dmax.mpd
+#KODIPROP:inputstream.adaptive.license_key=440f4a195636310bb77323685cffb487:7f6b97804e5ad4d41537f8db33bfbb57
+https://pb-lkmzny7qo98vp.akamaized.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4Q01b6K/DMAX.png",DMAX (m3u8/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-HLS8/dmaxitalia.m3u8
@@ -496,43 +481,23 @@ https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QRYzc0c/Discovery.png",Discovery
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0100108b761bb5edac85461e0bb3fb0d:068b3fba256e1c983bec36ff9172ec2e
-#KODIPROP:inputstream.adaptive.license_key=01019975b8beddb720bca70ee9538e90:7d21bb89a5274e7de7b39db48a5f574a
-#KODIPROP:inputstream.adaptive.license_key=0102eee1dc2cc69007d518af9ab8b07a:cff31a511f50a1cafb28de73d9e3cfa7
-#KODIPROP:inputstream.adaptive.license_key=0103091ff82b4bae6532a678838bb10e:00000000000000000000000000000000
-#KODIPROP:inputstream.adaptive.license_key=01049e8567fe557e7a466b8fde310bbe:00000000000000000000000000000000
-#KODIPROP:inputstream.adaptive.license_key=010567972eb8b286eb47fbf7e71cd4a4:00000000000000000000000000000000
-https://api.zappr.stream/discovery.mpd
+#KODIPROP:inputstream.adaptive.license_key=d86dca52a4ea3b48abfc3465f5a8f598:44d14af16a29ac4e6752cae7a3b80de1
+https://pb-n9406rwl5wx1t.akamaized.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn6hQwYr/Giallo.png",Giallo
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=010058ec487d57e3cfab7fdde6015993:d14148377cfcc9349a9853bcee8e557a
-#KODIPROP:inputstream.adaptive.license_key=0101ea2e0cdd76392e342266346cdf37:804a8f11c8821dad69464a1a32875e8f
-#KODIPROP:inputstream.adaptive.license_key=0102f0d2a220b14b8c1aa8f4c5eb893d:c976405c88fe6387bef997947becd5d9
-#KODIPROP:inputstream.adaptive.license_key=01036f6d1a3e452c0bf8d869beee0c33:00000000000000000000000000000000
-#KODIPROP:inputstream.adaptive.license_key=010472ef04f71a5e7f3b8e06db379144:00000000000000000000000000000000
-#KODIPROP:inputstream.adaptive.license_key=0105c3a2810a70c0b2d00808f37fdb4b:00000000000000000000000000000000
-https://api.zappr.stream/giallo.mpd
+#KODIPROP:inputstream.adaptive.license_key=85859c74205a3deba0ff4dea73c30668:bdcef65a02400fabc1c5094df116d04a
+https://pb-vi6d4mucmrwpo.akamaized.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SsTRqRnF/HGTV.png",HGTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0100a41cbf2b765bd32b545cba44bc8e:21e9b8bd5db5a65a6b2d4160bae8ffcc
-#KODIPROP:inputstream.adaptive.license_key=01010cfea6b9fc12904c079e1d7da0ce:fe45ce9597675cba8852c46aff3c0327
-#KODIPROP:inputstream.adaptive.license_key=01022b5987a8bcf1143b64d2075601ae:046db9d7ac1770e194750045c078677f
-#KODIPROP:inputstream.adaptive.license_key=01033332424f79ad78e4a59b00238b48:00000000000000000000000000000000
-#KODIPROP:inputstream.adaptive.license_key=01048cf20743e4291477f56b575c7ac7:00000000000000000000000000000000
-#KODIPROP:inputstream.adaptive.license_key=01054ffac86eb0d90d095e271f95be6c:00000000000000000000000000000000
-https://api.zappr.stream/hgtv.mpd
+#KODIPROP:inputstream.adaptive.license_key=f16b82552b7339ff831af7b7c6f0083c:2f9dc2c68113fe16c03b853ef5a3269c
+https://pb-06u3v3mpztvam.akamaized.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwqb4km0/foodnetwork.png",Food Network
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0100da20381b6e3a3dac1914b5769a54:7bc7175607cfc6814fd67bf50b8aeecb
-#KODIPROP:inputstream.adaptive.license_key=0101e711dfa15b53172186c0491263bc:2fd82ba1b649ba58948031ed5ec4ce5c
-#KODIPROP:inputstream.adaptive.license_key=0102a80a74efd881bb1e2da6ea4b10ad:53af8be715edfd8d7066d20099ad8113
-#KODIPROP:inputstream.adaptive.license_key=0103aef9136f459efd3cd7466d5fbccf:00000000000000000000000000000000
-#KODIPROP:inputstream.adaptive.license_key=0104d2e104e28993051da23b8b87bd3b:00000000000000000000000000000000
-#KODIPROP:inputstream.adaptive.license_key=0105e391afe4bab7de0d419f21704691:00000000000000000000000000000000
-https://api.zappr.stream/foodnetwork.mpd
+#KODIPROP:inputstream.adaptive.license_key=5c79e43baeab341ea7f0bcb88800315b:b699bf3b417d1ea211cd3e421bb97f94
+https://pb-ikxuqadisnhot.akamaized.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rs9SQPFn/Discovery-Turbo.png",Discovery Turbo
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
