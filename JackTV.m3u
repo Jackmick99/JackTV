@@ -168,6 +168,18 @@ https://stream.rdstv.radio/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FqH5LHn3/Match-music.png",Match Music
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://5a1178b42cc03.streamlock.net/MATCHMUSIC/MATCHMUSIC/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h2k77B2/ibiza.png",Radio Ibiza
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R0WpTnH/rb24.png",RB24 TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tv.radiobussola.it/hls/rb24/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3fgzLkp/wow.png",Radio WoW
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://str38.fluid.stream/RadioWOW/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZLbsQ9w/Senza-titolo-1.png",Company TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://5929b138b139d.streamlock.net/CompanyTV/livestream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rai_4_-_Logo_2016.svg/320px-Rai_4_-_Logo_2016.svg.png",Rai 4 (Rai Play)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
@@ -251,7 +263,7 @@ https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
 https://jmp2.uk/stvp-IT3100001FT
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G3G5nL5D/Radio-Serie-A.png",Radio Tv Serie A
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-https://livesg.seriea.hiway.media/restreamer/seriea_client/gpu-a-c0-8/restreamer/outgest/84d19a87-f82f-4aa2-80cd-2ab1105eac79/manifest.m3u8
+https://legaseriea-live-prd.cdn.netrw.it/@syna-token=st=1782337390~hmac=1a6033ca8aafa78b758babcddbc35e1cc51981b978ddda70ae84d4d67de84bd8/out/v1/s-prd/ch-01-prd-s-v2/dash-ch-01-prd-s-hd/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x6gWSQR/Supertennis.png",Supertennis
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
@@ -543,7 +555,7 @@ https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/live/S30721796/ZS3Xu8mn5f0J/p
 https://video2.azotosolutions.com:1936/supertvoristano/supertvoristano/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xjt5XBFm/Tele-Costa-Smeralda.png",Tele Costa Smeralda
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/tcs_live/tcs/tcs/playlist.m3u8
+https://5bb65e9de3fdf.streamlock.net/live/TCS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/76STRjQ4/Uno4.png",Uno4 Tv
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://cdn.uno4.it/index.m3u8
@@ -564,7 +576,7 @@ https://api.zappr.stream/antennatreveneto.m3u8
 https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VD3qZSs/telenuovo.png",Telenuovo (m3u8)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-https://ovp-live.akamaized.net/ac106_live/ac106_source_001_3/chunklist.m3u8
+https://liveac901.b-cdn.net/channel02.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VD3qZSs/telenuovo.png",Telenuovo (mpd)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://liveac901.b-cdn.net/channel02.smil/manifest.mpd
@@ -598,12 +610,6 @@ https://soobeat.fluid.stream/Telecitta/livestream/playlist.m3u8?FLID=2&type=.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wyzPjmg/orler.png",Orler TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZLbsQ9w/Senza-titolo-1.png",Company TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-https://5929b138b139d.streamlock.net/CompanyTV/livestream_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3fgzLkp/wow.png",Radio WoW
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-https://str38.fluid.stream/RadioWOW/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j3DR1Zh/radio-padova.png",Radio Padova
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://58d921499d3d3.streamlock.net/RadioPadova/livestream/playlist.m3u8
@@ -670,12 +676,6 @@ https://video2.azotosolutions.com:1936/splashtv/splashtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vxQnVc8/Rock-Tv.png",Rock Tv
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://jmp2.uk/stvp-ITBC1100011RK
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h2k77B2/ibiza.png",Radio Ibiza
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R0WpTnH/rb24.png",RB24 TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-https://tv.radiobussola.it/hls/rb24/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rpGG3K5/radio-marte.png",Radio Marte
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://stream9.xdevel.com/video0s975753-775/stream/playlist.m3u8
@@ -769,9 +769,6 @@ https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/img/videonovara.png",Videonovara
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://ed04.top-ix.org/avtvlive/videonovara/streaming/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5G2QFp1/tv-yes.png",Tv Yes Italia
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-https://stream1.aswifi.it/radioyes/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KN3KpLL/msnbc.png",Class CNBC
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://www.dailymotion.com/cdn/live/video/x91c8ww.m3u8?sec=D9OwEfHs-e7O6pQ-qlnROg
@@ -786,7 +783,7 @@ https://www.dailymotion.com/cdn/live/video/x8u05e4.m3u8?sec=WpDBDJZBHKQAodqf2F5q
 https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BPxfpFm/radio-24.png",Radio 24
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/stream/stream.m3u8
+https://760869f771b04ca8a1e4daa89dd6da3e.msvdn.net/live/S88650405/33lZG4owunfW/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dWLsPBR/radio-gold.png",Radio Gold Tv
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://load-balancer.azotosolutions.com/cdnedge5/smil:live5.smil/playlist.m3u8
@@ -1110,12 +1107,9 @@ https://viamotionhsi.netplus.ch/live/eds/starhd/browser-dash/starhd.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KcJRF9kL/Star-tve.png",Star tve (m3u8/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://viamotionhsi.netplus.ch/live/eds/starhd/browser-HLS8/starhd.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1R0GjVpW/Antena-3-Int.png",Antena 3 Internacional (1)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1R0GjVpW/Antena-3-Int.png",Antena 3 Internacional
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 http://177.10.184.193:8000/play/a06a/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1R0GjVpW/Antena-3-Int.png",Antena 3 Internacional (2)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-http://181.114.57.246:4000/play/akjWPSp33R6D9dv3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zX064h1N/TV3.png",TV3 (VPN)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8
@@ -1605,7 +1599,10 @@ https://trt.daioncdn.net/trtspor/master.m3u8?app=web&platform=trtspor&ppid=201f8
 https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor&ppid=201f8bc48e01998a4a5823b934082f94
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png",=== GIAPPONE ===
 https://github.com/Jackmick99/video-mp4/raw/refs/heads/main/JP.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kc4FpHwr/NHK-World-Japan.png",NHK World Japan
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kc4FpHwr/NHK-World-Japan.png",NHK World Japan (1)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kc4FpHwr/NHK-World-Japan.png",NHK World Japan (2)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://nhk.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kc4FpHwr/NHK-World-Japan.png",NHK World Japan (m3u8/VPN CH)
@@ -1614,21 +1611,6 @@ https://viamotionhsi.netplus.ch/live/eds/nhk/browser-HLS8/nhk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kc4FpHwr/NHK-World-Japan.png",NHK World Japan (mpd/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://viamotionhsi.netplus.ch/live/eds/nhk/browser-dash/nhk.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d48Fmkbv/J-Sports.png",J Sports 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d48Fmkbv/J-Sports.png",J Sports 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d48Fmkbv/J-Sports.png",J Sports 3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d48Fmkbv/J-Sports.png",J Sports 4
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQrXNW7q/mtv.png",MTV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/1280px-Flag_of_Bulgaria.svg.png",=== BULGARIA ===
 https://github.com/Jackmick99/video-mp4/raw/refs/heads/main/BU.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zVnNTd3d/BNT-4.png",BNT 4 - BNT World (m3u8/VPN CH)
