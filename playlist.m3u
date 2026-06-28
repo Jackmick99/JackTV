@@ -7,7 +7,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&for
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/317px-Rai_1_-_Logo_2016.svg.png",Rai 1 (Tvheadend)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://tvheadend-veneto1.zappr.stream/stream/channel/b640b3bb55e707e75cc09d9f35463f72?profile=webtv-vp8-vorbis-webm
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/317px-Rai_1_-_Logo_2016.svg.png",Rai 1 (1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/317px-Rai_1_-_Logo_2016.svg.png",Rai 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/317px-Rai_1_-_Logo_2016.svg.png",Rai 1 (m3u8/VPN CH)
@@ -28,7 +28,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forc
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/320px-Rai_2_-_Logo_2016.svg.png",Rai 2 (Tvheadend)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://tvheadend-veneto1.zappr.stream/stream/channel/a091127ad83c054c56ad55da5791eb93?profile=webtv-vp8-vorbis-webm
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/320px-Rai_2_-_Logo_2016.svg.png",Rai 2 (1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/320px-Rai_2_-_Logo_2016.svg.png",Rai 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/320px-Rai_2_-_Logo_2016.svg.png",Rai 2 (m3u8/VPN CH)
@@ -43,7 +43,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forc
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/320px-Rai_3_-_Logo_2016.svg.png",Rai 3 (Tvheadend)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://tvheadend-veneto1.zappr.stream/stream/channel/b62f0571a3880929ec905aa9d08cf9e9?profile=webtv-vp8-vorbis-webm
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/320px-Rai_3_-_Logo_2016.svg.png",Rai 3 (1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/320px-Rai_3_-_Logo_2016.svg.png",Rai 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/320px-Rai_3_-_Logo_2016.svg.png",Rai 3 (m3u8/VPN CH)
@@ -85,6 +85,9 @@ https://ilglobotv-live.akamaized.net/channels/RAIItaliaUSA/Live.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxHRBtjg/Rai-World-Premium.png",Rai World Premium
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HNf5Zrc/rtv-sanmarino.png",RTV San Marino (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/87f4f74b20d45931d6a071e5672c792e?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7JYLQkN/Senza-titolo-2.png",Canale 5 (m3u8)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
@@ -178,7 +181,7 @@ https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8PQprYJ3/la7cinema.png",La7Cinema (mpd/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Z82BjgM/Senza-titolo-1.png",Tv8 (Sky)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z82BjgM/Senza-titolo-1.png",Tv8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556&CMCD=cid%3D1%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22d08319ef-c1cf-4c62-aeaa-114fe98a7af0%22%2Csu
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z82BjgM/Senza-titolo-1.png",Tv8 (Tvheadend)
@@ -243,7 +246,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUser
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DD0HcTV/Senza-titolo-3.png",Rai News 24 (Tvheadend)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://tvheadend-veneto1.zappr.stream/stream/channel/0cf59b9d43db424395709bd20edf339b?profile=webtv-vp8-vorbis-webm
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DD0HcTV/Senza-titolo-3.png",Rai News 24 (1)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DD0HcTV/Senza-titolo-3.png",Rai News 24
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://ilglobotv-live.akamaized.net/channels/RAINews24/Live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DD0HcTV/Senza-titolo-3.png",Rai News 24 (Samsung Tv)
@@ -260,7 +263,7 @@ https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x6dLpDH/rai-sport.png",Rai Sport HD (Tvheadend)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-https://tvheadend-veneto1.zappr.stream/stream/channel/8c97e763b13d3b0bb229e85fb7c8aa20?profile=webtv-vp8-vorbis-webm
+https://tvheadend-veneto1.zappr.stream/stream/channel/567cf648dfb91c4a9d1118f5e5219444?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x6dLpDH/rai-sport.png",Rai Sport HD (m3u8/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8
@@ -288,6 +291,9 @@ https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C1c9S9G/Senza-titolo-1.png",Rai Scuola (Rai Play)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C1c9S9G/Senza-titolo-1.png",Rai Scuola (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/b5a786820e0c1ea09ad269952cf56414?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C1c9S9G/Senza-titolo-1.png",Rai Scuola
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://ilglobotv-live.akamaized.net/channels/RAIScuola/Live.m3u8
@@ -297,12 +303,15 @@ https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-HLS8/raiscuola.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C1c9S9G/Senza-titolo-1.png",Rai Scuola (mpd/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VwnyBsw/Senza-titolo-4.png",Rai Storia
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-https://ilglobotv-live.akamaized.net/channels/RAIStoria/Live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VwnyBsw/Senza-titolo-4.png",Rai Storia (Rai Play)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VwnyBsw/Senza-titolo-4.png",Rai Storia (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/545d5dc060accb46351c349fcbc84d4a?profile=webtv-vp8-vorbis-webm
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VwnyBsw/Senza-titolo-4.png",Rai Storia
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://ilglobotv-live.akamaized.net/channels/RAIStoria/Live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VwnyBsw/Senza-titolo-4.png",Rai Storia (m3u8/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-HLS8/raistoria.m3u8
@@ -312,9 +321,15 @@ https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QJCYt75/radio-2.png",Rai Radio 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QJCYt75/radio-2.png",Rai Radio 2 (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/8c182e0cd42679a797bd19b361df4eaa?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnmRsYWN/Uninettuno-Tv.png",Uninettuno University Tv
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://stream6-rai-it.akamaized.net/live/uninettuno/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnmRsYWN/Uninettuno-Tv.png",Uninettuno University Tv (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/6ede4d70f55bf071fd4a477e0b9541ac?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpZ75x22/Inter-Tv.png",Inter Tv
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
@@ -432,60 +447,90 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WHPz4yh/Senza-titolo-1.png",Mediaset Extra (mpd)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WHPz4yh/Senza-titolo-1.png",Mediaset Extra (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/f8093d5f39adb24dd99a62929571270e?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.ibb.co/92YGsP9/Senza-titolo-2.png",La 5 (m3u8)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/92YGsP9/Senza-titolo-2.png",La 5 (mpd)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/92YGsP9/Senza-titolo-2.png",La 5 (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/c01d2435a3228c6675592fb8e2e2cf15?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://cdn.one.accedo.tv/files/5b2fcd9fa0e845000cd3707f",Italia 2 (m3u8)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.one.accedo.tv/files/5b2fcd9fa0e845000cd3707f",Italia 2 (mpd)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://live03-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-logo="https://cdn.one.accedo.tv/files/5b2fcd9fa0e845000cd3707f",Italia 2 (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/bcbc1dba14c8160581f7f2555f0dac59?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.ibb.co/72YG9CN/twentyseven.png",27 Twentyseven (m3u8)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/72YG9CN/twentyseven.png",27 Twentyseven (mpd)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/72YG9CN/twentyseven.png",27 Twentyseven (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/a6922c91aed791ab583488327563aa22?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jwqjNwL/Senza-titolo-3.png",Cine34 (m3u8)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jwqjNwL/Senza-titolo-3.png",Cine34 (mpd)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jwqjNwL/Senza-titolo-3.png",Cine34 (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/be86037f7a12471451b9da4c5d6442bb?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X8jsXQD/Senza-titolo-2.png",Focus (m3u8)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X8jsXQD/Senza-titolo-2.png",Focus (mpd)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X8jsXQD/Senza-titolo-2.png",Focus (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/25bf0b8d6ffcb07af4f1bbd367798ede?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdP5MCS/Senza-titolo-3.png",Top Crime (m3u8)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdP5MCS/Senza-titolo-3.png",Top Crime (mpd)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hdP5MCS/Senza-titolo-3.png",Top Crime (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/db680c49a6d1126461acc16343499d12?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Th3YdT5/Senza-titolo-3.png",Iris (m3u8)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Th3YdT5/Senza-titolo-3.png",Iris (mpd)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Th3YdT5/Senza-titolo-3.png",Iris (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/fd9f8d4cada4ad527744730457472a6f?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gP1v3Mm/Senza-titolo-4.png",Tgcom24 (m3u8)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gP1v3Mm/Senza-titolo-4.png",Tgcom24 (mpd)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gP1v3Mm/Senza-titolo-4.png",Tgcom24 (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/e4a46912e656296975c11cdd766712b1?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7bctRqh/Senza-titolo-1.png",Boing (m3u8)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7bctRqh/Senza-titolo-1.png",Boing (mpd)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7bctRqh/Senza-titolo-1.png",Boing (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/f2166ce5044c67d7b5d458f6a8fc7b94?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tLBcHXt/Boing-Plus.png",Boing Plus (Tvheadend)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://tvheadend-veneto1.zappr.stream/stream/channel/f60772312dbcf515aaee94e190b9e84d?profile=webtv-vp8-vorbis-webm
@@ -495,18 +540,27 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gcCzRrYf/Cartoonito.png",Cartoonito (mpd)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcCzRrYf/Cartoonito.png",Cartoonito (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/f45411aa9ea3ca6364b50950f1682f0f?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MNkKY92/Senza-titolo-1.png",105 Tv (m3u8)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MNkKY92/Senza-titolo-1.png",105 Tv (mpd)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MNkKY92/Senza-titolo-1.png",105 Tv (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/e76b43c8c68eac4c585227cd04bfa8d4?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZGJ3bN2/Senza-titolo-2.png",R101 (m3u8)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZGJ3bN2/Senza-titolo-2.png",R101 (mpd)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://live03-col.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZGJ3bN2/Senza-titolo-2.png",R101 (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/49c424be104ba0b5399db78650634f9d?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FHP589r/Senza-titolo-1.png",Virgin Radio (m3u8)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
@@ -524,11 +578,17 @@ https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=64144d4fd45734f8b196d157a983aa51:e6e0b229e3eb3b180b5a95bb799d8fae
 https://d1677shmrj0dei.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFCshzPg/Real-Time.png",Real Time (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/f3c495fbcc67396cb2934b506e8fbe8e?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4Q01b6K/DMAX.png",DMAX
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=440f4a195636310bb77323685cffb487:7f6b97804e5ad4d41537f8db33bfbb57
 https://pb-lkmzny7qo98vp.akamaized.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4Q01b6K/DMAX.png",DMAX (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/5ef9ee214743f7c9da080e1a1c3b68e6?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4Q01b6K/DMAX.png",DMAX (m3u8/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-HLS8/dmaxitalia.m3u8
@@ -540,26 +600,41 @@ https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d86dca52a4ea3b48abfc3465f5a8f598:44d14af16a29ac4e6752cae7a3b80de1
 https://pb-n9406rwl5wx1t.akamaized.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QRYzc0c/Discovery.png",Discovery (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/e02bda63ab79e97cfc8793560f45cdad?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn6hQwYr/Giallo.png",Giallo
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=85859c74205a3deba0ff4dea73c30668:bdcef65a02400fabc1c5094df116d04a
 https://pb-vi6d4mucmrwpo.akamaized.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn6hQwYr/Giallo.png",Giallo (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/305be2ce517f48d2517750a932bde7cc?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SsTRqRnF/HGTV.png",HGTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f16b82552b7339ff831af7b7c6f0083c:2f9dc2c68113fe16c03b853ef5a3269c
 https://pb-06u3v3mpztvam.akamaized.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsTRqRnF/HGTV.png",HGTV (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/dfb3ee3c322e14d1d9cf7fead4f40ad7?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwqb4km0/foodnetwork.png",Food Network
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5c79e43baeab341ea7f0bcb88800315b:b699bf3b417d1ea211cd3e421bb97f94
 https://pb-ikxuqadisnhot.akamaized.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwqb4km0/foodnetwork.png",Food Network (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/336c104a8ea9eb87d45845417b1eda54?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rs9SQPFn/Discovery-Turbo.png",Discovery Turbo
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b1f533e2ee35459e9be2d0ef1e2b61ab:749bd263e98796fbaf739088862de387
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(motortrendhd)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rs9SQPFn/Discovery-Turbo.png",Discovery Turbo (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/c593ef858055440c26f6e9e073ebb691?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52s28jmH/frisbee.png",frisbee
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -592,13 +667,13 @@ https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_h
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vZsMLBp0/Super.png",Super! (Tvheadend)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://tvheadend-veneto1.zappr.stream/stream/channel/0375067c80ce1df0865563245f912237?profile=webtv-vp8-vorbis-webm
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VSY1s1M/cielo.png",Cielo (Sky)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VSY1s1M/cielo.png",Cielo
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556&CMCD=cid%3D1%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22d08319ef-c1cf-4c62-aeaa-114fe98a7af0%22%2Csu
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VSY1s1M/cielo.png",Cielo (Tvheadend)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://tvheadend-veneto1.zappr.stream/stream/channel/e0a6c5fad3e752350cc5f2f3adc7a31d?profile=webtv-webtv-vp8-vorbis-webm
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fv0Ppfh/Senza-titolo-3.png",Sky TG24 (Sky)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fv0Ppfh/Senza-titolo-3.png",Sky TG24
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556&CMCD=cid%3D1%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22d08319ef-c1cf-4c62-aeaa-114fe98a7af0%22%2Csu
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fv0Ppfh/Senza-titolo-3.png",Sky TG24 (Tvheadend)
@@ -613,15 +688,30 @@ https://acb6ca89.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheH
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJbBF4nt/Italia-136.png",Italia 136 (France 24)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://liveac915ha.streamcloud.it/channel08/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJbBF4nt/Italia-136.png",Italia 136 (France 24) (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/a1a190833c6d5a5f914a298ef75bbd11?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bBZ1xNx/2000.png",TV2000
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bBZ1xNx/2000.png",TV2000 (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/7873538124a4a4e695ce8cac322a5056?profile=webtv-vp8-vorbis-webm
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZkgwZY/vatican.png",Vatican Media Europa (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/86b643c096656e677a9bfab83303bab6?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/9/91/Logo_Senato_TV.png",Senato Tv
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/9/91/Logo_Senato_TV.png",Senato Tv (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/437a1fb2d58e2d2fc9dc22a37e68a95f?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xC5vPZdK/Camera-dei-Deputati.png",Camera dei Deputati
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC5vPZdK/Camera-dei-Deputati.png",Camera dei Deputati (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/90f269911f0373142c0b6c4bc04ad958?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/B7lqVod5EFP_HOT6kF7W0g2z2xgCBenu5W9mE7z9V2YNLZb-aVMIjGDwwh1Z8atv2ofJi6zHf9eDLnw=w133-h99",Videolina
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/videolina/videolina_live/videolina_live/playlist.m3u8
@@ -687,7 +777,7 @@ https://api.zappr.stream/7goldtelepadova.m3u8
 https://tvheadend-veneto1.zappr.stream/stream/channel/eff364928cea6ad79e63aee19b3440ab?profile=webtv-webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://telenordest.medianordest.it/wp-content/uploads/2020/09/TNELogo.png",Telenordest (Tvheadend)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-https://tvheadend-veneto1.zappr.stream/stream/channel/4485192e8f47dbddf67157881e0abf0d?profile=webtv-webtv-vp8-vorbis-webm
+https://tvheadend-veneto1.zappr.stream/stream/channel/4485192e8f47dbddf67157881e0abf0d?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/prDtNJK1/TV7.png",Tv7 Triveneta
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://tv7.zappr.stream/hls/triveneta.m3u8
@@ -724,6 +814,9 @@ https://soobeat.fluid.stream/Telecitta/livestream/playlist.m3u8?FLID=2&type=.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wyzPjmg/orler.png",Orler TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wyzPjmg/orler.png",Orler TV (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/3da7504f49852d8faeecc2acc0b1c44d?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j3DR1Zh/radio-padova.png",Radio Padova
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://58d921499d3d3.streamlock.net/RadioPadova/livestream/playlist.m3u8
@@ -733,6 +826,9 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/p
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7Cfw1Mn/rtl.png",RTL 102.5 (Tvheadend)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://tvheadend-veneto1.zappr.stream/stream/channel/8a11b6d76497de91d78aa118729d4d51?profile=webtv-vp8-vorbis-webm
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7Cfw1Mn/rtl.png",RTL 102.5 Social Tv
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S82929343/cAcsSu4Wecc5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QcPNgvC/freccia.png",Radio Freccia
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist.m3u8
@@ -754,6 +850,9 @@ https://streamcdnr3-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2l
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G287qyY0/rtl-caliente.png",RTL Caliente
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://streamcdnr4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G287qyY0/rtl-caliente.png",RTL Caliente (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/0dafd9deaccd4d3bce5437a8baab981a?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Phy2nSB/rtl-best.png",RTL Best
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8
@@ -796,6 +895,9 @@ https://viamotionhsi.netplus.ch/live/eds/videoitalia/browser-dash/videoitalia.mp
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FRPfjMTy/Radio-italia-live.png",Radio Italia Live
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://radioitalia-samsungitaly.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FRPfjMTy/Radio-italia-live.png",Radio Italia Live (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/83ba599bbc6b26193ceda2ca9e55e230?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mcVnvsn/m2o.png",m2o
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://streamcdnr16-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
@@ -823,6 +925,9 @@ https://585b674743bbb.streamlock.net/9020/9020/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHLR9Cp/alma-tv.png",Alma Tv
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHLR9Cp/alma-tv.png",Alma Tv (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/e464bc265c0e504a9f39cc964b5d997e?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7GjKyHf/Telenorba.png",Telenorba
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/telenorba/master.m3u8?start=now-320m
@@ -886,9 +991,15 @@ https://stream3.xdevel.com/video0s975758-1049/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.capitaladv.eu/wp-content/uploads/2020/07/LOGO-SPORTITALIA-PLUS-HD_2-1.png",Sportitalia
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://origin-001.streamup.eu/sportitalia/sihd_abr2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.capitaladv.eu/wp-content/uploads/2020/07/LOGO-SPORTITALIA-PLUS-HD_2-1.png",Sportitalia (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/a7c8fc8e1aea377a579feb9340109555?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GPtspH2/si-calcio.png",SI Solocalcio
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://origin-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GPtspH2/si-calcio.png",SI Solocalcio (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/0e71612227cbb2f1fc128862c9de0f71?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hPgGfsG7/Primavera-Tv.png",Primavera Tv
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://origin-001.streamup.eu/sportitalia/silive24_abr/playlist.m3u8
@@ -898,9 +1009,15 @@ https://jr7yvkmwda4v-hls-live.mariatvcdn.it/liveu/9aa7fdc4068e56587206b298b423cb
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/63CsfsDB/Plus-Tv-Motori.png",Plus Tv Motori
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tPsg2JrN/Plus-cinema.png",Plus Cinema
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://j78dpbnelq5r-hls-live.mariatvcdn.it/plus/50059bd08562eba8f09669ae8d37d28e.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W0t9d0h/aci-sport-tv.png",ACI Sport Tv
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W0t9d0h/aci-sport-tv.png",ACI Sport Tv (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/1048f4b53c44d9308976de98b0c612e3?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/img/videonovara.png",Videonovara
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://ed04.top-ix.org/avtvlive/videonovara/streaming/playlist.m3u8
@@ -913,6 +1030,9 @@ https://www.dailymotion.com/cdn/live/video/x91c8ww.m3u8?sec=D9OwEfHs-e7O6pQ-qlnR
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YbLS9xb/Class-Tv-Moda.png",Class Tv Moda
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://www.dailymotion.com/cdn/live/video/x98rt88.m3u8?sec=3FZxZQeceI08NWbQwAxAKdpdnH8gYPtFSg2hr2m8v11-0gQsz2FldP--C6DTACA-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YbLS9xb/Class-Tv-Moda.png",Class Tv Moda (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/6901268b86283c2091e55bb2c81aab0d?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGgKF8JL/Up-Tv.png",Up Tv
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://www.dailymotion.com/cdn/live/video/x8u05e4.m3u8?sec=WpDBDJZBHKQAodqf2F5qb0fV3dAaNSJgfJBlbrBTkh7fXvYiMXw-Cx78_Vu0hp8C
@@ -1069,12 +1189,18 @@ https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-dash/franceinfo.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wwch5st/France-24.png",France 24 Français
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wwch5st/France-24.png",France 24 Français (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/2e39f8e7b59d3ae43cac61ddbac96f93?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wwch5st/France-24.png",France 24 Arabic
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wwch5st/France-24.png",France 24 English
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wwch5st/France-24.png",France 24 English (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/7aaa6c326845e9c2e9f811cce3eeba4d?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wwch5st/France-24.png",France 24 FAST English
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8
@@ -1141,6 +1267,9 @@ https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-HLS8/canalpluscl
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/v8h332JR/canal.png",Canal+ en clair (mpd/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-dash/canalplusclair.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMRdMyGN/arte.png",arte FR (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/ab5c93903e2cee689582d808d23a6918?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMRdMyGN/arte.png",arte FR (m3u8/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
@@ -1150,6 +1279,9 @@ https://viamotionhsi.netplus.ch/live/eds/artehd/browser-dash/artehd.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G3TShxN6/tv5monde.png",TV5Monde Europe
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G3TShxN6/tv5monde.png",TV5Monde Europe (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/b4e4e071c98ef56a97a710cd468772f5?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G3TShxN6/tv5monde.png",TV5Monde Info
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
@@ -1167,69 +1299,75 @@ https://rtvelivestream.rtve.es/rtvesec/oca/irtve03_main_1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmnVFyxs/rtve-play.png",RTVE Play 4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://rtvelivestream.rtve.es/rtvesec/oca/irtve04_main_1080.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2S4yCNv/la1.png",La 1 (VPN)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-https://dghxc56urunop.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zabn6k211oedh/La1ES.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2S4yCNv/la1.png",La 1 (RTVE Play/VPN)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2S4yCNv/la1.png",La 1 Canarias (RTVE Play)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2S4yCNv/la1.png",La 1 (VPN)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://dghxc56urunop.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zabn6k211oedh/La1ES.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2S4yCNv/la1.png",La 1 Canarias (RTVE Play/VPN)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://ztnr.rtve.es/ztnr/5190066.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2S4yCNv/la1.png",La 1 Catalunya (RTVE Play)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2S4yCNv/la1.png",La 1 Catalunya (RTVE Play/VPN)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://ztnr.rtve.es/ztnr/3293681.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1bPL9pj/la2.png",La 2 (VPN)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-https://d1yebix5w29z3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-haqfba85d1gvv/La2ES.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1bPL9pj/la2.png",La 2 (RTVE Play/VPN)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1bPL9pj/la2.png",La 2 (VPN)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://d1yebix5w29z3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-haqfba85d1gvv/La2ES.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1bPL9pj/la2.png",La 2 Canarias (RTVE Play/VPN)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://ztnr.rtve.es/ztnr/5468585.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1bPL9pj/la2.png",La 2 Catalunya (RTVE Play/VPN)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://ztnr.rtve.es/ztnr/3987218.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BT3m5hj/24h.png",24h (VPN)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-https://dpcj1q84r586o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zkqd2yaveiqbt/24HES.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BT3m5hj/24h.png",24h (RTVE Play)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BT3m5hj/24h.png",24h (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/af7721f5e21d514045e7adeaaf167ce8?profile=webtv-vp8-vorbis-webm
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BT3m5hj/24h.png",24h (VPN)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://dpcj1q84r586o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zkqd2yaveiqbt/24HES.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BT3m5hj/24h.png",24h (m3u8/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BT3m5hj/24h.png",24h (mpd/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-dash/canal24horas.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S3mynr5/tdp.png",teledeporte (VPN)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-https://d3fmp7j43g13qo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sxmelty1ewzcw/TeledeporteES.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S3mynr5/tdp.png",teledeporte (RTVE Play/VPN)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://ztnr.rtve.es/ztnr/1712295.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gy3MfZw/clan.png",clan (VPN)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S3mynr5/tdp.png",teledeporte (VPN)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-https://d1wca51iywzyn1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e2jakfg63mh4b/ClanES.m3u8
+https://d3fmp7j43g13qo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sxmelty1ewzcw/TeledeporteES.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gy3MfZw/clan.png",clan (RTVE Play/VPN)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://ztnr.rtve.es/ztnr/5466990.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gy3MfZw/clan.png",clan (VPN)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://d1wca51iywzyn1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e2jakfg63mh4b/ClanES.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gy3MfZw/clan.png",clan Int (RTVE Play/VPN US)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XDjPzZV/tve.png",Tve Europa (VPN CH)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-https://siarlive.psce.pw/channel5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XDjPzZV/tve.png",Tve Europa (RTVE Play)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_1080.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XDjPzZV/tve.png",Tve Europa (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/cc84ae52ead0f6a6429ce1815582a123?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XDjPzZV/tve.png",Tve Europa (m3u8/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveinternacional.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XDjPzZV/tve.png",Tve Europa (mpd/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-dash/tveinternacional.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XDjPzZV/tve.png",Tve Europa (VPN CH)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://siarlive.psce.pw/channel5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XDjPzZV/tve.png",Tve America (RTVE Play/VPN US)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
@@ -1295,6 +1433,9 @@ https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/39jCGCBx/RTP-Mundo.png",RTP Mundo
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/39jCGCBx/RTP-Mundo.png",RTP Mundo (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/87839a4180316d784703b45621810700?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.ibb.co/39jCGCBx/RTP-Mundo.png",RTP Mundo (m3u8/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-HLS8/rtpi.m3u8
@@ -1471,6 +1612,9 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/i
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5Fjk94K/BBC-News.png",BBC News
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5Fjk94K/BBC-News.png",BBC News (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/d789f0ff047d0f9afc7b2023da6321ab?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5Fjk94K/BBC-News.png",BBC News (m3u8/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
@@ -1691,21 +1835,33 @@ https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfHBRxXk/TVP-Polonia.png",TVP Polonia (SK)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXBpQd7t/TVP-World.png",TVP Polonia (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/c1639d25f2c65ab05f2e430c9243eba3?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfHBRxXk/TVP-Polonia.png",TVP Polonia (m3u8/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://viamotionhsi.netplus.ch/live/eds/tvpolonia/browser-HLS8/tvpolonia.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfHBRxXk/TVP-Polonia.png",TVP Polonia (mpd/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://viamotionhsi.netplus.ch/live/eds/tvpolonia/browser-dash/tvpolonia.mpd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gknrQRZH/TVP-Info.png",TVP Info
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gknrQRZH/TVP-Info.png",TVP Info (SK)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXBpQd7t/TVP-World.png",TVP World
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gknrQRZH/TVP-Info.png",TVP Info (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/49dfe786bbaf17a69bc0c1cfcd3ed8f1?profile=webtv-vp8-vorbis-webm
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXBpQd7t/TVP-World.png",TVP World (SK)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/502Ftr65/4Fun-Tv.png",4Fun Tv
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/502Ftr65/4Fun-Tv.png",4Fun Tv (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/17d80a24c29f8807a1713068b1644d11?profile=webtv-vp8-vorbis-webm
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WWbNk0Z3/4fun-dance.png",4Fun Dance (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/ec67a853e18ff5b2c729d640e5a771a1?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1280px-Flag_of_Turkey.svg.png",=== TURCHIA ===
 https://github.com/Jackmick99/video-mp4/raw/refs/heads/main/TR.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kz3WJBCn/TRT-1.png",TRT 1
@@ -1720,6 +1876,9 @@ https://tv-trt3.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/761WFwPd/TRT-Turk.png",TRT Turk
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/761WFwPd/TRT-Turk.png",TRT Turk (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/e022b9bc662ba41d463de242b70f88d0?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/761WFwPd/TRT-Turk.png",TRT Turk (m3u8/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://viamotionhsi.netplus.ch/live/eds/trtturk/browser-HLS8/trtturk.m3u8
@@ -1740,6 +1899,9 @@ https://github.com/Jackmick99/video-mp4/raw/refs/heads/main/JP.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kc4FpHwr/NHK-World-Japan.png",NHK World Japan
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://nhk.lls.pbs.org/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kc4FpHwr/NHK-World-Japan.png",NHK World Japan (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/e231039a1d14f73fc76cc14267b08967?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kc4FpHwr/NHK-World-Japan.png",NHK World Japan (m3u8/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://viamotionhsi.netplus.ch/live/eds/nhk/browser-HLS8/nhk.m3u8
@@ -1748,6 +1910,9 @@ https://viamotionhsi.netplus.ch/live/eds/nhk/browser-HLS8/nhk.m3u8
 https://viamotionhsi.netplus.ch/live/eds/nhk/browser-dash/nhk.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/1280px-Flag_of_Bulgaria.svg.png",=== BULGARIA ===
 https://github.com/Jackmick99/video-mp4/raw/refs/heads/main/BU.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zVnNTd3d/BNT-4.png",BNT 4 - BNT World (Tvheadend)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-veneto1.zappr.stream/stream/channel/47d35401825762b128add1629dd23dc7?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zVnNTd3d/BNT-4.png",BNT 4 - BNT World (m3u8/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://viamotionhsi.netplus.ch/live/eds/bntworld/browser-HLS8/bntworld.m3u8
