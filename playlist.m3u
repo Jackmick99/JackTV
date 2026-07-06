@@ -9,7 +9,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&for
 https://tvheadend-veneto1.zappr.stream/stream/channel/b640b3bb55e707e75cc09d9f35463f72?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/330px-Rai_1_-_Logo_2016.svg.png",Rai 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
+https://d3k8wzt41aflvx.cloudfront.net/RAI1/Live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/330px-Rai_1_-_Logo_2016.svg.png",Rai 1 (m3u8/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
@@ -30,7 +30,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forc
 https://tvheadend-veneto1.zappr.stream/stream/channel/a091127ad83c054c56ad55da5791eb93?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/330px-Rai_2_-_Logo_2016.svg.png",Rai 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
+https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/330px-Rai_2_-_Logo_2016.svg.png",Rai 2 (m3u8/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8
@@ -45,7 +45,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forc
 https://tvheadend-veneto1.zappr.stream/stream/channel/b62f0571a3880929ec905aa9d08cf9e9?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/330px-Rai_3_-_Logo_2016.svg.png",Rai 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8
+https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/330px-Rai_3_-_Logo_2016.svg.png",Rai 3 (m3u8/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8
@@ -70,9 +70,9 @@ https://tgrmarche-live.akamaized.net/hls/live/2025567/tgrmarche/tgrmarche/playli
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/330px-Rai_3_-_Logo_2016.svg.png",Rai 3 Sardegna
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://tgrsardegna-live.akamaized.net/hls/live/2025572/tgrsardegna/tgrsardegna/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvmMQgtP/Rai-Italia.png",Rai Italia Sud Africa
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvmMQgtP/Rai-Italia.png",Rai Italia Europe/Africa
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
+https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvmMQgtP/Rai-Italia.png",Rai Italia Sud America
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
@@ -81,7 +81,7 @@ https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvmMQgtP/Rai-Italia.png",Rai Italia USA
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-https://ilglobotv-live.akamaized.net/channels/RAIItaliaUSA/Live.m3u8
+https://d3k8wzt41aflvx.cloudfront.net/RAIUSA/Live.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxHRBtjg/Rai-World-Premium.png",Rai World Premium
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
@@ -135,7 +135,7 @@ https://viamotionhsi.netplus.ch/live/eds/rete4/browser-HLS8/rete4.m3u8
 https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YqkN0yZk/Mediaset-Italia.png",Mediaset Italia
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
+https://d3k8wzt41aflvx.cloudfront.net/MediasetEU/Live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hRvf3dZ/20-mediaset.png",20 Mediaset (m3u8)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
@@ -305,7 +305,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forc
 https://tvheadend-veneto1.zappr.stream/stream/channel/b5a786820e0c1ea09ad269952cf56414?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C1c9S9G/Senza-titolo-1.png",Rai Scuola
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-https://ilglobotv-live.akamaized.net/channels/RAIScuola/Live.m3u8
+https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C1c9S9G/Senza-titolo-1.png",Rai Scuola (m3u8/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-HLS8/raiscuola.m3u8
@@ -320,7 +320,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forc
 https://tvheadend-veneto1.zappr.stream/stream/channel/545d5dc060accb46351c349fcbc84d4a?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VwnyBsw/Senza-titolo-4.png",Rai Storia
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-https://ilglobotv-live.akamaized.net/channels/RAIStoria/Live.m3u8
+https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VwnyBsw/Senza-titolo-4.png",Rai Storia (m3u8/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-HLS8/raistoria.m3u8
