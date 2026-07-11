@@ -61,7 +61,7 @@ https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/330px-Rai_3_-_Logo_2016.svg.png",Rai 3 Veneto
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://tgrveneto-live.akamaized.net/hls/live/2025578/tgrveneto/tgrveneto/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/330px-Rai_3_-_Logo_2016.svg.png",Rai 3 Veneto (Tvheadend)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/330px-Rai_3_-_Logo_2016.svg.png",Rai 3 Veneto (Tvheadend Veneto)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://tvheadend-veneto1.zappr.stream/stream/channel/5c494cc651019c41fc7ebbc2ab5ebe8f?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/330px-Rai_3_-_Logo_2016.svg.png",Rai 3 Marche
@@ -70,6 +70,9 @@ https://tgrmarche-live.akamaized.net/hls/live/2025567/tgrmarche/tgrmarche/playli
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/330px-Rai_3_-_Logo_2016.svg.png",Rai 3 Sardegna
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://tgrsardegna-live.akamaized.net/hls/live/2025572/tgrsardegna/tgrsardegna/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/330px-Rai_3_-_Logo_2016.svg.png",Rai 3 Sardegna (Tvheadend Sardegna)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-sardegna1.zappr.stream/stream/channel/4da306e72441ac0ad9d189c4a0e26811?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvmMQgtP/Rai-Italia.png",Rai Italia Europe/Africa
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8
@@ -730,27 +733,48 @@ https://tvheadend-veneto1.zappr.stream/stream/channel/90f269911f0373142c0b6c4bc0
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/B7lqVod5EFP_HOT6kF7W0g2z2xgCBenu5W9mE7z9V2YNLZb-aVMIjGDwwh1Z8atv2ofJi6zHf9eDLnw=w133-h99",Videolina
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://cdndirector.dailymotion.com/cdn/live/video/xa0aoxk.m3u8?sec=8BI5caa3NGMWxuTO5nxzZwtbtrlV6P7qgHcYlnf84Qbcm2FfTAJqW_xx-HlcL67nFvd0gIM6DnZ29defIF0nrA&dmV1st=d6c3be33-0a25-ebf3-0b6e-8e14c6b03183&dmTs=792520
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/B7lqVod5EFP_HOT6kF7W0g2z2xgCBenu5W9mE7z9V2YNLZb-aVMIjGDwwh1Z8atv2ofJi6zHf9eDLnw=w133-h99",Videolina (Tvheadend)
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/B7lqVod5EFP_HOT6kF7W0g2z2xgCBenu5W9mE7z9V2YNLZb-aVMIjGDwwh1Z8atv2ofJi6zHf9eDLnw=w133-h99",Videolina (Tvheadend Veneto)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://tvheadend-veneto1.zappr.stream/stream/channel/5e250e0928089ed3d09bf050d560292c?profile=webtv-vp8-vorbis-webm
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/B7lqVod5EFP_HOT6kF7W0g2z2xgCBenu5W9mE7z9V2YNLZb-aVMIjGDwwh1Z8atv2ofJi6zHf9eDLnw=w133-h99",Videolina (Tvheadend Sardegna)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-sardegna1.zappr.stream/stream/channel/68fdf1cc4852175220f9b20a96c60e98?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yqfydQD/Telesardegna.png",Telesardegna
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yqfydQD/Telesardegna.png",Telesardegna (Tvheadend)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yqfydQD/Telesardegna.png",Telesardegna (Tvheadend Veneto)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://tvheadend-veneto1.zappr.stream/stream/channel/efb914852ae0b2e0f867f85e13870d17?profile=webtv-vp8-vorbis-webm
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yqfydQD/Telesardegna.png",Telesardegna (Tvheadend Sardegna)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-sardegna1.zappr.stream/stream/channel/01de1fa40738edeaa8327de0ab8c2c9d?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5yr6cQPv/Sardegna-1.png",Sardegna 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://cdndirector.dailymotion.com/cdn/live/video/x893du6.m3u8?sec=Ve0Be20RKzGg6BpJe-hg5KWnP3uVnrzdWKv6UkJ3uJFNzXTVpQheGb5-jt69s2C1Je8J-UrAnKDS1q8ka67bfURSTp0MpcYo4qNR6N5rpJ0&dmTs=567748&dmV1st=8f048a75-94d9-27b6-bfc1-d13e6d082584
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5yr6cQPv/Sardegna-1.png",Sardegna 1 (Tvheadend Sardegna)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-sardegna1.zappr.stream/stream/channel/5dae10c6925613c76b26be9e8646b0e8?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fTPxs6Gm/Aristanis.png",Aristanis Tv
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://video2.azotosolutions.com:1936/supertvoristano/supertvoristano/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTPxs6Gm/Aristanis.png",Aristanis Tv (Tvheadend Sardegna)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-sardegna1.zappr.stream/stream/channel/c0168ea745fc3a5ffdb5ba734307af04?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xjt5XBFm/Tele-Costa-Smeralda.png",Tele Costa Smeralda
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://5bb65e9de3fdf.streamlock.net/live/TCS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjt5XBFm/Tele-Costa-Smeralda.png",Tele Costa Smeralda (Tvheadend Sardegna)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-sardegna1.zappr.stream/stream/channel/cf68db39687221b3f6f062267315376a?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/76STRjQ4/Uno4.png",Uno4 Tv
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://cdn.uno4.it/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76STRjQ4/Uno4.png",Uno4 Tv (Tvheadend Sardegna)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-sardegna1.zappr.stream/stream/channel/909c09eee127c73538385606fd29bab5?profile=webtv-vp8-vorbis-webm
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0XYHbTq/Teleregione-Live.png",Teleregione Live (Tvheadend Sardegna)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-sardegna1.zappr.stream/stream/channel/f2501f26b0b77ca81a6f56e424aa00e8?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tzfNPyV/Radio-Iglesias.png",Radio Iglesias
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8
