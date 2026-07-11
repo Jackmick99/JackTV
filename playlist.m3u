@@ -739,6 +739,9 @@ https://tvheadend-veneto1.zappr.stream/stream/channel/5e250e0928089ed3d09bf050d5
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/B7lqVod5EFP_HOT6kF7W0g2z2xgCBenu5W9mE7z9V2YNLZb-aVMIjGDwwh1Z8atv2ofJi6zHf9eDLnw=w133-h99",Videolina (Tvheadend Sardegna)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://tvheadend-sardegna1.zappr.stream/stream/channel/68fdf1cc4852175220f9b20a96c60e98?profile=webtv-vp8-vorbis-webm
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cK3b6bYk/l-unione-tv.png",L'Unione Tv (Tvheadend Sardegna)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-sardegna1.zappr.stream/stream/channel/0edd631052fd3fe9b543902101a517c7?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yqfydQD/Telesardegna.png",Telesardegna
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/playlist.m3u8
@@ -775,12 +778,24 @@ https://tvheadend-sardegna1.zappr.stream/stream/channel/909c09eee127c73538385606
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0XYHbTq/Teleregione-Live.png",Teleregione Live (Tvheadend Sardegna)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://tvheadend-sardegna1.zappr.stream/stream/channel/f2501f26b0b77ca81a6f56e424aa00e8?profile=webtv-vp8-vorbis-webm
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDydgqJY/Catalan-Tv.png",Catalan Tv (Tvheadend Sardegna)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-sardegna1.zappr.stream/stream/channel/d9899b68429e5753d2e91623eb797514?profile=webtv-vp8-vorbis-webm
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d43Rjn2x/TTS.png",TTS (Tvheadend Sardegna)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-sardegna1.zappr.stream/stream/channel/3e179532342ef83e6d8eba22cac73c67?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tzfNPyV/Radio-Iglesias.png",Radio Iglesias
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cKkXHD6/RTS.png",Radio Televisione Sarda
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://stream.ejatv.com/memfs/dff807e1-b3b2-49f5-92d6-5b178be4eb6d.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cKkXHD6/RTS.png",Radio Televisione Sarda (Tvheadend Sardegna)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-sardegna1.zappr.stream/stream/channel/ee070bc1ff26abffda9eddfbe3b1ae75?profile=webtv-vp8-vorbis-webm
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Xx7qLYr9/Radio-ondasarda.png",Radio Onda Sarda (Tvheadend Sardegna)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+https://tvheadend-sardegna1.zappr.stream/stream/channel/802fa40373619d017fa72f79e06a41ab?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qj4Vgn6/a3.png",A3 Nordest
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://59d7d6f47d7fc.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8
