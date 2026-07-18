@@ -9,7 +9,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&for
 https://tvheadend-veneto1.zappr.stream/stream/channel/b640b3bb55e707e75cc09d9f35463f72?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/330px-Rai_1_-_Logo_2016.svg.png",Rai 1 (Tvheadend Sardegna)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-https://tvheadend-sardegna1.zappr.stream/stream/channel/e793e689c1eac3415e96c3eefbac54de?profile=webtv-vp8-vorbis-webm
+https://tvheadend-sardegna1.zappr.stream/stream/channel/eccca0379f48e40480447fff1de54fa4?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/330px-Rai_1_-_Logo_2016.svg.png",Rai 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://d3k8wzt41aflvx.cloudfront.net/RAI1/Live.m3u8
@@ -1528,31 +1528,31 @@ https://rtvelivestream.rtve.es/rtvesec/oca/irtve03_main_1080.m3u8
 https://rtvelivestream.rtve.es/rtvesec/oca/irtve04_main_1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2S4yCNv/la1.png",La 1 (RTVE Play/VPN)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-https://ztnr.rtve.es/ztnr/1688877.m3u8
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2S4yCNv/la1.png",La 1 (VPN)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://dghxc56urunop.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zabn6k211oedh/La1ES.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2S4yCNv/la1.png",La 1 Canarias (RTVE Play/VPN)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-https://ztnr.rtve.es/ztnr/5190066.m3u8
+https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2S4yCNv/la1.png",La 1 Catalunya (RTVE Play/VPN)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-https://ztnr.rtve.es/ztnr/3293681.m3u8
+https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1bPL9pj/la2.png",La 2 (RTVE Play/VPN)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-https://ztnr.rtve.es/ztnr/1688885.m3u8
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1bPL9pj/la2.png",La 2 (VPN)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://d1yebix5w29z3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-haqfba85d1gvv/La2ES.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1bPL9pj/la2.png",La 2 Canarias (RTVE Play/VPN)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-https://ztnr.rtve.es/ztnr/5468585.m3u8
+https://rtvelivestream.rtve.es/rtvesec/can/la2_can_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1bPL9pj/la2.png",La 2 Catalunya (RTVE Play/VPN)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-https://ztnr.rtve.es/ztnr/3987218.m3u8
+https://rtvelivestream.rtve.es/rtvesec/cat/la2_cat_main_dvr_drm.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BT3m5hj/24h.png",24h (RTVE Play)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-https://ztnr.rtve.es/ztnr/1694255.m3u8
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BT3m5hj/24h.png",24h (Tvheadend Veneto)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://tvheadend-veneto1.zappr.stream/stream/channel/af7721f5e21d514045e7adeaaf167ce8?profile=webtv-vp8-vorbis-webm
@@ -1567,13 +1567,13 @@ https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.
 https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-dash/canal24horas.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S3mynr5/tdp.png",teledeporte (RTVE Play/VPN)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-https://ztnr.rtve.es/ztnr/1712295.m3u8
+https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S3mynr5/tdp.png",teledeporte (VPN)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://d3fmp7j43g13qo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sxmelty1ewzcw/TeledeporteES.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gy3MfZw/clan.png",clan (RTVE Play/VPN)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-https://ztnr.rtve.es/ztnr/5466990.m3u8
+https://rtvelivestream.rtve.es/rtvesec/clan/clan_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gy3MfZw/clan.png",clan (VPN)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://d1wca51iywzyn1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e2jakfg63mh4b/ClanES.m3u8
@@ -1603,7 +1603,7 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KcJRF9kL/Star-tve.png",Star tve (RTVE Play)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KcJRF9kL/Star-tve.png",Star tve (mpd/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 https://viamotionhsi.netplus.ch/live/eds/starhd/browser-dash/starhd.mpd
