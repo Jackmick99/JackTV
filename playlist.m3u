@@ -1529,9 +1529,6 @@ https://rtvelivestream.rtve.es/rtvesec/oca/irtve04_main_1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2S4yCNv/la1.png",La 1 (RTVE Play/VPN)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2S4yCNv/la1.png",La 1 (mpd)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
-https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2S4yCNv/la1.png",La 1 (VPN)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://dghxc56urunop.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zabn6k211oedh/La1ES.m3u8
