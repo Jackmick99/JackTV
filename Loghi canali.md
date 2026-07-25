@@ -193,6 +193,7 @@
 | Telesardegna | <img src="https://i.postimg.cc/2yqfydQD/Telesardegna.png" width="50"> |
 | Tennis Channel | <img src="https://i.ibb.co/LhDPPgLJ/Tennis-Channel.png" width="50"> |
 | Tf1 | <img src="https://i.ibb.co/zPymWWS/TF1.png" width="50"> |
+| Tfx | <img src="https://i.ibb.co/TxFQK8Sd/TFX.png" width="50"> |
 | Tmc | <img src="https://i.postimg.cc/d0FTBMHp/tmc.png" width="50"> |
 | Tnelogo | <img src="https://telenordest.medianordest.it/wp-content/uploads/2020/09/TNELogo.png" width="50"> |
 | TRT 1 | <img src="https://i.postimg.cc/Kz3WJBCn/TRT-1.png" width="50"> |
