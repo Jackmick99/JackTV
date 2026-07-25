@@ -1377,10 +1377,7 @@ https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8
 https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/330px-Flag_of_France.svg.png",=== FRANCIA ===
 https://github.com/Jackmick99/video-mp4/raw/refs/heads/main/FR.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xY7r7Z5/france-2.png",France 2 (1)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
-http://69.64.57.208/france2/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xY7r7Z5/france-2.png",France 2 (2)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xY7r7Z5/france-2.png",France 2 (VPN)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/france2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xY7r7Z5/france-2.png",France 2 (m3u8/VPN CH)
@@ -1389,16 +1386,19 @@ https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xY7r7Z5/france-2.png",France 2 (mpd/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7pyGqgP/france-3.png",France 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7pyGqgP/france-3.png",France 3 (VPN)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/france3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7pyGqgP/france-3.png",France 3 Normandie (VPN)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-basse-normandie.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7pyGqgP/france-3.png",France 3 (m3u8/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7pyGqgP/france-3.png",France 3 (mpd/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-dash/france3hd.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nMLV8ck/france-4.png",France 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nMLV8ck/france-4.png",France 4 (VPN)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nMLV8ck/france-4.png",France 4 (m3u8/VPN CH)
@@ -1407,10 +1407,7 @@ https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nMLV8ck/france-4.png",France 4 (mpd/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YyXqT1J/france-5.png",France 5 (1)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
-http://69.64.57.208/france5/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YyXqT1J/france-5.png",France 5 (2)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YyXqT1J/france-5.png",France 5 (VPN)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/france5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YyXqT1J/france-5.png",France 5 (m3u8/VPN CH)
@@ -1467,10 +1464,10 @@ https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HkWbhpCd/bfm-tv.png",BFM Tv (mpd/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-dash/bfmtv.mpd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgBqv5tp/CNews.png",CNews (1)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgBqv5tp/CNews.png",CNews
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgBqv5tp/CNews.png",CNews (2)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgBqv5tp/CNews.png",CNews (VPN)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-clair-hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgBqv5tp/CNews.png",CNews (m3u8/VPN CH)
@@ -1481,7 +1478,7 @@ https://viamotionhsi.netplus.ch/live/eds/itele/browser-HLS8/itele.m3u8
 https://viamotionhsi.netplus.ch/live/eds/itele/browser-dash/itele.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zPymWWS/TF1.png",TF1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/bsrG4EL00qGa/YlMJ1mlT5T6plMeo.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/jho49YyR0h9A/4nfX0Muaq6At7wp8.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zPymWWS/TF1.png",TF1 (m3u8/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
@@ -1512,7 +1509,7 @@ https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
 https://viamotionhsi.netplus.ch/live/eds/w9/browser-dash/w9.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d0FTBMHp/tmc.png",TMC
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/bsrG4EL00qGa/8jw5E6EiKd3D3.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/jho49YyR0h9A/6gDojqekZWqaVSNQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d0FTBMHp/tmc.png",TMC (m3u8/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
@@ -1521,25 +1518,28 @@ https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
 https://viamotionhsi.netplus.ch/live/eds/tmc/browser-dash/tmc.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TxFQK8Sd/TFX.png",TFX
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/bsrG4EL00qGa/ChOcIBrKPvVNotxe.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/jho49YyR0h9A/qsmHA5p7E9igwds.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQrXNW7q/mtv.png",MTV France (m3u8/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQrXNW7q/mtv.png",MTV France (mpd/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-dash/mtvfrance.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8h332JR/canal.png",Canal+ en clair (VPN)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/canalplusclair-hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/v8h332JR/canal.png",Canal+ en clair (m3u8/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-HLS8/canalplusclair.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/v8h332JR/canal.png",Canal+ en clair (mpd/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-dash/canalplusclair.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMRdMyGN/arte.png",arte FR (VPN)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/arte.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMRdMyGN/arte.png",arte FR (Tvheadend Veneto)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-veneto1.zappr.stream/stream/channel/ab5c93903e2cee689582d808d23a6918?profile=webtv-vp8-vorbis-webm
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bMRdMyGN/arte.png",arte FR
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/arte.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMRdMyGN/arte.png",arte FR (m3u8/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
