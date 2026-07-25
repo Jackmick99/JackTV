@@ -850,9 +850,6 @@ https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xC5vPZdK/Camera-dei-Deputati.png",Camera dei Deputati (Tvheadend Veneto)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-veneto1.zappr.stream/stream/channel/90f269911f0373142c0b6c4bc04ad958?profile=webtv-vp8-vorbis-webm
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/B7lqVod5EFP_HOT6kF7W0g2z2xgCBenu5W9mE7z9V2YNLZb-aVMIjGDwwh1Z8atv2ofJi6zHf9eDLnw=w133-h99",Videolina
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
-https://cdndirector.dailymotion.com/cdn/live/video/xa0aoxk.m3u8?sec=8BI5caa3NGMWxuTO5nxzZwtbtrlV6P7qgHcYlnf84Qbcm2FfTAJqW_xx-HlcL67nFvd0gIM6DnZ29defIF0nrA&dmV1st=d6c3be33-0a25-ebf3-0b6e-8e14c6b03183&dmTs=792520
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/B7lqVod5EFP_HOT6kF7W0g2z2xgCBenu5W9mE7z9V2YNLZb-aVMIjGDwwh1Z8atv2ofJi6zHf9eDLnw=w133-h99",Videolina (Tvheadend Veneto)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-veneto1.zappr.stream/stream/channel/5e250e0928089ed3d09bf050d560292c?profile=webtv-vp8-vorbis-webm
