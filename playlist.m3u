@@ -868,9 +868,6 @@ https://tvheadend-veneto1.zappr.stream/stream/channel/efb914852ae0b2e0f867f85e13
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yqfydQD/Telesardegna.png",Telesardegna (Tvheadend Sardegna)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-sardegna1.zappr.stream/stream/channel/01de1fa40738edeaa8327de0ab8c2c9d?profile=webtv-vp8-vorbis-webm
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5yr6cQPv/Sardegna-1.png",Sardegna 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
-https://cdndirector.dailymotion.com/cdn/live/video/x893du6.m3u8?sec=Ve0Be20RKzGg6BpJe-hg5KWnP3uVnrzdWKv6UkJ3uJFNzXTVpQheGb5-jt69s2C1Je8J-UrAnKDS1q8ka67bfURSTp0MpcYo4qNR6N5rpJ0&dmTs=567748&dmV1st=8f048a75-94d9-27b6-bfc1-d13e6d082584
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5yr6cQPv/Sardegna-1.png",Sardegna 1 (Tvheadend Sardegna)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-sardegna1.zappr.stream/stream/channel/5dae10c6925613c76b26be9e8646b0e8?profile=webtv-vp8-vorbis-webm
