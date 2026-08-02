@@ -82,12 +82,21 @@ https://tgrsardegna-live.akamaized.net/hls/live/2025572/tgrsardegna/tgrsardegna/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/330px-Rai_3_-_Logo_2016.svg.png",Rai 3 Sardegna (Tvheadend Sardegna)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-sardegna1.zappr.stream/stream/channel/4da306e72441ac0ad9d189c4a0e26811?profile=webtv-vp8-vorbis-webm
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvmMQgtP/Rai-Italia.png",Rai Italia Europe/Africa
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvmMQgtP/Rai-Italia.png",Rai Italia Europa e Africa
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvmMQgtP/Rai-Italia.png",Rai Italia USA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvmMQgtP/Rai-Italia.png",Rai Italia Nord America
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://d3k8wzt41aflvx.cloudfront.net/RAIUSA/Live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvmMQgtP/Rai-Italia.png",Rai Italia Sud America
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+https://d3k8wzt41aflvx.cloudfront.net/RAISA/Live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvmMQgtP/Rai-Italia.png",Rai Italia Asia e Australia
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxHRBtjg/Rai-World-Premium.png",Rai World Premium
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HNf5Zrc/rtv-sanmarino.png",RTV San Marino (Tvheadend Veneto)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-veneto1.zappr.stream/stream/channel/87f4f74b20d45931d6a071e5672c792e?profile=webtv-vp8-vorbis-webm
@@ -145,9 +154,15 @@ https://viamotionhsi.netplus.ch/live/eds/rete4/browser-HLS8/rete4.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.one.accedo.tv/files/5b9940daa6f547000c07c39e",Rete 4 (mpd/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqkN0yZk/Mediaset-Italia.png",Mediaset Italia
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqkN0yZk/Mediaset-Italia.png",Mediaset Italia Australia
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+https://d3k8wzt41aflvx.cloudfront.net/Mediaset_AU/Live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqkN0yZk/Mediaset-Italia.png",Mediaset Italia Europa
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://d3k8wzt41aflvx.cloudfront.net/MediasetEU/Live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqkN0yZk/Mediaset-Italia.png",Mediaset Italia America
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+https://d3k8wzt41aflvx.cloudfront.net/MediasetUSA/Live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hRvf3dZ/20-mediaset.png",20 Mediaset (m3u8)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
@@ -294,6 +309,9 @@ https://tvheadend-veneto1.zappr.stream/stream/channel/0cf59b9d43db424395709bd20e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DD0HcTV/Senza-titolo-3.png",Rai News 24 (Tvheadend Sardegna)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-sardegna1.zappr.stream/stream/channel/22c9cf9281c1eeacbba950a3937ca364?profile=webtv-vp8-vorbis-webm
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DD0HcTV/Senza-titolo-3.png",Rai News 24
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DD0HcTV/Senza-titolo-3.png",Rai News 24 (Samsung Tv)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://jmp2.uk/stvp-IT3200004WU
@@ -384,6 +402,9 @@ https://stream6-rai-it.akamaized.net/live/uninettuno/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnmRsYWN/Uninettuno-Tv.png",Uninettuno University Tv (Tvheadend Veneto)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-veneto1.zappr.stream/stream/channel/6ede4d70f55bf071fd4a477e0b9541ac?profile=webtv-vp8-vorbis-webm
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpZ75x22/Inter-Tv.png",Inter Tv
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3Ncnmx0w/Inter-24-7.png",Inter 24/7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://jmp2.uk/stvp-IT3100001FT
@@ -594,6 +615,9 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gP1v3Mm/Senza-titolo-4.png",Tgcom24 (mpd)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gP1v3Mm/Senza-titolo-4.png",Tgcom24
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+https://d3k8wzt41aflvx.cloudfront.net/TGCOM24/Live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gP1v3Mm/Senza-titolo-4.png",Tgcom24 (Tvheadend Veneto)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-veneto1.zappr.stream/stream/channel/e4a46912e656296975c11cdd766712b1?profile=webtv-vp8-vorbis-webm
@@ -666,6 +690,18 @@ https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pyxPLcj/Senza-titolo-2.png",RMC (mpd)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mB9fByw/radionorba.png",Radio Norba (m3u8)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+https://live02-seg.msr.cdn.mediaset.net/live/ch-u4/u4-clr.isml/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mB9fByw/radionorba.png",Radio Norba (mpd)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+https://live03-col.msr.cdn.mediaset.net/live/ch-u4/u4-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mB9fByw/radionorba.png",Radio Norba
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+https://stream12.xdevel.com/video0s975885-2349/stream/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mB9fByw/radionorba.png",Radio Norba (Tvheadend Veneto)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+https://tvheadend-veneto1.zappr.stream/stream/channel/6365a64e44e0f9c1a8460557d32f3cd7?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFCshzPg/Real-Time.png",Real Time
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1128,13 +1164,7 @@ https://tvheadend-veneto1.zappr.stream/stream/channel/e464bc265c0e504a9f39cc964b
 https://tvheadend-sardegna1.zappr.stream/stream/channel/82f5814d4b2e1ebe9dbc6335652e06fc?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7GjKyHf/Telenorba.png",Telenorba
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
-https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/telenorba/master.m3u8?start=now-320m
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mB9fByw/radionorba.png",Radio Norba
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
-https://stream12.xdevel.com/video0s975885-2349/stream/playlist_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mB9fByw/radionorba.png",Radio Norba (Tvheadend Veneto)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
-https://tvheadend-veneto1.zappr.stream/stream/channel/6365a64e44e0f9c1a8460557d32f3cd7?profile=webtv-vp8-vorbis-webm
+https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/telenorba/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bf3k9SY/tgnorba.png",Tg Norba 24
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8?start=now-1h&end=now
