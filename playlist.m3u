@@ -1318,6 +1318,9 @@ https://58d921499d3d3.streamlock.net/RPZ/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b7v4NGw/bloomberg.png",Bloomberg
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1,TRM H24
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+https://jackmick99.github.io/youtube-m3u/youtube.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/1280px-Flag_of_Slovenia.svg.png",=== SLOVENIA ===
 https://github.com/Jackmick99/video-mp4/raw/refs/heads/main/SL.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Q3g96K52/TV-SLO-1.png",TV SLO 1 (SK)
