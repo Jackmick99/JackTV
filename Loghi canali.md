@@ -196,6 +196,7 @@
 | Tfx | <img src="https://i.ibb.co/TxFQK8Sd/TFX.png" width="50"> |
 | Tmc | <img src="https://i.postimg.cc/d0FTBMHp/tmc.png" width="50"> |
 | Tnelogo | <img src="https://telenordest.medianordest.it/wp-content/uploads/2020/09/TNELogo.png" width="50"> |
+| TRM H24 | <img src="https://i.ibb.co/LDT8qd5K/TRM-h24.png" width="50"> |
 | TRT 1 | <img src="https://i.postimg.cc/Kz3WJBCn/TRT-1.png" width="50"> |
 | TRT 2 | <img src="https://i.postimg.cc/tR262wt4/TRT-2.png" width="50"> |
 | TRT 3 | <img src="https://i.postimg.cc/Jhrm66QX/TRT-3.png" width="50"> |
