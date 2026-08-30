@@ -886,12 +886,21 @@ https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xC5vPZdK/Camera-dei-Deputati.png",Camera dei Deputati (Tvheadend Veneto)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-veneto1.zappr.stream/stream/channel/90f269911f0373142c0b6c4bc04ad958?profile=webtv-vp8-vorbis-webm
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/B7lqVod5EFP_HOT6kF7W0g2z2xgCBenu5W9mE7z9V2YNLZb-aVMIjGDwwh1Z8atv2ofJi6zHf9eDLnw=w133-h99",Videolina
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+https://cdndirector.dailymotion.com/cdn/live/video/xa0aoxk.m3u8?sec=8wMfDelKJyODpN4BIgrE_NMFnJLe1-iAAoJRNhYBLkRDgOLUzGRBILTILPXHHob-PnuecTc_pWNTk3OsbcNNFJirbAewp6uT5XZBv2RFDTA
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/B7lqVod5EFP_HOT6kF7W0g2z2xgCBenu5W9mE7z9V2YNLZb-aVMIjGDwwh1Z8atv2ofJi6zHf9eDLnw=w133-h99",Videolina (Tvheadend Veneto)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-veneto1.zappr.stream/stream/channel/5e250e0928089ed3d09bf050d560292c?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/B7lqVod5EFP_HOT6kF7W0g2z2xgCBenu5W9mE7z9V2YNLZb-aVMIjGDwwh1Z8atv2ofJi6zHf9eDLnw=w133-h99",Videolina (Tvheadend Sardegna)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-sardegna1.zappr.stream/stream/channel/68fdf1cc4852175220f9b20a96c60e98?profile=webtv-vp8-vorbis-webm
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F8HYMMd/radiolina.png",Radiolina
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+https://www.dailymotion.com/cdn/live/video/xabr7s8.m3u8?sec=lMSbsEHzlhTJrjBpIEBjYX2S73zYvAaQeDRLdjWHmDUCdG7sEWuRBuIo-JjwGYGcdyqQZR6o4vePNTp6fOn3DhpxsNgd0GEb9SBEVV54YXc
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cK3b6bYk/l-unione-tv.png",L'Unione Tv
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+https://cdndirector.dailymotion.com/cdn/live/video/xabqoj4.m3u8?sec=cGbGtu8gqEoBpYWpRRIG-1TqY_BlNGZDutHOd8VKW8Nc2-L-x_bObt9CJzR3wVApJSPw0v7s1wM0K6-4I9qGKFP-cqB8NCH8yjJje_k_lNzoyle1eDQnppUmU87NkB7r
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cK3b6bYk/l-unione-tv.png",L'Unione Tv (Tvheadend Sardegna)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-sardegna1.zappr.stream/stream/channel/0edd631052fd3fe9b543902101a517c7?profile=webtv-vp8-vorbis-webm
@@ -904,6 +913,9 @@ https://tvheadend-veneto1.zappr.stream/stream/channel/efb914852ae0b2e0f867f85e13
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yqfydQD/Telesardegna.png",Telesardegna (Tvheadend Sardegna)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-sardegna1.zappr.stream/stream/channel/01de1fa40738edeaa8327de0ab8c2c9d?profile=webtv-vp8-vorbis-webm
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5yr6cQPv/Sardegna-1.png",Sardegna 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+https://www.dailymotion.com/cdn/live/video/x893du6.m3u8?sec=pjfoUOGcQglIKuRKOvPHjH0l3f9Jf9FNfyOTTU93sJCGSV9aNQS5p-k0MVbv3e3h
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5yr6cQPv/Sardegna-1.png",Sardegna 1 (Tvheadend Sardegna)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-sardegna1.zappr.stream/stream/channel/5dae10c6925613c76b26be9e8646b0e8?profile=webtv-vp8-vorbis-webm
