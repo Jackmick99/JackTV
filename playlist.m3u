@@ -217,23 +217,26 @@ https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z82BjgM/Senza-titolo-1.png",Tv8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556&CMCD=cid%3D1%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22d08319ef-c1cf-4c62-aeaa-114fe98a7af0%22%2Csu
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Z82BjgM/Senza-titolo-1.png",Tv8 (Tvheadend Veneto)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
-https://tvheadend-veneto1.zappr.stream/stream/channel/f2771f9ea41e4e41b981c9ee9d05deb4?profile=webtv-webtv-vp8-vorbis-webm
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Z82BjgM/Senza-titolo-1.png",Tv8 (Tvheadend Sardegna)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
-https://tvheadend-sardegna1.zappr.stream/stream/channel/d6d47f8d1743b165ecfc1102081ebc2b?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z82BjgM/Senza-titolo-1.png",Tv8 (mpd)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3bf1cd65e85c4f6ab2f2ee9ac8403b9b:9142f7e62d011a8793e9b15ed36d7b7f
 #KODIPROP:inputstream.adaptive.license_key=f867332c642e3d7497970d55f0334c3b:6111dda68d5eb9e29ef5fab147e31149
 https://wp5-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09318/stb-dash-fhd-avc/SV09318.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z82BjgM/Senza-titolo-1.png",Tv8 (Tvheadend Veneto)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+https://tvheadend-veneto1.zappr.stream/stream/channel/f2771f9ea41e4e41b981c9ee9d05deb4?profile=webtv-webtv-vp8-vorbis-webm
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z82BjgM/Senza-titolo-1.png",Tv8 (Tvheadend Sardegna)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+https://tvheadend-sardegna1.zappr.stream/stream/channel/d6d47f8d1743b165ecfc1102081ebc2b?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GhwgK25p/Nove.png",Nove
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GhwgK25p/Nove.png",Nove (mpd)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=68b6ba1e6373339b9b2e8ed930f7e3ee:ddbeebe1601da5a71e82c3eeeaaddf7b
-https://pb-o0zu14lv7kvp9.akamaized.net/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key=e0e63271f18f3a8b84b0a5d5bbf4c685:40fe6c26be09e5678fb729a9ab69b336
+https://wp8-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09472/stb-dash-fhd-avc/SV09472.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GhwgK25p/Nove.png",Nove (Tvheadend Veneto)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-veneto1.zappr.stream/stream/channel/f405d00689875f53bcc34314ca0c4688?profile=webtv-vp8-vorbis-webm
@@ -704,9 +707,13 @@ https://stream12.xdevel.com/video0s975885-2349/stream/playlist_dvr.m3u8
 https://tvheadend-veneto1.zappr.stream/stream/channel/6365a64e44e0f9c1a8460557d32f3cd7?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFCshzPg/Real-Time.png",Real Time
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFCshzPg/Real-Time.png",Real Time (mpd)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=64144d4fd45734f8b196d157a983aa51:e6e0b229e3eb3b180b5a95bb799d8fae
-https://d1677shmrj0dei.cloudfront.net/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key=75453fa7322f4b8b81b285529b726e63:ca79bd265be6ac7315555aa1bbea6afe
+#KODIPROP:inputstream.adaptive.license_key=60eb8ddba7113915914b865662fecbdb:8aca6eddd0a280f39ddc75372be2afd9
+https://wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09319/stb-dash-fhd-avc/SV09319.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFCshzPg/Real-Time.png",Real Time (Tvheadend Veneto)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-veneto1.zappr.stream/stream/channel/f3c495fbcc67396cb2934b506e8fbe8e?profile=webtv-vp8-vorbis-webm
@@ -715,9 +722,13 @@ https://tvheadend-veneto1.zappr.stream/stream/channel/f3c495fbcc67396cb2934b506e
 https://tvheadend-sardegna1.zappr.stream/stream/channel/ac66880aff741999f97c48efe4f6cbfb?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4Q01b6K/DMAX.png",DMAX
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4Q01b6K/DMAX.png",DMAX (mpd)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=440f4a195636310bb77323685cffb487:7f6b97804e5ad4d41537f8db33bfbb57
-https://pb-lkmzny7qo98vp.akamaized.net/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key=3b465d3a53b34fac81e251630e9ad884:adc4f9d5df8902fd02bb5faab013e441
+#KODIPROP:inputstream.adaptive.license_key=8ba07052b5753f2d89b28cf0fc80b3be:49cb3531f6e693d759eb28c4e5524ca5
+https://wp8-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09713/stb-dash-fhd-avc/SV09713.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4Q01b6K/DMAX.png",DMAX (Tvheadend Veneto)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-veneto1.zappr.stream/stream/channel/5ef9ee214743f7c9da080e1a1c3b68e6?profile=webtv-vp8-vorbis-webm
@@ -732,9 +743,7 @@ https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-HLS8/dmaxitalia.m3u8
 https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QRYzc0c/Discovery.png",Discovery
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d86dca52a4ea3b48abfc3465f5a8f598:44d14af16a29ac4e6752cae7a3b80de1
-https://pb-n9406rwl5wx1t.akamaized.net/index.m3u8
+https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QRYzc0c/Discovery.png",Discovery (Tvheadend Veneto)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-veneto1.zappr.stream/stream/channel/e02bda63ab79e97cfc8793560f45cdad?profile=webtv-vp8-vorbis-webm
@@ -743,9 +752,13 @@ https://tvheadend-veneto1.zappr.stream/stream/channel/e02bda63ab79e97cfc8793560f
 https://tvheadend-sardegna1.zappr.stream/stream/channel/5399bf10ba434eb3f92ddf5aceee8433?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn6hQwYr/Giallo.png",Giallo
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn6hQwYr/Giallo.png",Giallo (mpd)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=85859c74205a3deba0ff4dea73c30668:bdcef65a02400fabc1c5094df116d04a
-https://pb-vi6d4mucmrwpo.akamaized.net/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key=4b1d0a37600d45c993c6adac0347b937:77c319eae6bc48b9ce3b72925ca03c95
+#KODIPROP:inputstream.adaptive.license_key=0e4d0798030535ef8a79befcce66e6da:76b084ba52e9fac968bdbbf6c0055a97
+https://wp6-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09717/stb-dash-fhd-avc/SV09717.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn6hQwYr/Giallo.png",Giallo (Tvheadend Veneto)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-veneto1.zappr.stream/stream/channel/305be2ce517f48d2517750a932bde7cc?profile=webtv-vp8-vorbis-webm
@@ -754,17 +767,24 @@ https://tvheadend-veneto1.zappr.stream/stream/channel/305be2ce517f48d2517750a932
 https://tvheadend-sardegna1.zappr.stream/stream/channel/06dc5259286149803c0dade15c75f3e5?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SsTRqRnF/HGTV.png",HGTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsTRqRnF/HGTV.png",HGTV (mpd)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f16b82552b7339ff831af7b7c6f0083c:2f9dc2c68113fe16c03b853ef5a3269c
-https://pb-06u3v3mpztvam.akamaized.net/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key=43c2773288314525ad6841356e9a5a21:3b771dcd654e7b9f3bb62a7e24f6b733
+#KODIPROP:inputstream.adaptive.license_key=79f9fbec515b34d084bf6052052450bb:bdd07074aa17ab44aad8ae57f9e5d1dc
+https://wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09718/stb-dash-fhd-avc/SV09718.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SsTRqRnF/HGTV.png",HGTV (Tvheadend Veneto)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-veneto1.zappr.stream/stream/channel/dfb3ee3c322e14d1d9cf7fead4f40ad7?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwqb4km0/foodnetwork.png",Food Network
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwqb4km0/foodnetwork.png",Food Network (mpd)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5c79e43baeab341ea7f0bcb88800315b:b699bf3b417d1ea211cd3e421bb97f94
-https://pb-ikxuqadisnhot.akamaized.net/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key=e43d248c30253fcfa685f39f5ef55d46:04a6997c575b4da1bac97d5aaa8b3c77
+https://wp7-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09716/stb-dash-fhd-avc/SV09716.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwqb4km0/foodnetwork.png",Food Network (Tvheadend Veneto)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-veneto1.zappr.stream/stream/channel/336c104a8ea9eb87d45845417b1eda54?profile=webtv-vp8-vorbis-webm
@@ -773,9 +793,13 @@ https://tvheadend-veneto1.zappr.stream/stream/channel/336c104a8ea9eb87d45845417b
 https://tvheadend-sardegna1.zappr.stream/stream/channel/138764a8580b9a60e5c446a8a740b4ba?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rs9SQPFn/Discovery-Turbo.png",Discovery Turbo
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rs9SQPFn/Discovery-Turbo.png",Discovery Turbo (mpd)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b1f533e2ee35459e9be2d0ef1e2b61ab:749bd263e98796fbaf739088862de387
-https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(motortrendhd)/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=36460e92425142c6a6475bf26f64d5a6:75de59e293344edd37ae6c751b4510e7
+#KODIPROP:inputstream.adaptive.license_key=8ae33e0dae5f3acc829fe836c00f742c:012f880eac652b563637b4c96989fd84
+https://wp7-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09723/stb-dash-fhd-avc/SV09723.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rs9SQPFn/Discovery-Turbo.png",Discovery Turbo (Tvheadend Veneto)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-veneto1.zappr.stream/stream/channel/c593ef858055440c26f6e9e073ebb691?profile=webtv-vp8-vorbis-webm
