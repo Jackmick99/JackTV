@@ -97,7 +97,7 @@ https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxHRBtjg/Rai-World-Premium.png",Rai World Premium
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
-#EXTINF:-1 tvg-id="SanMarinoRTV.sm" tvg-logo="https://i.ibb.co/HNf5Zrc/rtv-sanmarino.png",RTV San Marino (Tvheadend Veneto)
+#EXTINF:-1 tvg-id="San.Marino.RTV.it" tvg-logo="https://i.ibb.co/HNf5Zrc/rtv-sanmarino.png",RTV San Marino (Tvheadend Veneto)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-veneto1.zappr.stream/stream/channel/87f4f74b20d45931d6a071e5672c792e?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-id="Canale.5.it" tvg-logo="https://i.ibb.co/7JYLQkN/Senza-titolo-2.png",Canale 5 (m3u8)
