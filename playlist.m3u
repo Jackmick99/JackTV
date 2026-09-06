@@ -4,25 +4,25 @@ https://github.com/Jackmick99/video-mp4/raw/refs/heads/main/IT.mp4
 #EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/330px-Rai_1_-_Logo_2016.svg.png",Rai 1 (Rai Play)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-id="Rai1.it"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/330px-Rai_1_-_Logo_2016.svg.png",Rai 1 (Tvheadend Veneto)
+#EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/330px-Rai_1_-_Logo_2016.svg.png",Rai 1 (Tvheadend Veneto)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-veneto1.zappr.stream/stream/channel/b640b3bb55e707e75cc09d9f35463f72?profile=webtv-vp8-vorbis-webm
-#EXTINF:-1 tvg-id="Rai1.it"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/330px-Rai_1_-_Logo_2016.svg.png",Rai 1 (Tvheadend Sardegna)
+#EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/330px-Rai_1_-_Logo_2016.svg.png",Rai 1 (Tvheadend Sardegna)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-sardegna1.zappr.stream/stream/channel/eccca0379f48e40480447fff1de54fa4?profile=webtv-vp8-vorbis-webm
-#EXTINF:-1 tvg-id="Rai1.it"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/330px-Rai_1_-_Logo_2016.svg.png",Rai 1
+#EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/330px-Rai_1_-_Logo_2016.svg.png",Rai 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://d3k8wzt41aflvx.cloudfront.net/RAI1/Live.m3u8
-#EXTINF:-1 tvg-id="Rai1.it"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/330px-Rai_1_-_Logo_2016.svg.png",Rai 1 (m3u8/VPN CH)
+#EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/330px-Rai_1_-_Logo_2016.svg.png",Rai 1 (m3u8/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
-#EXTINF:-1 tvg-id="Rai1.it"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/330px-Rai_1_-_Logo_2016.svg.png",Rai 1 (mpd/VPN CH)
+#EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/330px-Rai_1_-_Logo_2016.svg.png",Rai 1 (mpd/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
-#EXTINF:-1 tvg-id="Rai1.it"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/330px-Rai_1_-_Logo_2016.svg.png",Rai 1 (SK)
+#EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/330px-Rai_1_-_Logo_2016.svg.png",Rai 1 (SK)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://dash4.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="Rai4K.it" tvg-logo="https://i.ibb.co/NsrDW8b/rai-4k.png",Rai 4k
+#EXTINF:-1 tvg-id="Rai4K.it" tvg-name="Rai 4k" tvg-logo="https://i.ibb.co/NsrDW8b/rai-4k.png",Rai 4k
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:-1 tvg-id="Rai2.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/330px-Rai_2_-_Logo_2016.svg.png",Rai 2 (Rai Play)
@@ -97,7 +97,7 @@ https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxHRBtjg/Rai-World-Premium.png",Rai World Premium
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
-#EXTINF:-1 tvg-id="San.Marino.RTV.it" tvg-logo="https://i.ibb.co/HNf5Zrc/rtv-sanmarino.png",RTV San Marino (Tvheadend Veneto)
+#EXTINF:-1 tvg-id="SanMarinoRTV.sm" tvg-logo="https://i.ibb.co/HNf5Zrc/rtv-sanmarino.png",RTV San Marino (Tvheadend Veneto)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-veneto1.zappr.stream/stream/channel/87f4f74b20d45931d6a071e5672c792e?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-id="Canale.5.it" tvg-logo="https://i.ibb.co/7JYLQkN/Senza-titolo-2.png",Canale 5 (m3u8)
