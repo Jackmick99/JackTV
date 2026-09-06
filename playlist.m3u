@@ -231,7 +231,7 @@ https://tvheadend-veneto1.zappr.stream/stream/channel/f2771f9ea41e4e41b981c9ee9d
 https://tvheadend-sardegna1.zappr.stream/stream/channel/d6d47f8d1743b165ecfc1102081ebc2b?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-id="Nove.it" tvg-logo="https://i.postimg.cc/GhwgK25p/Nove.png",Nove
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
-https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="Nove.it" tvg-logo="https://i.postimg.cc/GhwgK25p/Nove.png",Nove (mpd)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -707,7 +707,7 @@ https://stream12.xdevel.com/video0s975885-2349/stream/playlist_dvr.m3u8
 https://tvheadend-veneto1.zappr.stream/stream/channel/6365a64e44e0f9c1a8460557d32f3cd7?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-id="Real.Time.it" tvg-logo="https://i.postimg.cc/NFCshzPg/Real-Time.png",Real Time
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
-https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="Real.Time.it" tvg-logo="https://i.postimg.cc/NFCshzPg/Real-Time.png",Real Time (mpd)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -722,7 +722,7 @@ https://tvheadend-veneto1.zappr.stream/stream/channel/f3c495fbcc67396cb2934b506e
 https://tvheadend-sardegna1.zappr.stream/stream/channel/ac66880aff741999f97c48efe4f6cbfb?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-id="DMAX.it" tvg-logo="https://i.postimg.cc/t4Q01b6K/DMAX.png",DMAX
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
-https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="DMAX.it" tvg-logo="https://i.postimg.cc/t4Q01b6K/DMAX.png",DMAX (mpd)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -743,7 +743,7 @@ https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-HLS8/dmaxitalia.m3u8
 https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
 #EXTINF:-1 tvg-id="Discovery.Channel.it" tvg-logo="https://i.postimg.cc/9QRYzc0c/Discovery.png",Discovery
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
-https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="Discovery.Channel.it" tvg-logo="https://i.postimg.cc/9QRYzc0c/Discovery.png",Discovery (Tvheadend Veneto)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-veneto1.zappr.stream/stream/channel/e02bda63ab79e97cfc8793560f45cdad?profile=webtv-vp8-vorbis-webm
@@ -752,7 +752,7 @@ https://tvheadend-veneto1.zappr.stream/stream/channel/e02bda63ab79e97cfc8793560f
 https://tvheadend-sardegna1.zappr.stream/stream/channel/5399bf10ba434eb3f92ddf5aceee8433?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-id="Giallo.TV.it" tvg-logo="https://i.postimg.cc/Bn6hQwYr/Giallo.png",Giallo
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
-https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="Giallo.TV.it" tvg-logo="https://i.postimg.cc/Bn6hQwYr/Giallo.png",Giallo (mpd)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -767,7 +767,7 @@ https://tvheadend-veneto1.zappr.stream/stream/channel/305be2ce517f48d2517750a932
 https://tvheadend-sardegna1.zappr.stream/stream/channel/06dc5259286149803c0dade15c75f3e5?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-id="HGTVItaly.it" tvg-logo="https://i.postimg.cc/SsTRqRnF/HGTV.png",HGTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
-https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="HGTVItaly.it" tvg-logo="https://i.postimg.cc/SsTRqRnF/HGTV.png",HGTV (mpd)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -779,7 +779,7 @@ https://wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09718/st
 https://tvheadend-veneto1.zappr.stream/stream/channel/dfb3ee3c322e14d1d9cf7fead4f40ad7?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-id="Food.Network.it" tvg-logo="https://i.postimg.cc/rwqb4km0/foodnetwork.png",Food Network
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
-https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="Food.Network.it" tvg-logo="https://i.postimg.cc/rwqb4km0/foodnetwork.png",Food Network (mpd)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -793,7 +793,7 @@ https://tvheadend-veneto1.zappr.stream/stream/channel/336c104a8ea9eb87d45845417b
 https://tvheadend-sardegna1.zappr.stream/stream/channel/138764a8580b9a60e5c446a8a740b4ba?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-id="Motor.Trend.it" tvg-logo="https://i.postimg.cc/rs9SQPFn/Discovery-Turbo.png",Discovery Turbo
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
-https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="Motor.Trend.it" tvg-logo="https://i.postimg.cc/rs9SQPFn/Discovery-Turbo.png",Discovery Turbo (mpd)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
