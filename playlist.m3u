@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz, https://epg.lat/files/it.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz, https://epg.lat/files/it.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz, https://epg.lat/files/ch.xml.gz"
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/330px-Flag_of_Italy.svg.png",=== ITALIA ===
 https://github.com/Jackmick99/video-mp4/raw/refs/heads/main/IT.mp4
 #EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/330px-Rai_1_-_Logo_2016.svg.png",Rai 1 (Rai Play)
@@ -1353,31 +1353,31 @@ https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8
 http://23.88.66.93/SLO2/index.m3u8
 #EXTINF:-1 tvg-logo="https://t3.ftcdn.net/jpg/08/98/36/52/360_F_898365243_ZkPxrQdRoiYyYx7iP9DPAAF4w6GUyQif.jpg",=== SVIZZERA ===
 https://github.com/Jackmick99/video-mp4/raw/refs/heads/main/CH.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C5m9tSy/rsi-la1.png",RSI La1
+#EXTINF:-1 tvg-id="RSILa1.ch" tvg-logo="https://i.ibb.co/C5m9tSy/rsi-la1.png",RSI La1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09af5f6eb89041ca8f5d164165142e86:1989cc9c9ce5b2b52cb93edaaefe8420
 #KODIPROP:inputstream.adaptive.license_key=d268d810d8a73bd8b7d54a6a087581d2:1aaf297543168c625e05aa9e27344471
 https://wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09042/stb-dash-fhd-avc/SV09042.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C5m9tSy/rsi-la1.png",RSI La1 (m3u8/VPN CH)
+#EXTINF:-1 tvg-id="RSILa1.ch" tvg-logo="https://i.ibb.co/C5m9tSy/rsi-la1.png",RSI La1 (m3u8/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C5m9tSy/rsi-la1.png",RSI La1 (mpd/VPN CH)
+#EXTINF:-1 tvg-id="RSILa1.ch" tvg-logo="https://i.ibb.co/C5m9tSy/rsi-la1.png",RSI La1 (mpd/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KFGMkkQ/rsi-la2.png",RSI La2
+#EXTINF:-1 tvg-id="RSILa2.ch" tvg-logo="https://i.ibb.co/KFGMkkQ/rsi-la2.png",RSI La2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=117d07fd98cc46ef8e09936d0d37c506:b9528cb3f23eaad789f0f33bf6b01868
 #KODIPROP:inputstream.adaptive.license_key=166b2f0d56fb32d9b46d4b1ca1b5bf16:d78ee5c91eb3b9b6d37414a4f789bc9b
 https://wp2-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09043/stb-dash-fhd-avc/SV09043.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KFGMkkQ/rsi-la2.png",RSI La2 (m3u8/VPN CH)
+#EXTINF:-1 tvg-id="RSILa2.ch" tvg-logo="https://i.ibb.co/KFGMkkQ/rsi-la2.png",RSI La2 (m3u8/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KFGMkkQ/rsi-la2.png",RSI La2 (mpd/VPN CH)
+#EXTINF:-1 tvg-id="RSILa2.ch" tvg-logo="https://i.ibb.co/KFGMkkQ/rsi-la2.png",RSI La2 (mpd/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y1pnzFb/SRF-1.png",SRF 1
+#EXTINF:-1 tvg-id="SRF1.ch" tvg-logo="https://i.postimg.cc/0y1pnzFb/SRF-1.png",SRF 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=41c9f3984675be86ed142ee5c9b577cd:eca7370d90b992146ba9d297edb786ef
@@ -1385,37 +1385,37 @@ https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 #KODIPROP:inputstream.adaptive.license_key=f3f88d1b0fb858839a6b8a54af283214:77ea8cae71bdb3d4f60b504ebf5cdc46
 #KODIPROP:inputstream.adaptive.license_key=aebc864537e959fda373d255bf4b2ac4:f56dffd402aeca4511f5ac104544ce15
 https://ac-014.live.p7s1video.net/f2bf4855/t_014/srf1-ch-hd/cenc-default.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y1pnzFb/SRF-1.png",SRF 1 (m3u8/VPN CH)
+#EXTINF:-1 tvg-id="SRF1.ch" tvg-logo="https://i.postimg.cc/0y1pnzFb/SRF-1.png",SRF 1 (m3u8/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-HLS8/srf1hd.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y1pnzFb/SRF-1.png",SRF 1 (mpd/VPN CH)
+#EXTINF:-1 tvg-id="SRF1.ch" tvg-logo="https://i.postimg.cc/0y1pnzFb/SRF-1.png",SRF 1 (mpd/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-dash/srf1hd.mpd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0KfH4Xt/SRF-2.png",SRF 2 (m3u8/VPN CH)
+#EXTINF:-1 tvg-id="SRFzwei.ch" tvg-logo="https://i.postimg.cc/R0KfH4Xt/SRF-2.png",SRF 2 (m3u8/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-HLS8/srf2hd.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0KfH4Xt/SRF-2.png",SRF 2 (mpd/VPN CH)
+#EXTINF:-1 tvg-id="SRFzwei.ch" tvg-logo="https://i.postimg.cc/R0KfH4Xt/SRF-2.png",SRF 2 (mpd/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-dash/srf2hd.mpd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZY2dVW23/SRF-Info.png",SRF Info (m3u8/VPN CH)
+#EXTINF:-1 tvg-id="SRFInfo.ch" tvg-logo="https://i.postimg.cc/ZY2dVW23/SRF-Info.png",SRF Info (m3u8/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-HLS8/srfinfo.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZY2dVW23/SRF-Info.png",SRF Info (mpd/VPN CH)
+#EXTINF:-1 tvg-id="SRFInfo.ch" tvg-logo="https://i.postimg.cc/ZY2dVW23/SRF-Info.png",SRF Info (mpd/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-dash/srfinfo.mpd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnYNgT9L/RTS-1.png",RTS 1
+#EXTINF:-1 tvg-id="RTS1.ch" tvg-logo="https://i.postimg.cc/BnYNgT9L/RTS-1.png",RTS 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://rts1.zappr.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnYNgT9L/RTS-1.png",RTS 1 (m3u8/VPN CH)
+#EXTINF:-1 tvg-id="RTS1.ch" tvg-logo="https://i.postimg.cc/BnYNgT9L/RTS-1.png",RTS 1 (m3u8/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnYNgT9L/RTS-1.png",RTS 1 (mpd/VPN CH)
+#EXTINF:-1 tvg-id="RTS1.ch" tvg-logo="https://i.postimg.cc/BnYNgT9L/RTS-1.png",RTS 1 (mpd/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3XMNjNZ/RTS-2.png",RTS 2 (m3u8/VPN CH)
+#EXTINF:-1 tvg-id="RTS2.ch" tvg-logo="https://i.postimg.cc/W3XMNjNZ/RTS-2.png",RTS 2 (m3u8/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3XMNjNZ/RTS-2.png",RTS 2 (mpd/VPN CH)
+#EXTINF:-1 tvg-id="RTS2.ch" tvg-logo="https://i.postimg.cc/W3XMNjNZ/RTS-2.png",RTS 2 (mpd/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/330px-Flag_of_France.svg.png",=== FRANCIA ===
