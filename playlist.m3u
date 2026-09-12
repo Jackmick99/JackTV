@@ -210,9 +210,15 @@ https://d3k8wzt41aflvx.cloudfront.net/MediasetUSA/Live.m3u8
 #EXTINF:-1 tvg-id="20.it" tvg-logo="https://i.ibb.co/hRvf3dZ/20-mediaset.png",20 Mediaset (m3u8)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="20.it" tvg-logo="https://i.ibb.co/hRvf3dZ/20-mediaset.png",20 Mediaset (mpd)
+#EXTINF:-1 tvg-id="20.it" tvg-logo="https://i.ibb.co/hRvf3dZ/20-mediaset.png",20 Mediaset (mpd 1)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-id="20.it" tvg-logo="https://i.ibb.co/hRvf3dZ/20-mediaset.png",20 Mediaset (mpd 2)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9abe8ffecdc8485698881a558eb6a588:8fd60aab1c99e0e37d454ce41a34df54
+#KODIPROP:inputstream.adaptive.license_key=705caf5081b93fd39bdf40ad50c63477:6e51250b070f01da45d625318e0e0ebd
+https://wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09489/stb-dash-fhd-avc/SV09489.mpd
 #EXTINF:-1 tvg-id="20.it" tvg-logo="https://i.ibb.co/hRvf3dZ/20-mediaset.png",20 Mediaset (Tvheadend Veneto)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-veneto1.zappr.stream/stream/channel/5f7e81ffa20c634e2eaa631663d2a5da?profile=webtv-vp8-vorbis-webm
@@ -338,6 +344,15 @@ https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="Rai4.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rai_4_-_Logo_2016.svg/330px-Rai_4_-_Logo_2016.svg.png",Rai 4 (Rai Play)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="Rai4.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rai_4_-_Logo_2016.svg/330px-Rai_4_-_Logo_2016.svg.png",Rai 4 (m3u8)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+https://raiquattro3-live.akamaized.net/hls/live/2018003/raiquattro3/raiquattro3/playlist.m3u8
+#EXTINF:-1 tvg-id="Rai4.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rai_4_-_Logo_2016.svg/330px-Rai_4_-_Logo_2016.svg.png",Rai 4 (mpd)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=75122447c4fe4f96aa60ef9f16206c94:6ce31ba35b09f37fd00bad50b8af2597
+#KODIPROP:inputstream.adaptive.license_key=afa0ef0e81713de687ce66725fa4e768:cdc23c86c7f2dddce3ee879ca37a0a84
+https://wp6-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09105/stb-dash-fhd-avc/SV09105.mpd
 #EXTINF:-1 tvg-id="Rai4.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rai_4_-_Logo_2016.svg/330px-Rai_4_-_Logo_2016.svg.png",Rai 4 (Tvheadend Veneto)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-veneto1.zappr.stream/stream/channel/23ed9cd38134db5d73ecb08217fb8bcf?profile=webtv-vp8-vorbis-webm
@@ -347,6 +362,15 @@ https://tvheadend-sardegna1.zappr.stream/stream/channel/094c8296a522cbbc5fa65787
 #EXTINF:-1 tvg-id="Rai5.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/330px-Rai_5_-_Logo_2017.svg.png",Rai 5 (Rai Play)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="Rai5.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/330px-Rai_5_-_Logo_2017.svg.png",Rai 5 (m3u8)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+https://raicinque3-live.akamaized.net/hls/live/2018007/raicinque3/raicinque3/playlist.m3u8
+#EXTINF:-1 tvg-id="Rai5.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/330px-Rai_5_-_Logo_2017.svg.png",Rai 5 (mpd)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d07c25658bd4f28b850dae3bc6436ca:3ca78870e5626b248ca232f7d571c54a
+#KODIPROP:inputstream.adaptive.license_key=aa143d6062a63e00a5ca1bc696a915f7:0c4cccf23f6f1e8b523f2a8c5dcc0eca
+https://wp13-s-anp33343334-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV00470/stb-dash-sd-avc/SV00470.mpd
 #EXTINF:-1 tvg-id="Rai5.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/330px-Rai_5_-_Logo_2017.svg.png",Rai 5 (Tvheadend Veneto)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-veneto1.zappr.stream/stream/channel/446a53e7d0f23da862f85add1e51ccf1?profile=webtv-vp8-vorbis-webm
@@ -356,6 +380,15 @@ https://tvheadend-sardegna1.zappr.stream/stream/channel/ee370e61ac743c06d5a97a7e
 #EXTINF:-1 tvg-id="RaiMovie.it" tvg-logo="https://i.ibb.co/PxVKTpR/Senza-titolo-2.png",Rai Movie (Rai Play)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-logo="https://i.ibb.co/PxVKTpR/Senza-titolo-2.png",Rai Movie (m3u8)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+https://raimovie3-live.akamaized.net/hls/live/2018010/raimovie3/raimovie3/playlist.m3u8
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-logo="https://i.ibb.co/PxVKTpR/Senza-titolo-2.png",Rai Movie (mpd)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1faafabe1084e30b657645bf71c1ae2:fab54e6595284d490874fcdb6eb6f466
+#KODIPROP:inputstream.adaptive.license_key=106a8d3883023f3ea39683d3e8c27113:3fc8913f0c38956151bb6aa37ace222b
+https://wp8-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09108/stb-dash-hdready-avc/SV09108.mpd
 #EXTINF:-1 tvg-id="RaiMovie.it" tvg-logo="https://i.ibb.co/PxVKTpR/Senza-titolo-2.png",Rai Movie (Tvheadend Veneto)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-veneto1.zappr.stream/stream/channel/14f95bf5f56acc74e91f151fca8b015c?profile=webtv-vp8-vorbis-webm
@@ -371,7 +404,7 @@ https://tvheadend-veneto1.zappr.stream/stream/channel/0cf59b9d43db424395709bd20e
 #EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://i.ibb.co/DD0HcTV/Senza-titolo-3.png",Rai News 24 (Tvheadend Sardegna)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-sardegna1.zappr.stream/stream/channel/22c9cf9281c1eeacbba950a3937ca364?profile=webtv-vp8-vorbis-webm
-#EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://i.ibb.co/DD0HcTV/Senza-titolo-3.png",Rai News 24
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://i.ibb.co/DD0HcTV/Senza-titolo-3.png",Rai News 24 (ilGlobo)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8
 #EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://i.ibb.co/DD0HcTV/Senza-titolo-3.png",Rai News 24 (Samsung Tv)
@@ -386,6 +419,15 @@ https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
 #EXTINF:-1 tvg-id="RaiSport.it" tvg-logo="https://i.ibb.co/x6dLpDH/rai-sport.png",Rai Sport HD (Rai Play)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-logo="https://i.ibb.co/x6dLpDH/rai-sport.png",Rai Sport HD (m3u8)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+https://raisportuno3-live.akamaized.net/hls/live/2018008/raisportuno3/raisportuno3/playlist.m3u8
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-logo="https://i.ibb.co/x6dLpDH/rai-sport.png",Rai Sport HD (mpd)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=87a5beac54c74bf4a95a142b90fb817f:4618d1d8d1903223990635f181afd202
+#KODIPROP:inputstream.adaptive.license_key=a5f81d7949f83fb9bdc39fdec6139e3c:aac2583ab870fc65eddda994e090ca89
+https://wp11-s-anp33343334-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09106/stb-dash-fhd-avc/SV09106.mpd
 #EXTINF:-1 tvg-id="RaiSport.it" tvg-logo="https://i.ibb.co/x6dLpDH/rai-sport.png",Rai Sport HD (Tvheadend Veneto)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-veneto1.zappr.stream/stream/channel/567cf648dfb91c4a9d1118f5e5219444?profile=webtv-vp8-vorbis-webm
@@ -401,6 +443,15 @@ https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 #EXTINF:-1 tvg-id="RaiPremium.it" tvg-logo="https://i.ibb.co/StfsC59/Senza-titolo-1.png",Rai Premium (Rai Play)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-logo="https://i.ibb.co/StfsC59/Senza-titolo-1.png",Rai Premium (m3u8)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+https://raipremium3-live.akamaized.net/hls/live/2018013/raipremium3/raipremium3/playlist.m3u8
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-logo="https://i.ibb.co/StfsC59/Senza-titolo-1.png",Rai Premium (mpd)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=87c8b40be5464126b779d2ba5ef469ec:b92817627367057b07f59602c765b381
+#KODIPROP:inputstream.adaptive.license_key=b92ebe471d213a22b7da3dcf9db79630:3176fea58e4746da46652aacaddbbb56
+https://wp12-s-anp33343334-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV00484/stb-dash-sd-avc/SV00484.mpd
 #EXTINF:-1 tvg-id="RaiPremium.it" tvg-logo="https://i.ibb.co/StfsC59/Senza-titolo-1.png",Rai Premium (Tvheadend Veneto)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-veneto1.zappr.stream/stream/channel/515f7671f19b302b100ce9eb9c55302d?profile=webtv-vp8-vorbis-webm
@@ -410,6 +461,14 @@ https://tvheadend-sardegna1.zappr.stream/stream/channel/257e6598e62a02e0194a4b2e
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-logo="https://i.ibb.co/rkpnGB2/Senza-titolo-3.png",Rai Gulp (Rai Play)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-logo="https://i.ibb.co/rkpnGB2/Senza-titolo-3.png",Rai Gulp (m3u8)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.m3u8
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-logo="https://i.ibb.co/rkpnGB2/Senza-titolo-3.png",Rai Gulp (mpd)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=46fccbf87bd234729d420555c16de6e8:89e5fe6884106536a64fd6d7cf40a4c8
+https://wp7-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09111/stb-dash-fhd-avc/SV09111.mpd
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-logo="https://i.ibb.co/rkpnGB2/Senza-titolo-3.png",Rai Gulp (Tvheadend Veneto)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-veneto1.zappr.stream/stream/channel/a0da1685b0bf6bcd8b877330b5560079?profile=webtv-vp8-vorbis-webm
@@ -425,10 +484,18 @@ https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
 #EXTINF:-1 tvg-id="RaiScuola.it" tvg-logo="https://i.ibb.co/C1c9S9G/Senza-titolo-1.png",Rai Scuola (Rai Play)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-logo="https://i.ibb.co/C1c9S9G/Senza-titolo-1.png",Rai Scuola (m3u8)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+https://raiscuola3-live.akamaized.net/hls/live/2018016/raiscuola3/raiscuola3/playlist.m3u8
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-logo="https://i.ibb.co/C1c9S9G/Senza-titolo-1.png",Rai Scuola (mpd)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=910188661b9c3e228f0e54464d6b6ce3:d0a4dd15e0749f0121f1f560fe8afd92
+https://wp10-s-anp33343334-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV06534/stb-dash-fhd-avc/SV06534.mpd
 #EXTINF:-1 tvg-id="RaiScuola.it" tvg-logo="https://i.ibb.co/C1c9S9G/Senza-titolo-1.png",Rai Scuola (Tvheadend Veneto)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-veneto1.zappr.stream/stream/channel/b5a786820e0c1ea09ad269952cf56414?profile=webtv-vp8-vorbis-webm
-#EXTINF:-1 tvg-id="RaiScuola.it" tvg-logo="https://i.ibb.co/C1c9S9G/Senza-titolo-1.png",Rai Scuola
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-logo="https://i.ibb.co/C1c9S9G/Senza-titolo-1.png",Rai Scuola (ilGlobo)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
 #EXTINF:-1 tvg-id="RaiScuola.it" tvg-logo="https://i.ibb.co/C1c9S9G/Senza-titolo-1.png",Rai Scuola (m3u8/VPN CH)
@@ -440,10 +507,16 @@ https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
 #EXTINF:-1 tvg-id="RaiStoria.it" tvg-logo="https://i.ibb.co/VwnyBsw/Senza-titolo-4.png",Rai Storia (Rai Play)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-logo="https://i.ibb.co/VwnyBsw/Senza-titolo-4.png",Rai Storia (mpd)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af702561762647968da463221b1b5797:badb94a89805cbc6c961dea0a570bdaa
+#KODIPROP:inputstream.adaptive.license_key=be12d2f30e0535a0abaee324c91c4fe4:300dc1cb739636e264b3406ec44b7acf
+https://wp1-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09112/stb-dash-fhd-avc/SV09112.mpd
 #EXTINF:-1 tvg-id="RaiStoria.it" tvg-logo="https://i.ibb.co/VwnyBsw/Senza-titolo-4.png",Rai Storia (Tvheadend Veneto)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-veneto1.zappr.stream/stream/channel/545d5dc060accb46351c349fcbc84d4a?profile=webtv-vp8-vorbis-webm
-#EXTINF:-1 tvg-id="RaiStoria.it" tvg-logo="https://i.ibb.co/VwnyBsw/Senza-titolo-4.png",Rai Storia
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-logo="https://i.ibb.co/VwnyBsw/Senza-titolo-4.png",Rai Storia (ilGlobo)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8
 #EXTINF:-1 tvg-id="RaiStoria.it" tvg-logo="https://i.ibb.co/VwnyBsw/Senza-titolo-4.png",Rai Storia (m3u8/VPN CH)
@@ -452,9 +525,12 @@ https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-HLS8/raistoria.m3u8
 #EXTINF:-1 tvg-id="RaiStoria.it" tvg-logo="https://i.ibb.co/VwnyBsw/Senza-titolo-4.png",Rai Storia (mpd/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
-#EXTINF:-1 tvg-id="RaiRadio2Visual.it" tvg-logo="https://i.ibb.co/QJCYt75/radio-2.png",Rai Radio 2
+#EXTINF:-1 tvg-id="RaiRadio2Visual.it" tvg-logo="https://i.ibb.co/QJCYt75/radio-2.png",Rai Radio 2 (Rai Play)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="RaiRadio2Visual.it" tvg-logo="https://i.ibb.co/QJCYt75/radio-2.png",Rai Radio 2 (m3u8)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+https://visualradiodue3-live.akamaized.net/hls/live/2034078/visualradiodue3/visualradiodue3/playlist.m3u8
 #EXTINF:-1 tvg-id="RaiRadio2Visual.it" tvg-logo="https://i.ibb.co/QJCYt75/radio-2.png",Rai Radio 2 (Tvheadend Veneto)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-veneto1.zappr.stream/stream/channel/8c182e0cd42679a797bd19b361df4eaa?profile=webtv-vp8-vorbis-webm
@@ -677,7 +753,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="TGCom.it" tvg-logo="https://i.ibb.co/gP1v3Mm/Senza-titolo-4.png",Tgcom24 (mpd)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
-#EXTINF:-1 tvg-id="TGCom.it" tvg-logo="https://i.ibb.co/gP1v3Mm/Senza-titolo-4.png",Tgcom24
+#EXTINF:-1 tvg-id="TGCom.it" tvg-logo="https://i.ibb.co/gP1v3Mm/Senza-titolo-4.png",Tgcom24 (ilGlobo)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://d3k8wzt41aflvx.cloudfront.net/TGCOM24/Live.m3u8
 #EXTINF:-1 tvg-id="TGCom.it" tvg-logo="https://i.ibb.co/gP1v3Mm/Senza-titolo-4.png",Tgcom24 (Tvheadend Veneto)
