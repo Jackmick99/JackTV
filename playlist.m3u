@@ -654,9 +654,15 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="Mediaset.Extra.it" tvg-logo="https://i.ibb.co/WHPz4yh/Senza-titolo-1.png",Mediaset Extra (m3u8)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="Mediaset.Extra.it" tvg-logo="https://i.ibb.co/WHPz4yh/Senza-titolo-1.png",Mediaset Extra (mpd)
+#EXTINF:-1 tvg-id="Mediaset.Extra.it" tvg-logo="https://i.ibb.co/WHPz4yh/Senza-titolo-1.png",Mediaset Extra (mpd 1)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-id="Mediaset.Extra.it" tvg-logo="https://i.ibb.co/WHPz4yh/Senza-titolo-1.png",Mediaset Extra (mpd 2)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=970c63f530b04c4391a0375b5554aee2:395c18dc71842768e93da4a27ef1b79b
+#KODIPROP:inputstream.adaptive.license_key=2772376ddfe430959fa86911954594e5:843c8c51f1b720ba5527f438fbadf081
+https://wp4-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09722/stb-dash-fhd-avc/SV09722.mpd
 #EXTINF:-1 tvg-id="Mediaset.Extra.it" tvg-logo="https://i.ibb.co/WHPz4yh/Senza-titolo-1.png",Mediaset Extra (Tvheadend Veneto)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-veneto1.zappr.stream/stream/channel/f8093d5f39adb24dd99a62929571270e?profile=webtv-vp8-vorbis-webm
