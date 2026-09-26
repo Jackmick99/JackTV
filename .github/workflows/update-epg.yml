@@ -1,0 +1,66 @@
+name: Update JackTV EPG
+
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/update-epg.yml'
+      - 'scripts/update_epg.py'
+      - 'epg/channels.json'
+      - 'tests/test_update_epg.py'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: jacktv-epg
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify updater
+        run: python -m unittest discover -s tests -p 'test_update_epg.py' -v
+      - name: Generate and validate EPG
+        run: python scripts/update_epg.py
+      - name: Save diagnostic report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: jacktv-epg-report
+          path: epg/last-attempt.json
+          if-no-files-found: ignore
+          retention-days: 7
+      - name: Publish validated guide
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add JackTV_EPG.xml.gz epg/status.json
+          if git diff --cached --quiet; then
+            echo 'No changes.'
+            exit 0
+          fi
+          git commit -m 'Update JackTV EPG'
+          # TRM updates the playlist independently. Rebase without force-pushing.
+          for attempt in 1 2 3; do
+            git pull --rebase origin main
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            sleep 3
+          done
+          exit 1
