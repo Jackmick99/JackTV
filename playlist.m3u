@@ -788,7 +788,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Tgcom24.it" tvg-logo="https://i.ibb.co/gP1v3Mm/Senza-titolo-4.png",Tgcom24 (mpd)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gP1v3Mm/Senza-titolo-4.png",Tgcom24 (ilGlobo)
+#EXTINF:-1 tvg-id="Tgcom24.it" tvg-logo="https://i.ibb.co/gP1v3Mm/Senza-titolo-4.png",Tgcom24 (ilGlobo)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://d3k8wzt41aflvx.cloudfront.net/TGCOM24/Live.m3u8
 #EXTINF:-1 tvg-id="Tgcom24.it" tvg-logo="https://i.ibb.co/gP1v3Mm/Senza-titolo-4.png",Tgcom24 (Tvheadend Veneto)
