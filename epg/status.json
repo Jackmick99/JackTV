@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-09-27T05:24:28.092726+00:00",
+  "checked_at": "2026-09-27T12:10:04.169458+00:00",
   "accepted": true,
   "channels": 228,
-  "fresh": 225,
+  "fresh": 228,
   "previous": 0,
-  "missing": 3,
+  "missing": 0,
   "unknown_playlist_ids": [],
   "source_errors": {},
   "coverage": [
@@ -550,23 +550,23 @@
     {
       "id": "TelecityLombardia.it",
       "name": "Telecity Lombardia",
-      "status": "missing",
-      "programmes": 0,
-      "until": null
+      "status": "fresh",
+      "programmes": 27,
+      "until": "20260928000800 +0200"
     },
     {
       "id": "TelecityPiemonte.it",
       "name": "Telecity Piemonte",
       "status": "fresh",
-      "programmes": 29,
+      "programmes": 27,
       "until": "20260928000800 +0200"
     },
     {
       "id": "Cremona1.it",
       "name": "Cremona 1",
       "status": "fresh",
-      "programmes": 136,
-      "until": "20261003000000 +0200"
+      "programmes": 141,
+      "until": "20261004000000 +0200"
     },
     {
       "id": "Sportitalia.it",
@@ -620,16 +620,16 @@
     {
       "id": "Canale8.it",
       "name": "Canale 8",
-      "status": "missing",
-      "programmes": 0,
-      "until": null
+      "status": "fresh",
+      "programmes": 23,
+      "until": "20260928010300 +0200"
     },
     {
       "id": "Canale21.it",
       "name": "Canale 21",
-      "status": "missing",
-      "programmes": 0,
-      "until": null
+      "status": "fresh",
+      "programmes": 26,
+      "until": "20260928055400 +0200"
     },
     {
       "id": "Bloomberg.it",
@@ -1468,8 +1468,8 @@
       "id": "RecordNews.br",
       "name": "Record News",
       "status": "fresh",
-      "programmes": 125,
-      "until": "20260930082000 +0000"
+      "programmes": 128,
+      "until": "20261001082000 +0000"
     },
     {
       "id": "HRT1.hr",
