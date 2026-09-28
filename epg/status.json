@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-09-28T05:31:27.565460+00:00",
+  "checked_at": "2026-09-28T14:05:58.933052+00:00",
   "accepted": true,
   "channels": 228,
-  "fresh": 226,
+  "fresh": 228,
   "previous": 0,
-  "missing": 2,
+  "missing": 0,
   "unknown_playlist_ids": [],
   "source_errors": {},
   "coverage": [
@@ -12,7 +12,7 @@
       "id": "Rai1.it",
       "name": "Rai 1",
       "status": "fresh",
-      "programmes": 213,
+      "programmes": 214,
       "until": "20261005000000 +0200"
     },
     {
@@ -89,8 +89,8 @@
       "id": "La7.it",
       "name": "La7",
       "status": "fresh",
-      "programmes": 210,
-      "until": "20261005060000 +0200"
+      "programmes": 232,
+      "until": "20261005030000 +0200"
     },
     {
       "id": "La7Cinema.it",
@@ -222,8 +222,8 @@
       "id": "Supertennis.it",
       "name": "Supertennis",
       "status": "fresh",
-      "programmes": 126,
-      "until": "20261005060000 +0200"
+      "programmes": 128,
+      "until": "20261005040000 +0200"
     },
     {
       "id": "MediasetExtra.it",
@@ -453,21 +453,21 @@
       "id": "A3Nordest.it",
       "name": "A3 Nordest",
       "status": "fresh",
-      "programmes": 61,
-      "until": "20260929044000 +0200"
+      "programmes": 62,
+      "until": "20260929044700 +0200"
     },
     {
       "id": "ReteVeneta.it",
       "name": "Rete Veneta",
       "status": "fresh",
       "programmes": 54,
-      "until": "20260929024200 +0200"
+      "until": "20260929025100 +0200"
     },
     {
       "id": "Telenordest.it",
       "name": "Telenordest",
       "status": "fresh",
-      "programmes": 32,
+      "programmes": 33,
       "until": "20260929043900 +0200"
     },
     {
@@ -475,7 +475,7 @@
       "name": "Tv 12",
       "status": "fresh",
       "programmes": 42,
-      "until": "20260929031800 +0200"
+      "until": "20260929031900 +0200"
     },
     {
       "id": "TVAVicenza.it",
@@ -488,7 +488,7 @@
       "id": "Telechiara.it",
       "name": "Telechiara",
       "status": "fresh",
-      "programmes": 160,
+      "programmes": 161,
       "until": "20261005002000 +0200"
     },
     {
@@ -516,8 +516,8 @@
       "id": "RadioItalia.it",
       "name": "Radio Italia",
       "status": "fresh",
-      "programmes": 21,
-      "until": "20260930060000 +0200"
+      "programmes": 30,
+      "until": "20261002020000 +0200"
     },
     {
       "id": "VideoItalia.it",
@@ -551,36 +551,36 @@
       "id": "TelecityLombardia.it",
       "name": "Telecity Lombardia",
       "status": "fresh",
-      "programmes": 2,
+      "programmes": 14,
       "until": "20260929000800 +0200"
     },
     {
       "id": "TelecityPiemonte.it",
       "name": "Telecity Piemonte",
-      "status": "missing",
-      "programmes": 0,
-      "until": null
+      "status": "fresh",
+      "programmes": 31,
+      "until": "20260929000800 +0200"
     },
     {
       "id": "Cremona1.it",
       "name": "Cremona 1",
       "status": "fresh",
-      "programmes": 117,
-      "until": "20261004000000 +0200"
+      "programmes": 125,
+      "until": "20261005000000 +0200"
     },
     {
       "id": "Sportitalia.it",
       "name": "Sportitalia",
       "status": "fresh",
-      "programmes": 187,
+      "programmes": 188,
       "until": "20261005023000 +0200"
     },
     {
       "id": "SISolocalcio.it",
       "name": "SI Solocalcio",
       "status": "fresh",
-      "programmes": 134,
-      "until": "20261005023000 +0200"
+      "programmes": 194,
+      "until": "20261005020100 +0200"
     },
     {
       "id": "ACISportTv.it",
@@ -620,16 +620,16 @@
     {
       "id": "Canale8.it",
       "name": "Canale 8",
-      "status": "missing",
-      "programmes": 0,
-      "until": null
+      "status": "fresh",
+      "programmes": 16,
+      "until": "20260929000500 +0200"
     },
     {
       "id": "Canale21.it",
       "name": "Canale 21",
       "status": "fresh",
-      "programmes": 4,
-      "until": "20260928111500 +0200"
+      "programmes": 30,
+      "until": "20260929065300 +0200"
     },
     {
       "id": "Bloomberg.it",
@@ -1468,8 +1468,8 @@
       "id": "RecordNews.br",
       "name": "Record News",
       "status": "fresh",
-      "programmes": 128,
-      "until": "20261001082000 +0000"
+      "programmes": 131,
+      "until": "20261002082000 +0000"
     },
     {
       "id": "HRT1.hr",
