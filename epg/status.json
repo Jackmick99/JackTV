@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-09-28T23:20:18.712759+00:00",
+  "checked_at": "2026-09-29T05:49:43.471396+00:00",
   "accepted": true,
   "channels": 228,
-  "fresh": 225,
+  "fresh": 226,
   "previous": 0,
-  "missing": 3,
+  "missing": 2,
   "unknown_playlist_ids": [],
   "source_errors": {},
   "coverage": [
@@ -12,22 +12,22 @@
       "id": "Rai1.it",
       "name": "Rai 1",
       "status": "fresh",
-      "programmes": 213,
-      "until": "20261005000000 +0200"
+      "programmes": 215,
+      "until": "20261006000000 +0200"
     },
     {
       "id": "Rai2.it",
       "name": "Rai 2",
       "status": "fresh",
-      "programmes": 247,
-      "until": "20261005003400 +0200"
+      "programmes": 245,
+      "until": "20261006015000 +0200"
     },
     {
       "id": "Rai3.it",
       "name": "Rai 3",
       "status": "fresh",
       "programmes": 255,
-      "until": "20261005000500 +0200"
+      "until": "20261006000000 +0200"
     },
     {
       "id": "RTVSanMarino.it",
@@ -90,28 +90,28 @@
       "name": "La7",
       "status": "fresh",
       "programmes": 231,
-      "until": "20261005030000 +0200"
+      "until": "20261006021500 +0200"
     },
     {
       "id": "La7Cinema.it",
       "name": "La7Cinema",
       "status": "fresh",
-      "programmes": 120,
-      "until": "20261005060000 +0200"
+      "programmes": 108,
+      "until": "20261006060000 +0200"
     },
     {
       "id": "Tv8.it",
       "name": "Tv8",
       "status": "fresh",
-      "programmes": 176,
-      "until": "20261005030000 +0200"
+      "programmes": 174,
+      "until": "20261006032000 +0200"
     },
     {
       "id": "Nove.it",
       "name": "Nove",
       "status": "fresh",
-      "programmes": 163,
-      "until": "20261005021000 +0200"
+      "programmes": 161,
+      "until": "20261006032500 +0200"
     },
     {
       "id": "Eurosport1.it",
@@ -131,7 +131,7 @@
       "id": "RDSSocialTv.it",
       "name": "RDS Social Tv",
       "status": "fresh",
-      "programmes": 125,
+      "programmes": 101,
       "until": "20261004020000 +0200"
     },
     {
@@ -139,70 +139,70 @@
       "name": "Rai 4",
       "status": "fresh",
       "programmes": 209,
-      "until": "20261005002700 +0200"
+      "until": "20261006004800 +0200"
     },
     {
       "id": "Rai5.it",
       "name": "Rai 5",
       "status": "fresh",
-      "programmes": 209,
-      "until": "20261005001200 +0200"
+      "programmes": 211,
+      "until": "20261006010700 +0200"
     },
     {
       "id": "RaiMovie.it",
       "name": "Rai Movie",
       "status": "fresh",
-      "programmes": 103,
-      "until": "20261005012500 +0200"
+      "programmes": 102,
+      "until": "20261006002500 +0200"
     },
     {
       "id": "RaiNews24.it",
       "name": "Rai News 24",
       "status": "fresh",
-      "programmes": 479,
-      "until": "20261004060000 +0200"
+      "programmes": 455,
+      "until": "20261006000000 +0200"
     },
     {
       "id": "RaiSport.it",
       "name": "Rai Sport HD",
       "status": "fresh",
-      "programmes": 114,
-      "until": "20261005004000 +0200"
+      "programmes": 121,
+      "until": "20261006000000 +0200"
     },
     {
       "id": "RaiPremium.it",
       "name": "Rai Premium",
       "status": "fresh",
-      "programmes": 170,
-      "until": "20261005004000 +0200"
+      "programmes": 168,
+      "until": "20261006003000 +0200"
     },
     {
       "id": "RaiGulp.it",
       "name": "Rai Gulp",
       "status": "fresh",
-      "programmes": 591,
-      "until": "20261005001000 +0200"
+      "programmes": 589,
+      "until": "20261006001000 +0200"
     },
     {
       "id": "RaiScuola.it",
       "name": "Rai Scuola",
       "status": "fresh",
-      "programmes": 181,
+      "programmes": 147,
       "until": "20261003060000 +0200"
     },
     {
       "id": "RaiStoria.it",
       "name": "Rai Storia",
       "status": "fresh",
-      "programmes": 255,
-      "until": "20261005001500 +0200"
+      "programmes": 254,
+      "until": "20261006002500 +0200"
     },
     {
       "id": "RaiRadio2.it",
       "name": "Rai Radio 2",
       "status": "fresh",
       "programmes": 151,
-      "until": "20261005000000 +0200"
+      "until": "20261006000000 +0200"
     },
     {
       "id": "UninettunoUniversityTv.it",
@@ -222,8 +222,8 @@
       "id": "Supertennis.it",
       "name": "Supertennis",
       "status": "fresh",
-      "programmes": 139,
-      "until": "20261005040000 +0200"
+      "programmes": 135,
+      "until": "20261006040000 +0200"
     },
     {
       "id": "MediasetExtra.it",
@@ -306,22 +306,22 @@
       "id": "105Tv.it",
       "name": "105 Tv",
       "status": "fresh",
-      "programmes": 521,
+      "programmes": 322,
       "until": "20260930065900 +0200"
     },
     {
       "id": "R101.it",
       "name": "R101",
       "status": "fresh",
-      "programmes": 675,
+      "programmes": 528,
       "until": "20261002045800 +0200"
     },
     {
       "id": "VirginRadio.it",
       "name": "Virgin Radio",
       "status": "fresh",
-      "programmes": 830,
-      "until": "20261005010000 +0200"
+      "programmes": 735,
+      "until": "20261005060000 +0200"
     },
     {
       "id": "RMC.it",
@@ -341,22 +341,22 @@
       "id": "RealTime.it",
       "name": "Real Time",
       "status": "fresh",
-      "programmes": 163,
-      "until": "20261005023500 +0200"
+      "programmes": 160,
+      "until": "20261006022000 +0200"
     },
     {
       "id": "DMAX.it",
       "name": "DMAX",
       "status": "fresh",
-      "programmes": 181,
-      "until": "20261005033000 +0200"
+      "programmes": 180,
+      "until": "20261006032500 +0200"
     },
     {
       "id": "Discovery.it",
       "name": "Discovery",
       "status": "fresh",
-      "programmes": 190,
-      "until": "20261005000000 +0200"
+      "programmes": 192,
+      "until": "20261006000500 +0200"
     },
     {
       "id": "Giallo.it",
@@ -369,57 +369,57 @@
       "id": "HGTV.it",
       "name": "HGTV",
       "status": "fresh",
-      "programmes": 125,
+      "programmes": 124,
       "until": "20261002000000 +0200"
     },
     {
       "id": "FoodNetwork.it",
       "name": "Food Network",
       "status": "fresh",
-      "programmes": 271,
-      "until": "20261005021500 +0200"
+      "programmes": 270,
+      "until": "20261006021500 +0200"
     },
     {
       "id": "DiscoveryTurbo.it",
       "name": "Discovery Turbo",
       "status": "fresh",
-      "programmes": 165,
-      "until": "20261005021500 +0200"
+      "programmes": 167,
+      "until": "20261006035000 +0200"
     },
     {
       "id": "frisbee.it",
       "name": "frisbee",
       "status": "fresh",
-      "programmes": 581,
-      "until": "20261005020500 +0200"
+      "programmes": 582,
+      "until": "20261006020500 +0200"
     },
     {
       "id": "K2.it",
       "name": "K2",
       "status": "fresh",
-      "programmes": 566,
-      "until": "20261005022500 +0200"
+      "programmes": 567,
+      "until": "20261006022500 +0200"
     },
     {
       "id": "Super!.it",
       "name": "Super!",
       "status": "fresh",
       "programmes": 443,
-      "until": "20261005000900 +0200"
+      "until": "20261006001800 +0200"
     },
     {
       "id": "Cielo.it",
       "name": "Cielo",
       "status": "fresh",
       "programmes": 196,
-      "until": "20261005020500 +0200"
+      "until": "20261006022000 +0200"
     },
     {
       "id": "SkyTG24.it",
       "name": "Sky TG24",
       "status": "fresh",
-      "programmes": 441,
-      "until": "20261005023000 +0200"
+      "programmes": 442,
+      "until": "20261006023000 +0200"
     },
     {
       "id": "Euronews.it",
@@ -432,8 +432,8 @@
       "id": "TV2000.it",
       "name": "TV2000",
       "status": "fresh",
-      "programmes": 261,
-      "until": "20261005021000 +0200"
+      "programmes": 258,
+      "until": "20261006022000 +0200"
     },
     {
       "id": "SenatoTv.it",
@@ -453,70 +453,70 @@
       "id": "A3Nordest.it",
       "name": "A3 Nordest",
       "status": "fresh",
-      "programmes": 63,
-      "until": "20260929045400 +0200"
+      "programmes": 59,
+      "until": "20260930013700 +0200"
     },
     {
       "id": "ReteVeneta.it",
       "name": "Rete Veneta",
       "status": "fresh",
-      "programmes": 63,
-      "until": "20260929045700 +0200"
+      "programmes": 50,
+      "until": "20260930004000 +0200"
     },
     {
       "id": "Telenordest.it",
       "name": "Telenordest",
       "status": "fresh",
-      "programmes": 35,
-      "until": "20260929045900 +0200"
+      "programmes": 26,
+      "until": "20260930012400 +0200"
     },
     {
       "id": "Tv12.it",
       "name": "Tv 12",
       "status": "fresh",
-      "programmes": 42,
-      "until": "20260929031900 +0200"
+      "programmes": 43,
+      "until": "20260930001100 +0200"
     },
     {
       "id": "TVAVicenza.it",
       "name": "TVA Vicenza",
       "status": "fresh",
       "programmes": 191,
-      "until": "20261005060500 +0200"
+      "until": "20261006061000 +0200"
     },
     {
       "id": "Telechiara.it",
       "name": "Telechiara",
       "status": "fresh",
       "programmes": 161,
-      "until": "20261005002000 +0200"
+      "until": "20261006002000 +0200"
     },
     {
       "id": "RTL1025.it",
       "name": "RTL 102.5",
       "status": "fresh",
       "programmes": 73,
-      "until": "20261005030000 +0200"
+      "until": "20261006030000 +0200"
     },
     {
       "id": "RadioFreccia.it",
       "name": "Radio Freccia",
       "status": "fresh",
       "programmes": 49,
-      "until": "20261005000000 +0200"
+      "until": "20261006000000 +0200"
     },
     {
       "id": "DeejayTV.it",
       "name": "Deejay TV",
       "status": "fresh",
       "programmes": 85,
-      "until": "20261005080000 +0200"
+      "until": "20261006080000 +0200"
     },
     {
       "id": "RadioItalia.it",
       "name": "Radio Italia",
       "status": "fresh",
-      "programmes": 30,
+      "programmes": 21,
       "until": "20261002020000 +0200"
     },
     {
@@ -531,28 +531,28 @@
       "name": "Alma Tv",
       "status": "fresh",
       "programmes": 239,
-      "until": "20261005060000 +0200"
+      "until": "20261006060000 +0200"
     },
     {
       "id": "Telenorba.it",
       "name": "Telenorba",
       "status": "fresh",
       "programmes": 167,
-      "until": "20261005000000 +0200"
+      "until": "20261006000000 +0200"
     },
     {
       "id": "TgNorba24.it",
       "name": "Tg Norba 24",
       "status": "fresh",
       "programmes": 236,
-      "until": "20261005000000 +0200"
+      "until": "20261006000000 +0200"
     },
     {
       "id": "TelecityLombardia.it",
       "name": "Telecity Lombardia",
-      "status": "missing",
-      "programmes": 0,
-      "until": null
+      "status": "fresh",
+      "programmes": 17,
+      "until": "20260929123100 +0200"
     },
     {
       "id": "TelecityPiemonte.it",
@@ -565,22 +565,22 @@
       "id": "Cremona1.it",
       "name": "Cremona 1",
       "status": "fresh",
-      "programmes": 132,
+      "programmes": 108,
       "until": "20261005000000 +0200"
     },
     {
       "id": "Sportitalia.it",
       "name": "Sportitalia",
       "status": "fresh",
-      "programmes": 188,
-      "until": "20261005023000 +0200"
+      "programmes": 192,
+      "until": "20261006021000 +0200"
     },
     {
       "id": "SISolocalcio.it",
       "name": "SI Solocalcio",
       "status": "fresh",
-      "programmes": 194,
-      "until": "20261005020100 +0200"
+      "programmes": 176,
+      "until": "20261006060000 +0200"
     },
     {
       "id": "ACISportTv.it",
@@ -593,21 +593,21 @@
       "id": "ClassCNBC.it",
       "name": "Class CNBC",
       "status": "fresh",
-      "programmes": 118,
-      "until": "20261005010000 +0200"
+      "programmes": 111,
+      "until": "20261006070000 +0200"
     },
     {
       "id": "ClassTvModa.it",
       "name": "Class Tv Moda",
       "status": "fresh",
       "programmes": 393,
-      "until": "20261005063000 +0200"
+      "until": "20261006063000 +0200"
     },
     {
       "id": "etvMarche.it",
       "name": "etv Marche",
       "status": "fresh",
-      "programmes": 126,
+      "programmes": 93,
       "until": "20261003000000 +0200"
     },
     {
@@ -643,13 +643,13 @@
       "name": "TRM H24",
       "status": "fresh",
       "programmes": 420,
-      "until": "20261005000000 +0200"
+      "until": "20261006000000 +0200"
     },
     {
       "id": "TVSLO1.si",
       "name": "TV SLO 1",
       "status": "fresh",
-      "programmes": 184,
+      "programmes": 183,
       "until": "20261002005000 +0200"
     },
     {
@@ -712,120 +712,120 @@
       "id": "France2.fr",
       "name": "France 2",
       "status": "fresh",
-      "programmes": 146,
-      "until": "20261002030500 +0200"
+      "programmes": 152,
+      "until": "20261003031000 +0200"
     },
     {
       "id": "France3.fr",
       "name": "France 3",
       "status": "fresh",
-      "programmes": 201,
-      "until": "20261001234200 +0200"
+      "programmes": 179,
+      "until": "20261002231000 +0200"
     },
     {
       "id": "France3BasseNormandie.fr",
       "name": "France 3 Basse Normandie",
       "status": "fresh",
-      "programmes": 175,
-      "until": "20261001010000 +0000"
+      "programmes": 160,
+      "until": "20261002004500 +0000"
     },
     {
       "id": "France4.fr",
       "name": "France 4",
       "status": "fresh",
-      "programmes": 339,
-      "until": "20261001004000 +0000"
+      "programmes": 359,
+      "until": "20261002011000 +0000"
     },
     {
       "id": "France5.fr",
       "name": "France 5",
       "status": "fresh",
       "programmes": 255,
-      "until": "20261002035700 +0200"
+      "until": "20261003035500 +0200"
     },
     {
       "id": "Franceinfo.fr",
       "name": "France:info",
       "status": "fresh",
-      "programmes": 67,
-      "until": "20261001225900 +0200"
+      "programmes": 70,
+      "until": "20261002225900 +0200"
     },
     {
       "id": "France24Francais.fr",
       "name": "France 24 Français",
       "status": "fresh",
-      "programmes": 499,
-      "until": "20261001235100 +0200"
+      "programmes": 501,
+      "until": "20261002230800 +0200"
     },
     {
       "id": "France24Arabic.fr",
       "name": "France 24 Arabic",
       "status": "fresh",
-      "programmes": 504,
-      "until": "20261001000000 +0000"
+      "programmes": 507,
+      "until": "20261002000000 +0000"
     },
     {
       "id": "France24English.fr",
       "name": "France 24 English",
       "status": "fresh",
-      "programmes": 485,
-      "until": "20261001000000 +0000"
+      "programmes": 480,
+      "until": "20261002000000 +0000"
     },
     {
       "id": "France24Spanish.fr",
       "name": "France 24 Spanish",
       "status": "fresh",
-      "programmes": 439,
-      "until": "20261001000000 +0000"
+      "programmes": 428,
+      "until": "20261002000000 +0000"
     },
     {
       "id": "BFMTv.fr",
       "name": "BFM Tv",
       "status": "fresh",
       "programmes": 53,
-      "until": "20261001210000 +0200"
+      "until": "20261002210000 +0200"
     },
     {
       "id": "CNews.fr",
       "name": "CNews",
       "status": "fresh",
-      "programmes": 263,
-      "until": "20261001225900 +0200"
+      "programmes": 245,
+      "until": "20261002225900 +0200"
     },
     {
       "id": "TF1.fr",
       "name": "TF1",
       "status": "fresh",
-      "programmes": 107,
-      "until": "20261001035000 +0000"
+      "programmes": 108,
+      "until": "20261002000500 +0000"
     },
     {
       "id": "M6.fr",
       "name": "M6",
       "status": "fresh",
-      "programmes": 85,
-      "until": "20261001231000 +0200"
+      "programmes": 89,
+      "until": "20261002232500 +0200"
     },
     {
       "id": "W9.fr",
       "name": "W9",
       "status": "fresh",
-      "programmes": 91,
-      "until": "20261001232000 +0200"
+      "programmes": 98,
+      "until": "20261002232000 +0200"
     },
     {
       "id": "TMC.fr",
       "name": "TMC",
       "status": "fresh",
-      "programmes": 84,
-      "until": "20261001041000 +0000"
+      "programmes": 88,
+      "until": "20261002041000 +0000"
     },
     {
       "id": "TFX.fr",
       "name": "TFX",
       "status": "fresh",
-      "programmes": 89,
-      "until": "20261001045500 +0000"
+      "programmes": 83,
+      "until": "20261002045500 +0000"
     },
     {
       "id": "MTVFrance.fr",
@@ -846,7 +846,7 @@
       "name": "arte FR",
       "status": "fresh",
       "programmes": 114,
-      "until": "20261001010500 +0000"
+      "until": "20261002002500 +0000"
     },
     {
       "id": "TV5MondeEurope.fr",
@@ -859,134 +859,134 @@
       "id": "La1.es",
       "name": "La 1",
       "status": "fresh",
-      "programmes": 69,
-      "until": "20260930230000 +0200"
+      "programmes": 73,
+      "until": "20261001230000 +0200"
     },
     {
       "id": "La1Canarias.es",
       "name": "La 1 Canarias",
       "status": "fresh",
-      "programmes": 71,
-      "until": "20260930230000 +0200"
+      "programmes": 75,
+      "until": "20261001230000 +0200"
     },
     {
       "id": "La1Catalunya.es",
       "name": "La 1 Catalunya",
       "status": "fresh",
-      "programmes": 70,
-      "until": "20260930230000 +0200"
+      "programmes": 73,
+      "until": "20261001230000 +0200"
     },
     {
       "id": "La2.es",
       "name": "La 2",
       "status": "fresh",
-      "programmes": 124,
-      "until": "20260930232500 +0200"
+      "programmes": 116,
+      "until": "20261001223500 +0200"
     },
     {
       "id": "La2Canarias.es",
       "name": "La 2 Canarias",
       "status": "fresh",
-      "programmes": 128,
-      "until": "20260930232500 +0200"
+      "programmes": 120,
+      "until": "20261001223500 +0200"
     },
     {
       "id": "La2Catalunya.es",
       "name": "La 2 Catalunya",
       "status": "fresh",
-      "programmes": 112,
-      "until": "20260930232500 +0200"
+      "programmes": 110,
+      "until": "20261001223500 +0200"
     },
     {
       "id": "24h.es",
       "name": "24h",
       "status": "fresh",
-      "programmes": 136,
-      "until": "20260930220000 +0200"
+      "programmes": 116,
+      "until": "20261001233000 +0200"
     },
     {
       "id": "teledeporte.es",
       "name": "teledeporte",
       "status": "fresh",
-      "programmes": 73,
-      "until": "20260930220000 +0200"
+      "programmes": 61,
+      "until": "20261001220000 +0200"
     },
     {
       "id": "clan.es",
       "name": "clan",
       "status": "fresh",
-      "programmes": 336,
-      "until": "20260930235900 +0200"
+      "programmes": 343,
+      "until": "20261001235800 +0200"
     },
     {
       "id": "Antena3Internacional.es",
       "name": "Antena 3 Internacional",
       "status": "fresh",
       "programmes": 38,
-      "until": "20260930040000 +0000"
+      "until": "20261001040000 +0000"
     },
     {
       "id": "TV3.es",
       "name": "TV3",
       "status": "fresh",
-      "programmes": 78,
-      "until": "20260930232500 +0200"
+      "programmes": 75,
+      "until": "20261001234500 +0200"
     },
     {
       "id": "TV3Cat.es",
       "name": "TV3 Cat",
       "status": "fresh",
-      "programmes": 77,
-      "until": "20260930232500 +0200"
+      "programmes": 74,
+      "until": "20261001234500 +0200"
     },
     {
       "id": "3CatInfo.es",
       "name": "3Cat Info",
       "status": "fresh",
-      "programmes": 60,
-      "until": "20260930220500 +0200"
+      "programmes": 62,
+      "until": "20261001220500 +0200"
     },
     {
       "id": "Esport3.es",
       "name": "Esport3",
       "status": "fresh",
-      "programmes": 79,
-      "until": "20260930220000 +0200"
+      "programmes": 55,
+      "until": "20261001220000 +0200"
     },
     {
       "id": "CanalSurAndalucia.es",
       "name": "Canal Sur Andalucia",
       "status": "fresh",
-      "programmes": 67,
-      "until": "20260930224500 +0200"
+      "programmes": 61,
+      "until": "20261001224500 +0200"
     },
     {
       "id": "CanalSur2Accessible.es",
       "name": "Canal Sur 2 Accessible",
       "status": "fresh",
-      "programmes": 74,
-      "until": "20261001040000 +0000"
+      "programmes": 68,
+      "until": "20261002044500 +0000"
     },
     {
       "id": "AragonTvInternacional.es",
       "name": "Aragon Tv Internacional",
       "status": "fresh",
       "programmes": 75,
-      "until": "20260930225000 +0200"
+      "until": "20261001215000 +0200"
     },
     {
       "id": "etb1.es",
       "name": "etb 1",
       "status": "fresh",
-      "programmes": 123,
-      "until": "20260930232500 +0200"
+      "programmes": 129,
+      "until": "20261001232000 +0200"
     },
     {
       "id": "etb2.es",
       "name": "etb 2",
       "status": "fresh",
-      "programmes": 114,
-      "until": "20260930230000 +0200"
+      "programmes": 106,
+      "until": "20261001234000 +0200"
     },
     {
       "id": "RTP1.pt",
@@ -1041,8 +1041,8 @@
       "id": "Nitro.de",
       "name": "Nitro",
       "status": "fresh",
-      "programmes": 134,
-      "until": "20261002003500 +0000"
+      "programmes": 104,
+      "until": "20261002032000 +0000"
     },
     {
       "id": "RTL2.de",
@@ -1062,22 +1062,22 @@
       "id": "SuperRTL.de",
       "name": "Super RTL",
       "status": "fresh",
-      "programmes": 261,
+      "programmes": 197,
       "until": "20261002033000 +0000"
     },
     {
       "id": "Prosieben.de",
       "name": "Prosieben",
       "status": "fresh",
-      "programmes": 151,
+      "programmes": 152,
       "until": "20261002015500 +0000"
     },
     {
       "id": "Sixx.de",
       "name": "Sixx",
       "status": "fresh",
-      "programmes": 113,
-      "until": "20261002001500 +0000"
+      "programmes": 117,
+      "until": "20261002030500 +0000"
     },
     {
       "id": "Sat1.de",
@@ -1097,22 +1097,22 @@
       "id": "EurosportDE.de",
       "name": "Eurosport DE",
       "status": "fresh",
-      "programmes": 52,
+      "programmes": 40,
       "until": "20261001233000 +0000"
     },
     {
       "id": "Sport1.de",
       "name": "Sport1",
       "status": "fresh",
-      "programmes": 71,
-      "until": "20261002000500 +0000"
+      "programmes": 59,
+      "until": "20261002110000 +0000"
     },
     {
       "id": "DeluxeMusic.de",
       "name": "Deluxe Music",
       "status": "fresh",
-      "programmes": 56,
-      "until": "20261002010000 +0000"
+      "programmes": 43,
+      "until": "20261002040000 +0000"
     },
     {
       "id": "DeluxeDance.de",
@@ -1146,15 +1146,15 @@
       "id": "SVT1.se",
       "name": "SVT 1",
       "status": "fresh",
-      "programmes": 118,
-      "until": "20261002080000 +0000"
+      "programmes": 117,
+      "until": "20261003053000 +0000"
     },
     {
       "id": "SVT2.se",
       "name": "SVT 2",
       "status": "fresh",
-      "programmes": 96,
-      "until": "20261002100500 +0000"
+      "programmes": 88,
+      "until": "20261003075500 +0000"
     },
     {
       "id": "BBCOneYorkshire.uk",
@@ -1482,21 +1482,21 @@
       "id": "HRT2.hr",
       "name": "HRT 2",
       "status": "fresh",
-      "programmes": 123,
+      "programmes": 121,
       "until": "20261002052500 +0200"
     },
     {
       "id": "HRT3.hr",
       "name": "HRT 3",
       "status": "fresh",
-      "programmes": 316,
+      "programmes": 314,
       "until": "20261002053000 +0200"
     },
     {
       "id": "HRT4.hr",
       "name": "HRT 4",
       "status": "fresh",
-      "programmes": 514,
+      "programmes": 511,
       "until": "20261002055700 +0200"
     },
     {
@@ -1567,7 +1567,7 @@
       "name": "TRT 1",
       "status": "fresh",
       "programmes": 43,
-      "until": "20261001020500 +0300"
+      "until": "20261002020500 +0300"
     },
     {
       "id": "TRTTurk.tr",
@@ -1588,7 +1588,7 @@
       "name": "TRT Spor",
       "status": "fresh",
       "programmes": 60,
-      "until": "20261001010000 +0300"
+      "until": "20261002010000 +0300"
     },
     {
       "id": "NHKWorldJapan.jp",
@@ -1601,7 +1601,7 @@
       "id": "BNT4BNTWorld.bg",
       "name": "BNT 4 - BNT World",
       "status": "fresh",
-      "programmes": 131,
+      "programmes": 130,
       "until": "20261001232500 +0300"
     }
   ]
