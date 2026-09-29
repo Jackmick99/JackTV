@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-09-29T05:49:43.471396+00:00",
+  "checked_at": "2026-09-29T13:01:31.635970+00:00",
   "accepted": true,
   "channels": 228,
-  "fresh": 226,
+  "fresh": 228,
   "previous": 0,
-  "missing": 2,
+  "missing": 0,
   "unknown_playlist_ids": [],
   "source_errors": {},
   "coverage": [
@@ -19,14 +19,14 @@
       "id": "Rai2.it",
       "name": "Rai 2",
       "status": "fresh",
-      "programmes": 245,
+      "programmes": 244,
       "until": "20261006015000 +0200"
     },
     {
       "id": "Rai3.it",
       "name": "Rai 3",
       "status": "fresh",
-      "programmes": 255,
+      "programmes": 254,
       "until": "20261006000000 +0200"
     },
     {
@@ -145,8 +145,8 @@
       "id": "Rai5.it",
       "name": "Rai 5",
       "status": "fresh",
-      "programmes": 211,
-      "until": "20261006010700 +0200"
+      "programmes": 210,
+      "until": "20261006010300 +0200"
     },
     {
       "id": "RaiMovie.it",
@@ -173,7 +173,7 @@
       "id": "RaiPremium.it",
       "name": "Rai Premium",
       "status": "fresh",
-      "programmes": 168,
+      "programmes": 169,
       "until": "20261006003000 +0200"
     },
     {
@@ -411,7 +411,7 @@
       "id": "Cielo.it",
       "name": "Cielo",
       "status": "fresh",
-      "programmes": 196,
+      "programmes": 194,
       "until": "20261006022000 +0200"
     },
     {
@@ -453,29 +453,29 @@
       "id": "A3Nordest.it",
       "name": "A3 Nordest",
       "status": "fresh",
-      "programmes": 59,
-      "until": "20260930013700 +0200"
+      "programmes": 67,
+      "until": "20260930045600 +0200"
     },
     {
       "id": "ReteVeneta.it",
       "name": "Rete Veneta",
       "status": "fresh",
-      "programmes": 50,
-      "until": "20260930004000 +0200"
+      "programmes": 54,
+      "until": "20260930024600 +0200"
     },
     {
       "id": "Telenordest.it",
       "name": "Telenordest",
       "status": "fresh",
-      "programmes": 26,
-      "until": "20260930012400 +0200"
+      "programmes": 32,
+      "until": "20260930043800 +0200"
     },
     {
       "id": "Tv12.it",
       "name": "Tv 12",
       "status": "fresh",
-      "programmes": 43,
-      "until": "20260930001100 +0200"
+      "programmes": 49,
+      "until": "20260930032200 +0200"
     },
     {
       "id": "TVAVicenza.it",
@@ -495,7 +495,7 @@
       "id": "RTL1025.it",
       "name": "RTL 102.5",
       "status": "fresh",
-      "programmes": 73,
+      "programmes": 74,
       "until": "20261006030000 +0200"
     },
     {
@@ -551,22 +551,22 @@
       "id": "TelecityLombardia.it",
       "name": "Telecity Lombardia",
       "status": "fresh",
-      "programmes": 17,
-      "until": "20260929123100 +0200"
+      "programmes": 30,
+      "until": "20260930000900 +0200"
     },
     {
       "id": "TelecityPiemonte.it",
       "name": "Telecity Piemonte",
-      "status": "missing",
-      "programmes": 0,
-      "until": null
+      "status": "fresh",
+      "programmes": 30,
+      "until": "20260930000900 +0200"
     },
     {
       "id": "Cremona1.it",
       "name": "Cremona 1",
       "status": "fresh",
-      "programmes": 108,
-      "until": "20261005000000 +0200"
+      "programmes": 164,
+      "until": "20261006000000 +0200"
     },
     {
       "id": "Sportitalia.it",
@@ -620,16 +620,16 @@
     {
       "id": "Canale8.it",
       "name": "Canale 8",
-      "status": "missing",
-      "programmes": 0,
-      "until": null
+      "status": "fresh",
+      "programmes": 15,
+      "until": "20260930000900 +0200"
     },
     {
       "id": "Canale21.it",
       "name": "Canale 21",
       "status": "fresh",
-      "programmes": 5,
-      "until": "20260929113600 +0200"
+      "programmes": 4,
+      "until": "20260929210400 +0200"
     },
     {
       "id": "Bloomberg.it",
@@ -1468,8 +1468,8 @@
       "id": "RecordNews.br",
       "name": "Record News",
       "status": "fresh",
-      "programmes": 131,
-      "until": "20261002082000 +0000"
+      "programmes": 127,
+      "until": "20261003082000 +0000"
     },
     {
       "id": "HRT1.hr",
