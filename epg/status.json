@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-09-30T05:39:39.679723+00:00",
+  "checked_at": "2026-09-30T12:43:16.195748+00:00",
   "accepted": true,
   "channels": 228,
-  "fresh": 225,
+  "fresh": 228,
   "previous": 0,
-  "missing": 3,
+  "missing": 0,
   "unknown_playlist_ids": [],
   "source_errors": {},
   "coverage": [
@@ -12,21 +12,21 @@
       "id": "Rai1.it",
       "name": "Rai 1",
       "status": "fresh",
-      "programmes": 216,
+      "programmes": 215,
       "until": "20261007000100 +0200"
     },
     {
       "id": "Rai2.it",
       "name": "Rai 2",
       "status": "fresh",
-      "programmes": 245,
+      "programmes": 244,
       "until": "20261007014000 +0200"
     },
     {
       "id": "Rai3.it",
       "name": "Rai 3",
       "status": "fresh",
-      "programmes": 254,
+      "programmes": 253,
       "until": "20261007000000 +0200"
     },
     {
@@ -145,8 +145,8 @@
       "id": "Rai5.it",
       "name": "Rai 5",
       "status": "fresh",
-      "programmes": 209,
-      "until": "20261007000600 +0200"
+      "programmes": 210,
+      "until": "20261007005100 +0200"
     },
     {
       "id": "RaiMovie.it",
@@ -166,7 +166,7 @@
       "id": "RaiSport.it",
       "name": "Rai Sport HD",
       "status": "fresh",
-      "programmes": 123,
+      "programmes": 122,
       "until": "20261007000000 +0200"
     },
     {
@@ -453,8 +453,8 @@
       "id": "A3Nordest.it",
       "name": "A3 Nordest",
       "status": "fresh",
-      "programmes": 71,
-      "until": "20261001043500 +0200"
+      "programmes": 72,
+      "until": "20261001043700 +0200"
     },
     {
       "id": "ReteVeneta.it",
@@ -467,15 +467,15 @@
       "id": "Telenordest.it",
       "name": "Telenordest",
       "status": "fresh",
-      "programmes": 31,
+      "programmes": 32,
       "until": "20261001044000 +0200"
     },
     {
       "id": "Tv12.it",
       "name": "Tv 12",
       "status": "fresh",
-      "programmes": 50,
-      "until": "20261001031800 +0200"
+      "programmes": 49,
+      "until": "20261001031600 +0200"
     },
     {
       "id": "TVAVicenza.it",
@@ -488,7 +488,7 @@
       "id": "Telechiara.it",
       "name": "Telechiara",
       "status": "fresh",
-      "programmes": 161,
+      "programmes": 159,
       "until": "20261007002000 +0200"
     },
     {
@@ -551,22 +551,22 @@
       "id": "TelecityLombardia.it",
       "name": "Telecity Lombardia",
       "status": "fresh",
-      "programmes": 30,
+      "programmes": 29,
       "until": "20261001000800 +0200"
     },
     {
       "id": "TelecityPiemonte.it",
       "name": "Telecity Piemonte",
-      "status": "missing",
-      "programmes": 0,
-      "until": null
+      "status": "fresh",
+      "programmes": 30,
+      "until": "20261001000800 +0200"
     },
     {
       "id": "Cremona1.it",
       "name": "Cremona 1",
       "status": "fresh",
-      "programmes": 143,
-      "until": "20261006000000 +0200"
+      "programmes": 166,
+      "until": "20261007000000 +0200"
     },
     {
       "id": "Sportitalia.it",
@@ -620,16 +620,16 @@
     {
       "id": "Canale8.it",
       "name": "Canale 8",
-      "status": "missing",
-      "programmes": 0,
-      "until": null
+      "status": "fresh",
+      "programmes": 15,
+      "until": "20261001000600 +0200"
     },
     {
       "id": "Canale21.it",
       "name": "Canale 21",
-      "status": "missing",
-      "programmes": 0,
-      "until": null
+      "status": "fresh",
+      "programmes": 4,
+      "until": "20260930234000 +0200"
     },
     {
       "id": "Bloomberg.it",
@@ -1468,8 +1468,8 @@
       "id": "RecordNews.br",
       "name": "Record News",
       "status": "fresh",
-      "programmes": 127,
-      "until": "20261003082000 +0000"
+      "programmes": 119,
+      "until": "20261004053000 +0000"
     },
     {
       "id": "HRT1.hr",
