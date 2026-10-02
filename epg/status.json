@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-02T05:47:35.325180+00:00",
+  "checked_at": "2026-10-02T12:45:28.053528+00:00",
   "accepted": true,
   "channels": 228,
   "fresh": 218,
@@ -1468,8 +1468,8 @@
       "id": "RecordNews.br",
       "name": "Record News",
       "status": "fresh",
-      "programmes": 105,
-      "until": "20261005050000 +0000"
+      "programmes": 108,
+      "until": "20261006082000 +0000"
     },
     {
       "id": "HRT1.hr",
