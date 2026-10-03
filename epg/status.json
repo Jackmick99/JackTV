@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-03T16:27:26.471590+00:00",
+  "checked_at": "2026-10-03T21:23:23.554637+00:00",
   "accepted": true,
   "channels": 228,
   "fresh": 217,
@@ -1013,106 +1013,106 @@
       "id": "ZDF.de",
       "name": "ZDF",
       "status": "fresh",
-      "programmes": 133,
-      "until": "20261006005000 +0000"
+      "programmes": 131,
+      "until": "20261007012000 +0000"
     },
     {
       "id": "DasErste.de",
       "name": "Das Erste",
       "status": "fresh",
-      "programmes": 135,
-      "until": "20261006000800 +0000"
+      "programmes": 140,
+      "until": "20261007004000 +0000"
     },
     {
       "id": "RTL.de",
       "name": "RTL",
       "status": "fresh",
-      "programmes": 80,
-      "until": "20261006001000 +0000"
+      "programmes": 78,
+      "until": "20261007002000 +0000"
     },
     {
       "id": "RTLLetzebuerg.lu",
       "name": "RTL Lëtzebuerg",
       "status": "fresh",
       "programmes": 42,
-      "until": "20261006040000 -0100"
+      "until": "20261007040000 -0100"
     },
     {
       "id": "Nitro.de",
       "name": "Nitro",
       "status": "fresh",
       "programmes": 110,
-      "until": "20261006013500 +0000"
+      "until": "20261007015500 +0000"
     },
     {
       "id": "RTL2.de",
       "name": "RTL 2",
       "status": "fresh",
-      "programmes": 81,
-      "until": "20261006002000 +0000"
+      "programmes": 83,
+      "until": "20261007014000 +0000"
     },
     {
       "id": "VOX.de",
       "name": "VOX",
       "status": "fresh",
       "programmes": 97,
-      "until": "20261006001000 +0000"
+      "until": "20261007002500 +0000"
     },
     {
       "id": "SuperRTL.de",
       "name": "Super RTL",
       "status": "fresh",
-      "programmes": 206,
-      "until": "20261006033000 +0000"
+      "programmes": 274,
+      "until": "20261007033000 +0000"
     },
     {
       "id": "Prosieben.de",
       "name": "Prosieben",
       "status": "fresh",
-      "programmes": 94,
-      "until": "20261006012000 +0000"
+      "programmes": 95,
+      "until": "20261007003500 +0000"
     },
     {
       "id": "Sixx.de",
       "name": "Sixx",
       "status": "fresh",
-      "programmes": 107,
-      "until": "20261006001000 +0000"
+      "programmes": 108,
+      "until": "20261007003000 +0000"
     },
     {
       "id": "Sat1.de",
       "name": "Sat.1",
       "status": "fresh",
-      "programmes": 69,
-      "until": "20261006033000 +0000"
+      "programmes": 64,
+      "until": "20261007033000 +0000"
     },
     {
       "id": "arteDE.de",
       "name": "arte DE",
       "status": "fresh",
-      "programmes": 108,
-      "until": "20261006005000 +0000"
+      "programmes": 106,
+      "until": "20261007012000 +0000"
     },
     {
       "id": "EurosportDE.de",
       "name": "Eurosport DE",
       "status": "fresh",
-      "programmes": 35,
-      "until": "20261005233000 +0000"
+      "programmes": 51,
+      "until": "20261006233000 +0000"
     },
     {
       "id": "Sport1.de",
       "name": "Sport1",
       "status": "fresh",
-      "programmes": 62,
-      "until": "20261006103000 +0000"
+      "programmes": 83,
+      "until": "20261007001000 +0000"
     },
     {
       "id": "DeluxeMusic.de",
       "name": "Deluxe Music",
       "status": "fresh",
-      "programmes": 39,
-      "until": "20261006040000 +0000"
+      "programmes": 51,
+      "until": "20261007010000 +0000"
     },
     {
       "id": "DeluxeDance.de",
@@ -1504,90 +1504,90 @@
       "name": "TVP 1",
       "status": "fresh",
       "programmes": 192,
-      "until": "20261007000000 -0500"
+      "until": "20261008000000 -0500"
     },
     {
       "id": "TVP2.pl",
       "name": "TVP 2",
       "status": "fresh",
-      "programmes": 141,
-      "until": "20261007003000 -0500"
+      "programmes": 139,
+      "until": "20261008003000 -0500"
     },
     {
       "id": "TVP3Krakow.pl",
       "name": "TVP 3 Krakow",
       "status": "fresh",
-      "programmes": 365,
-      "until": "20261007000000 -0500"
+      "programmes": 369,
+      "until": "20261008000000 -0500"
     },
     {
       "id": "TVPSport.pl",
       "name": "TVP Sport",
       "status": "fresh",
-      "programmes": 75,
-      "until": "20261007010500 -0500"
+      "programmes": 76,
+      "until": "20261008011500 -0500"
     },
     {
       "id": "TVPPolonia.pl",
       "name": "TVP Polonia",
       "status": "fresh",
-      "programmes": 206,
-      "until": "20261007000000 -0500"
+      "programmes": 208,
+      "until": "20261008000000 -0500"
     },
     {
       "id": "TVPInfo.pl",
       "name": "TVP Info",
       "status": "fresh",
       "programmes": 393,
-      "until": "20261007000000 -0500"
+      "until": "20261008000000 -0500"
     },
     {
       "id": "TVPWorld.pl",
       "name": "TVP World",
       "status": "fresh",
-      "programmes": 533,
-      "until": "20261007000000 -0500"
+      "programmes": 544,
+      "until": "20261008000000 -0500"
     },
     {
       "id": "4FunTv.pl",
       "name": "4Fun Tv",
       "status": "fresh",
-      "programmes": 84,
-      "until": "20261007000000 -0500"
+      "programmes": 83,
+      "until": "20261008000000 -0500"
     },
     {
       "id": "4FunDance.pl",
       "name": "4Fun Dance",
       "status": "fresh",
-      "programmes": 58,
-      "until": "20261007010000 -0500"
+      "programmes": 57,
+      "until": "20261008010000 -0500"
     },
     {
       "id": "TRT1.tr",
       "name": "TRT 1",
       "status": "fresh",
-      "programmes": 35,
-      "until": "20261005001500 +0300"
+      "programmes": 37,
+      "until": "20261006001500 +0300"
     },
     {
       "id": "TRTTurk.tr",
       "name": "TRT Turk",
       "status": "fresh",
-      "programmes": 123,
-      "until": "20261005010000 +0300"
+      "programmes": 121,
+      "until": "20261006011500 +0300"
     },
     {
       "id": "TV8.tr",
       "name": "TV8",
       "status": "fresh",
-      "programmes": 30,
-      "until": "20261005071500 +0300"
+      "programmes": 27,
+      "until": "20261006001500 +0300"
     },
     {
       "id": "TRTSpor.tr",
       "name": "TRT Spor",
       "status": "fresh",
-      "programmes": 59,
+      "programmes": 58,
       "until": "20261006010000 +0300"
     },
     {
@@ -1601,8 +1601,8 @@
       "id": "BNT4BNTWorld.bg",
       "name": "BNT 4 - BNT World",
       "status": "fresh",
-      "programmes": 95,
-      "until": "20261005053000 +0300"
+      "programmes": 122,
+      "until": "20261006232500 +0300"
     }
   ]
 }
