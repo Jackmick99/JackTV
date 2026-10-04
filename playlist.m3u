@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/Jackmick99/JackTV/refs/heads/main/JackTV_EPG.xml.gz"
+#EXTM3U url-tvg="JackTV_EPG.xml.gz"
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/330px-Flag_of_Italy.svg.png",=== ITALIA ===
 https://github.com/Jackmick99/video-mp4/raw/refs/heads/main/IT.mp4
 #EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/330px-Rai_1_-_Logo_2016.svg.png",Rai 1 (Rai Play)
@@ -1171,6 +1171,9 @@ https://3ab45cf9f7314a75b436485ad5a0de31.msvdn.net/live/S64468501/Dz5Z8RRQqh7z/p
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rQn12KM/7gold.png",7Gold Telepadova (Tvheadend Veneto)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-veneto1.zappr.stream/stream/channel/eff364928cea6ad79e63aee19b3440ab?profile=webtv-webtv-vp8-vorbis-webm
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rQn12KM/7gold.png",7Gold Telerent
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
+https://5db313b643fd8.streamlock.net/telerent/telerent/playlist.m3u8
 #EXTINF:-1 tvg-id="Telenordest.it" tvg-logo="https://telenordest.medianordest.it/wp-content/uploads/2020/09/TNELogo.png",Telenordest (Tvheadend Veneto)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-veneto1.zappr.stream/stream/channel/4485192e8f47dbddf67157881e0abf0d?profile=webtv-vp8-vorbis-webm
