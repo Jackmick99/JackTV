@@ -253,6 +253,12 @@ def main(argv=None):
             f.write(summary)
     print(summary)
     if not accepted:
+        sources = {c["id"]: c["source_url"] for c in channels}
+        print(f"EPG mancanti ({missing}):", flush=True)
+        for c in report:
+            if c["status"] == "missing":
+                print(f"- {c['name']} [{c['id']}] - fonte EPG prevista: {sources[c['id']]}",
+                      flush=True)
         raise RuntimeError("Coverage guard failed; published guide was not replaced")
     data = ET.tostring(xml, encoding="utf-8", xml_declaration=True)
     parsed = ET.fromstring(data)
