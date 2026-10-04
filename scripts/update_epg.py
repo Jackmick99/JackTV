@@ -142,6 +142,41 @@ def fetch_source(url, channels, cache):
     return {c["id"]: parsed.get(c["source_id"], []) for c in channels}
 
 
+def fetch_reviewed_sources(channels, cache, now):
+    """Try reviewed sources in order, stopping at the first valid future guide."""
+    choices = {c["id"]: [c, *c.get("fallback_sources", [])] for c in channels}
+    fetched, errors, selected, attempted = {}, {}, {}, defaultdict(list)
+    for priority in range(max((len(s) for s in choices.values()), default=0)):
+        groups = defaultdict(list)
+        for c in channels:
+            cid = c["id"]
+            if cid in fetched or priority >= len(choices[cid]):
+                continue
+            source = choices[cid][priority]
+            groups[(source["source_url"], source["format"])].append({**source, "id": cid})
+            attempted[cid].append({key: source[key] for key in ("source_url", "source_id")})
+        with ThreadPoolExecutor(max_workers=4) as pool:
+            tasks = {pool.submit(fetch_source, url, group, cache): (url, group)
+                     for (url, _), group in groups.items()}
+            for task in as_completed(tasks):
+                url, group = tasks[task]
+                try:
+                    result = task.result()
+                    for c in group:
+                        cid = c["id"]
+                        current = canonical_programmes(result.get(cid, []), now)
+                        if future(current, now):
+                            fetched[cid] = current
+                            selected[cid] = {key: c[key] for key in ("source_url", "source_id")}
+                            if priority:
+                                print("FALLBACK", cid, url, flush=True)
+                    print("OK", url, flush=True)
+                except Exception as exc:
+                    errors[url] = f"{type(exc).__name__}: {exc}"
+                    print("SOURCE FAILED", url, type(exc).__name__, flush=True)
+    return fetched, errors, selected, attempted
+
+
 @contextmanager
 def scratch_directory(parent=None):
     parent = Path(parent or tempfile.gettempdir()).resolve()
@@ -211,28 +246,18 @@ def main(argv=None):
     if not channels:
         raise ValueError("No reviewed channel found in playlist")
     unknown = sorted(ids - {c["id"] for c in channels})
-    groups = defaultdict(list)
-    for c in channels:
-        groups[c["source_url"]].append(c)
     previous = {}
     old_file = root / "JackTV_EPG.xml.gz"
     if old_file.exists():
         previous = parse_xmltv(old_file.read_bytes(), ids)
-    fetched, errors = {}, {}
     with (nullcontext(args.cache_dir) if args.cache_dir else scratch_directory()) as temporary:
         cache = args.cache_dir or Path(temporary)
         cache.mkdir(parents=True, exist_ok=True)
-        with ThreadPoolExecutor(max_workers=4) as pool:
-            tasks = {pool.submit(fetch_source, url, group, cache): url for url, group in groups.items()}
-            for task in as_completed(tasks):
-                url = tasks[task]
-                try:
-                    fetched.update(task.result())
-                    print("OK", url, flush=True)
-                except Exception as exc:
-                    errors[url] = f"{type(exc).__name__}: {exc}"
-                    print("SOURCE FAILED", url, type(exc).__name__, flush=True)
+        fetched, errors, selected, attempted = fetch_reviewed_sources(channels, cache, now)
     xml, report = assemble(channels, fetched, previous, now)
+    for c in report:
+        c["source_used"] = selected.get(c["id"])
+        c["sources_attempted"] = attempted[c["id"]]
     fresh = sum(c["status"] == "fresh" for c in report)
     missing = sum(c["status"] == "missing" for c in report)
     fallback = sum(c["status"] == "previous" for c in report)
@@ -253,11 +278,12 @@ def main(argv=None):
             f.write(summary)
     print(summary)
     if not accepted:
-        sources = {c["id"]: c["source_url"] for c in channels}
         print(f"EPG mancanti ({missing}):", flush=True)
         for c in report:
             if c["status"] == "missing":
-                print(f"- {c['name']} [{c['id']}] - fonte EPG prevista: {sources[c['id']]}",
+                sources = "; ".join(f"{s['source_url']} (ID fonte: {s['source_id']})"
+                                    for s in c["sources_attempted"])
+                print(f"- {c['name']} [{c['id']}] - fonti EPG provate: {sources}",
                       flush=True)
         raise RuntimeError("Coverage guard failed; published guide was not replaced")
     data = ET.tostring(xml, encoding="utf-8", xml_declaration=True)

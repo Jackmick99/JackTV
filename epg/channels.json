@@ -4,26 +4,47 @@
     {
       "id": "Rai1.it",
       "name": "Rai 1",
-      "source_url": "https://epg.zappr.stream/it/dtt/national.json",
-      "format": "zappr",
-      "source_id": "rai-1",
-      "provider": "raiplay"
+      "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
+      "format": "xmltv",
+      "source_id": "Rai1.it",
+      "fallback_sources": [
+        {
+          "source_url": "https://epg.zappr.stream/it/dtt/national.json",
+          "format": "zappr",
+          "source_id": "rai-1",
+          "provider": "raiplay"
+        }
+      ]
     },
     {
       "id": "Rai2.it",
       "name": "Rai 2",
-      "source_url": "https://epg.zappr.stream/it/dtt/national.json",
-      "format": "zappr",
-      "source_id": "rai-2",
-      "provider": "raiplay"
+      "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
+      "format": "xmltv",
+      "source_id": "Rai2.it",
+      "fallback_sources": [
+        {
+          "source_url": "https://epg.zappr.stream/it/dtt/national.json",
+          "format": "zappr",
+          "source_id": "rai-2",
+          "provider": "raiplay"
+        }
+      ]
     },
     {
       "id": "Rai3.it",
       "name": "Rai 3",
-      "source_url": "https://epg.zappr.stream/it/dtt/national.json",
-      "format": "zappr",
-      "source_id": "rai-3",
-      "provider": "raiplay"
+      "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
+      "format": "xmltv",
+      "source_id": "Rai3.it",
+      "fallback_sources": [
+        {
+          "source_url": "https://epg.zappr.stream/it/dtt/national.json",
+          "format": "zappr",
+          "source_id": "rai-3",
+          "provider": "raiplay"
+        }
+      ]
     },
     {
       "id": "RTVSanMarino.it",
@@ -84,34 +105,62 @@
     {
       "id": "La7.it",
       "name": "La7",
-      "source_url": "https://epg.zappr.stream/it/dtt/national.json",
-      "format": "zappr",
-      "source_id": "237",
-      "provider": "blue"
+      "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
+      "format": "xmltv",
+      "source_id": "LA7.HD.it",
+      "fallback_sources": [
+        {
+          "source_url": "https://epg.zappr.stream/it/dtt/national.json",
+          "format": "zappr",
+          "source_id": "237",
+          "provider": "blue"
+        }
+      ]
     },
     {
       "id": "La7Cinema.it",
       "name": "La7Cinema",
-      "source_url": "https://epg.zappr.stream/it/dtt/national.json",
-      "format": "zappr",
-      "source_id": "239",
-      "provider": "blue"
+      "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
+      "format": "xmltv",
+      "source_id": "LA7.CINEMA.it",
+      "fallback_sources": [
+        {
+          "source_url": "https://epg.zappr.stream/it/dtt/national.json",
+          "format": "zappr",
+          "source_id": "239",
+          "provider": "blue"
+        }
+      ]
     },
     {
       "id": "Tv8.it",
       "name": "Tv8",
-      "source_url": "https://epg.zappr.stream/it/dtt/national.json",
-      "format": "zappr",
-      "source_id": "266",
-      "provider": "blue"
+      "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
+      "format": "xmltv",
+      "source_id": "TV8.HD.it",
+      "fallback_sources": [
+        {
+          "source_url": "https://epg.zappr.stream/it/dtt/national.json",
+          "format": "zappr",
+          "source_id": "266",
+          "provider": "blue"
+        }
+      ]
     },
     {
       "id": "Nove.it",
       "name": "Nove",
-      "source_url": "https://epg.zappr.stream/it/dtt/national.json",
-      "format": "zappr",
-      "source_id": "118",
-      "provider": "blue"
+      "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
+      "format": "xmltv",
+      "source_id": "Nove.it",
+      "fallback_sources": [
+        {
+          "source_url": "https://epg.zappr.stream/it/dtt/national.json",
+          "format": "zappr",
+          "source_id": "118",
+          "provider": "blue"
+        }
+      ]
     },
     {
       "id": "Eurosport1.it",
@@ -138,58 +187,107 @@
     {
       "id": "Rai4.it",
       "name": "Rai 4",
-      "source_url": "https://epg.zappr.stream/it/dtt/national.json",
-      "format": "zappr",
-      "source_id": "rai-4",
-      "provider": "raiplay"
+      "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
+      "format": "xmltv",
+      "source_id": "Rai4.it",
+      "fallback_sources": [
+        {
+          "source_url": "https://epg.zappr.stream/it/dtt/national.json",
+          "format": "zappr",
+          "source_id": "rai-4",
+          "provider": "raiplay"
+        }
+      ]
     },
     {
       "id": "Rai5.it",
       "name": "Rai 5",
-      "source_url": "https://epg.zappr.stream/it/dtt/national.json",
-      "format": "zappr",
-      "source_id": "rai-5",
-      "provider": "raiplay"
+      "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
+      "format": "xmltv",
+      "source_id": "Rai5.it",
+      "fallback_sources": [
+        {
+          "source_url": "https://epg.zappr.stream/it/dtt/national.json",
+          "format": "zappr",
+          "source_id": "rai-5",
+          "provider": "raiplay"
+        }
+      ]
     },
     {
       "id": "RaiMovie.it",
       "name": "Rai Movie",
-      "source_url": "https://epg.zappr.stream/it/dtt/national.json",
-      "format": "zappr",
-      "source_id": "rai-movie",
-      "provider": "raiplay"
+      "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
+      "format": "xmltv",
+      "source_id": "RaiMovie.it",
+      "fallback_sources": [
+        {
+          "source_url": "https://epg.zappr.stream/it/dtt/national.json",
+          "format": "zappr",
+          "source_id": "rai-movie",
+          "provider": "raiplay"
+        }
+      ]
     },
     {
       "id": "RaiNews24.it",
       "name": "Rai News 24",
-      "source_url": "https://epg.zappr.stream/it/dtt/national.json",
-      "format": "zappr",
-      "source_id": "rai-news-24",
-      "provider": "raiplay"
+      "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
+      "format": "xmltv",
+      "source_id": "RaiNews24.it",
+      "fallback_sources": [
+        {
+          "source_url": "https://epg.zappr.stream/it/dtt/national.json",
+          "format": "zappr",
+          "source_id": "rai-news-24",
+          "provider": "raiplay"
+        }
+      ]
     },
     {
       "id": "RaiSport.it",
       "name": "Rai Sport HD",
-      "source_url": "https://epg.zappr.stream/it/dtt/national.json",
-      "format": "zappr",
-      "source_id": "rai-sport",
-      "provider": "raiplay"
+      "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
+      "format": "xmltv",
+      "source_id": "RaiSport.it",
+      "fallback_sources": [
+        {
+          "source_url": "https://epg.zappr.stream/it/dtt/national.json",
+          "format": "zappr",
+          "source_id": "rai-sport",
+          "provider": "raiplay"
+        }
+      ]
     },
     {
       "id": "RaiPremium.it",
       "name": "Rai Premium",
-      "source_url": "https://epg.zappr.stream/it/dtt/national.json",
-      "format": "zappr",
-      "source_id": "rai-premium",
-      "provider": "raiplay"
+      "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
+      "format": "xmltv",
+      "source_id": "RaiPremium.it",
+      "fallback_sources": [
+        {
+          "source_url": "https://epg.zappr.stream/it/dtt/national.json",
+          "format": "zappr",
+          "source_id": "rai-premium",
+          "provider": "raiplay"
+        }
+      ]
     },
     {
       "id": "RaiGulp.it",
       "name": "Rai Gulp",
-      "source_url": "https://epg.zappr.stream/it/dtt/national.json",
-      "format": "zappr",
-      "source_id": "rai-gulp",
-      "provider": "raiplay"
+      "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
+      "format": "xmltv",
+      "source_id": "RaiGulp.it",
+      "fallback_sources": [
+        {
+          "source_url": "https://epg.zappr.stream/it/dtt/national.json",
+          "format": "zappr",
+          "source_id": "rai-gulp",
+          "provider": "raiplay"
+        }
+      ]
     },
     {
       "id": "RaiScuola.it",
@@ -202,18 +300,32 @@
     {
       "id": "RaiStoria.it",
       "name": "Rai Storia",
-      "source_url": "https://epg.zappr.stream/it/dtt/national.json",
-      "format": "zappr",
-      "source_id": "rai-storia",
-      "provider": "raiplay"
+      "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
+      "format": "xmltv",
+      "source_id": "RaiStoria.it",
+      "fallback_sources": [
+        {
+          "source_url": "https://epg.zappr.stream/it/dtt/national.json",
+          "format": "zappr",
+          "source_id": "rai-storia",
+          "provider": "raiplay"
+        }
+      ]
     },
     {
       "id": "RaiRadio2.it",
       "name": "Rai Radio 2",
-      "source_url": "https://epg.zappr.stream/it/dtt/national.json",
-      "format": "zappr",
-      "source_id": "rai-radio-2",
-      "provider": "raiplay"
+      "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
+      "format": "xmltv",
+      "source_id": "RaiRadio2.it",
+      "fallback_sources": [
+        {
+          "source_url": "https://epg.zappr.stream/it/dtt/national.json",
+          "format": "zappr",
+          "source_id": "rai-radio-2",
+          "provider": "raiplay"
+        }
+      ]
     },
     {
       "id": "UninettunoUniversityTv.it",
@@ -232,10 +344,17 @@
     {
       "id": "Supertennis.it",
       "name": "Supertennis",
-      "source_url": "https://epg.zappr.stream/it/dtt/national.json",
-      "format": "zappr",
-      "source_id": "1386",
-      "provider": "blue"
+      "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
+      "format": "xmltv",
+      "source_id": "SuperTennis.HD.it",
+      "fallback_sources": [
+        {
+          "source_url": "https://epg.zappr.stream/it/dtt/national.json",
+          "format": "zappr",
+          "source_id": "1386",
+          "provider": "blue"
+        }
+      ]
     },
     {
       "id": "MediasetExtra.it",
@@ -325,18 +444,32 @@
     {
       "id": "R101.it",
       "name": "R101",
-      "source_url": "https://epg.zappr.stream/it/dtt/national.json",
-      "format": "zappr",
-      "source_id": "ER",
-      "provider": "mediaset"
+      "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
+      "format": "xmltv",
+      "source_id": "R101tv.it",
+      "fallback_sources": [
+        {
+          "source_url": "https://epg.zappr.stream/it/dtt/national.json",
+          "format": "zappr",
+          "source_id": "ER",
+          "provider": "mediaset"
+        }
+      ]
     },
     {
       "id": "VirginRadio.it",
       "name": "Virgin Radio",
-      "source_url": "https://epg.zappr.stream/it/dtt/national.json",
-      "format": "zappr",
-      "source_id": "EW",
-      "provider": "mediaset"
+      "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
+      "format": "xmltv",
+      "source_id": "Virgin.Radio.it",
+      "fallback_sources": [
+        {
+          "source_url": "https://epg.zappr.stream/it/dtt/national.json",
+          "format": "zappr",
+          "source_id": "EW",
+          "provider": "mediaset"
+        }
+      ]
     },
     {
       "id": "RMC.it",
@@ -355,26 +488,47 @@
     {
       "id": "RealTime.it",
       "name": "Real Time",
-      "source_url": "https://epg.zappr.stream/it/dtt/national.json",
-      "format": "zappr",
-      "source_id": "346",
-      "provider": "blue"
+      "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
+      "format": "xmltv",
+      "source_id": "Real.Time.it",
+      "fallback_sources": [
+        {
+          "source_url": "https://epg.zappr.stream/it/dtt/national.json",
+          "format": "zappr",
+          "source_id": "346",
+          "provider": "blue"
+        }
+      ]
     },
     {
       "id": "DMAX.it",
       "name": "DMAX",
-      "source_url": "https://epg.zappr.stream/it/dtt/national.json",
-      "format": "zappr",
-      "source_id": "137",
-      "provider": "blue"
+      "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
+      "format": "xmltv",
+      "source_id": "DMAX.it",
+      "fallback_sources": [
+        {
+          "source_url": "https://epg.zappr.stream/it/dtt/national.json",
+          "format": "zappr",
+          "source_id": "137",
+          "provider": "blue"
+        }
+      ]
     },
     {
       "id": "Discovery.it",
       "name": "Discovery",
-      "source_url": "https://epg.zappr.stream/it/dtt/national.json",
-      "format": "zappr",
-      "source_id": "294",
-      "provider": "tivu"
+      "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
+      "format": "xmltv",
+      "source_id": "Discovery.Channel.it",
+      "fallback_sources": [
+        {
+          "source_url": "https://epg.zappr.stream/it/dtt/national.json",
+          "format": "zappr",
+          "source_id": "294",
+          "provider": "tivu"
+        }
+      ]
     },
     {
       "id": "Giallo.it",
@@ -393,10 +547,17 @@
     {
       "id": "FoodNetwork.it",
       "name": "Food Network",
-      "source_url": "https://epg.zappr.stream/it/dtt/national.json",
-      "format": "zappr",
-      "source_id": "1348",
-      "provider": "blue"
+      "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
+      "format": "xmltv",
+      "source_id": "Food.Network.it",
+      "fallback_sources": [
+        {
+          "source_url": "https://epg.zappr.stream/it/dtt/national.json",
+          "format": "zappr",
+          "source_id": "1348",
+          "provider": "blue"
+        }
+      ]
     },
     {
       "id": "DiscoveryTurbo.it",
@@ -425,26 +586,47 @@
     {
       "id": "Super!.it",
       "name": "Super!",
-      "source_url": "https://epg.zappr.stream/it/dtt/national.json",
-      "format": "zappr",
-      "source_id": "6460",
-      "provider": "sky"
+      "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
+      "format": "xmltv",
+      "source_id": "Super!.it",
+      "fallback_sources": [
+        {
+          "source_url": "https://epg.zappr.stream/it/dtt/national.json",
+          "format": "zappr",
+          "source_id": "6460",
+          "provider": "sky"
+        }
+      ]
     },
     {
       "id": "Cielo.it",
       "name": "Cielo",
-      "source_url": "https://epg.zappr.stream/it/dtt/national.json",
-      "format": "zappr",
-      "source_id": "96",
-      "provider": "blue"
+      "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
+      "format": "xmltv",
+      "source_id": "cielo.it",
+      "fallback_sources": [
+        {
+          "source_url": "https://epg.zappr.stream/it/dtt/national.json",
+          "format": "zappr",
+          "source_id": "96",
+          "provider": "blue"
+        }
+      ]
     },
     {
       "id": "SkyTG24.it",
       "name": "Sky TG24",
-      "source_url": "https://epg.zappr.stream/it/dtt/national.json",
-      "format": "zappr",
-      "source_id": "393",
-      "provider": "blue"
+      "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
+      "format": "xmltv",
+      "source_id": "Sky.TG24.it",
+      "fallback_sources": [
+        {
+          "source_url": "https://epg.zappr.stream/it/dtt/national.json",
+          "format": "zappr",
+          "source_id": "393",
+          "provider": "blue"
+        }
+      ]
     },
     {
       "id": "Euronews.it",
@@ -526,34 +708,62 @@
     {
       "id": "RTL1025.it",
       "name": "RTL 102.5",
-      "source_url": "https://epg.zappr.stream/it/dtt/national.json",
-      "format": "zappr",
-      "source_id": "1489",
-      "provider": "blue"
+      "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
+      "format": "xmltv",
+      "source_id": "RTL.102.5.HD.it",
+      "fallback_sources": [
+        {
+          "source_url": "https://epg.zappr.stream/it/dtt/national.json",
+          "format": "zappr",
+          "source_id": "1489",
+          "provider": "blue"
+        }
+      ]
     },
     {
       "id": "RadioFreccia.it",
       "name": "Radio Freccia",
-      "source_url": "https://epg.zappr.stream/it/dtt/national.json",
-      "format": "zappr",
-      "source_id": "10616",
-      "provider": "sky"
+      "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
+      "format": "xmltv",
+      "source_id": "RADIOFRECCIA.HD.it",
+      "fallback_sources": [
+        {
+          "source_url": "https://epg.zappr.stream/it/dtt/national.json",
+          "format": "zappr",
+          "source_id": "10616",
+          "provider": "sky"
+        }
+      ]
     },
     {
       "id": "DeejayTV.it",
       "name": "Deejay TV",
-      "source_url": "https://epg.zappr.stream/it/dtt/national.json",
-      "format": "zappr",
-      "source_id": "1641",
-      "provider": "blue"
+      "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
+      "format": "xmltv",
+      "source_id": "Deejay.TV.it",
+      "fallback_sources": [
+        {
+          "source_url": "https://epg.zappr.stream/it/dtt/national.json",
+          "format": "zappr",
+          "source_id": "1641",
+          "provider": "blue"
+        }
+      ]
     },
     {
       "id": "RadioItalia.it",
       "name": "Radio Italia",
-      "source_url": "https://epg.zappr.stream/it/dtt/national.json",
-      "format": "zappr",
-      "source_id": "136",
-      "provider": "tivu"
+      "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
+      "format": "xmltv",
+      "source_id": "Radio.Italia.TV.HD.it",
+      "fallback_sources": [
+        {
+          "source_url": "https://epg.zappr.stream/it/dtt/national.json",
+          "format": "zappr",
+          "source_id": "136",
+          "provider": "tivu"
+        }
+      ]
     },
     {
       "id": "VideoItalia.it",
@@ -621,10 +831,17 @@
     {
       "id": "SISolocalcio.it",
       "name": "SI Solocalcio",
-      "source_url": "https://epg.zappr.stream/it/dtt/national.json",
-      "format": "zappr",
-      "source_id": "2049",
-      "provider": "blue"
+      "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
+      "format": "xmltv",
+      "source_id": "Solocalcio.it.it",
+      "fallback_sources": [
+        {
+          "source_url": "https://epg.zappr.stream/it/dtt/national.json",
+          "format": "zappr",
+          "source_id": "2049",
+          "provider": "blue"
+        }
+      ]
     },
     {
       "id": "ACISportTv.it",
@@ -636,10 +853,17 @@
     {
       "id": "ClassCNBC.it",
       "name": "Class CNBC",
-      "source_url": "https://epg.zappr.stream/it/dtt/national.json",
-      "format": "zappr",
-      "source_id": "308",
-      "provider": "sky"
+      "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
+      "format": "xmltv",
+      "source_id": "Class.CNBC.it",
+      "fallback_sources": [
+        {
+          "source_url": "https://epg.zappr.stream/it/dtt/national.json",
+          "format": "zappr",
+          "source_id": "308",
+          "provider": "sky"
+        }
+      ]
     },
     {
       "id": "ClassTvModa.it",
@@ -690,10 +914,17 @@
     {
       "id": "TRMH24.it",
       "name": "TRM H24",
-      "source_url": "https://epg.zappr.stream/it/dtt/regional/puglia.json",
-      "format": "zappr",
-      "source_id": "9013",
-      "provider": "sky"
+      "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
+      "format": "xmltv",
+      "source_id": "TRM.h24.it",
+      "fallback_sources": [
+        {
+          "source_url": "https://epg.zappr.stream/it/dtt/regional/puglia.json",
+          "format": "zappr",
+          "source_id": "9013",
+          "provider": "sky"
+        }
+      ]
     },
     {
       "id": "TVSLO1.si",

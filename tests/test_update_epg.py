@@ -78,6 +78,78 @@ class EPGTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             u.parse_xmltv(b'<!DOCTYPE tv [<!ENTITY x "bad">]><tv/>', {"x"})
 
+    def source_channel(self):
+        return {**self.channel, "format": "xmltv", "source_id": "primary-x",
+                "source_url": "https://example.org/primary",
+                "fallback_sources": [{"format": "zappr", "provider": "test",
+                                      "source_id": "backup-x",
+                                      "source_url": "https://example.org/backup"}]}
+
+    def test_valid_primary_does_not_fetch_backup(self):
+        c = self.source_channel()
+        with patch.object(u, "fetch_source", return_value={"x": [self.p]}) as fetch:
+            fetched, errors, selected, attempted = u.fetch_reviewed_sources([c], Path("."), self.now)
+        self.assertEqual(fetch.call_count, 1)
+        self.assertEqual(selected["x"]["source_id"], "primary-x")
+        self.assertEqual(len(attempted["x"]), 1)
+        self.assertEqual(fetched["x"], [self.p])
+        self.assertEqual(errors, {})
+
+    def test_backup_used_for_failed_empty_expired_or_invalid_primary(self):
+        expired = programme("20260925120000 +0000", "20260925130000 +0000")
+        invalid = programme("20260926130000 +0000", "20260926140000 +0000", title="")
+        for primary in (OSError("unavailable"), {}, {"x": [expired]}, {"x": [invalid]}):
+            with self.subTest(primary=primary):
+                c = self.source_channel()
+                with patch.object(u, "fetch_source", side_effect=[primary, {"x": [self.p]}]) as fetch:
+                    fetched, errors, selected, attempted = u.fetch_reviewed_sources([c], Path("."), self.now)
+                self.assertEqual(fetch.call_count, 2)
+                backup = fetch.call_args.args[1][0]
+                self.assertEqual((backup["id"], backup["provider"], backup["source_id"]),
+                                 ("x", "test", "backup-x"))
+                self.assertEqual(selected["x"]["source_id"], "backup-x")
+                self.assertEqual(len(attempted["x"]), 2)
+                _, report = u.assemble([c], fetched, {}, self.now)
+                self.assertEqual(report[0]["status"], "fresh")
+                self.assertEqual(bool(errors), isinstance(primary, OSError))
+
+    def test_all_sources_empty_still_uses_previous_or_reports_missing(self):
+        c = self.source_channel()
+        with patch.object(u, "fetch_source", return_value={}):
+            fetched, _, selected, attempted = u.fetch_reviewed_sources([c], Path("."), self.now)
+        self.assertEqual(selected, {})
+        self.assertEqual(len(attempted["x"]), 2)
+        for previous, expected in (({"x": [self.p]}, "previous"), ({}, "missing")):
+            _, report = u.assemble([c], fetched, previous, self.now)
+            self.assertEqual(report[0]["status"], expected)
+
+    def test_backup_only_fetches_uncovered_channels(self):
+        first = self.source_channel()
+        second = {**first, "id": "y", "name": "Y"}
+        with patch.object(u, "fetch_source", side_effect=[{"x": [self.p]}, {"y": [self.p]}]) as fetch:
+            fetched, _, _, attempted = u.fetch_reviewed_sources([first, second], Path("."), self.now)
+        self.assertEqual(set(fetched), {"x", "y"})
+        self.assertEqual([c["id"] for c in fetch.call_args.args[1]], ["y"])
+        self.assertEqual(len(attempted["x"]), 1)
+
+    def test_backup_can_publish_and_report_actual_source(self):
+        with u.scratch_directory() as root:
+            (root / "epg").mkdir()
+            (root / "playlist.m3u").write_text('#EXTM3U\n#EXTINF:-1 tvg-id="x",X\n')
+            (root / "epg/channels.json").write_text(json.dumps({"channels": [self.source_channel()]}))
+            p = programme("20260926130000 +0000", "20260926140000 +0000", channel="backup-x")
+            with patch.object(u, "datetime", wraps=datetime) as clock, \
+                    patch.object(u, "fetch_source", side_effect=[OSError("unavailable"), {"x": [p]}]):
+                clock.now.return_value = self.now
+                u.main(["--root", str(root)])
+            status = json.loads((root / "epg/status.json").read_text())
+            self.assertTrue(status["accepted"])
+            self.assertEqual(status["fresh"], 1)
+            self.assertEqual(status["coverage"][0]["source_used"]["source_id"], "backup-x")
+            self.assertEqual(len(status["coverage"][0]["sources_attempted"]), 2)
+            xml = ET.fromstring(gzip.decompress((root / "JackTV_EPG.xml.gz").read_bytes()))
+            self.assertEqual(xml.find("programme").get("channel"), "x")
+
 
 if __name__ == "__main__":
     unittest.main()
