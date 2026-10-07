@@ -23,6 +23,29 @@ import xml.etree.ElementTree as ET
 
 UTC = timezone.utc
 MAX_DOWNLOAD = 100 * 1024 * 1024
+EPGSHARE_IT1 = "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz"
+# Explicit channel identities checked against IT1; never guess from names or
+# strip punctuation/region suffixes (e.g. Telecity's regional editions).
+EPGSHARE_ITALIAN_IDS = {
+    "Rai1.it": "Rai1.it", "Rai2.it": "Rai2.it", "Rai3.it": "Rai3.it",
+    "Rai4.it": "Rai4.it", "Rai5.it": "Rai5.it",
+    "RaiMovie.it": "RaiMovie.it", "RaiNews24.it": "RaiNews24.it",
+    "RaiSport.it": "RaiSport.it", "RaiPremium.it": "RaiPremium.it",
+    "RaiGulp.it": "RaiGulp.it", "RaiScuola.it": "RaiScuola.it",
+    "RaiStoria.it": "RaiStoria.it", "RaiRadio2.it": "RaiRadio2.it",
+    "La7.it": "LA7.HD.it", "La7Cinema.it": "LA7.CINEMA.it",
+    "Tv8.it": "TV8.HD.it", "Nove.it": "Nove.it",
+    "Supertennis.it": "SuperTennis.HD.it", "R101.it": "R101tv.it",
+    "VirginRadio.it": "Virgin.Radio.it", "RealTime.it": "Real.Time.it",
+    "DMAX.it": "DMAX.it", "Discovery.it": "Discovery.Channel.it",
+    "FoodNetwork.it": "Food.Network.it", "Super!.it": "Super!.it",
+    "K2.it": "K2.it", "frisbee.it": "Frisbee.it", "Cielo.it": "cielo.it",
+    "SkyTG24.it": "Sky.TG24.it", "RTL1025.it": "RTL.102.5.HD.it",
+    "RadioFreccia.it": "RADIOFRECCIA.HD.it", "DeejayTV.it": "Deejay.TV.it",
+    "RadioItalia.it": "Radio.Italia.TV.HD.it",
+    "SISolocalcio.it": "Solocalcio.it.it", "ClassCNBC.it": "Class.CNBC.it",
+    "TRMH24.it": "TRM.h24.it", "TgNorba24.it": "TG.NORBA.24.it",
+}
 
 
 def stamp(value):
@@ -142,9 +165,31 @@ def fetch_source(url, channels, cache):
     return {c["id"]: parsed.get(c["source_id"], []) for c in channels}
 
 
+def source_choices(channel):
+    """Prefer verified IT1 identities, retaining every configured backup."""
+    configured = [channel, *channel.get("fallback_sources", [])]
+    source_id = EPGSHARE_ITALIAN_IDS.get(channel["id"])
+    candidates = []
+    if source_id:
+        candidates.append({"format": "xmltv", "source_url": EPGSHARE_IT1,
+                           "source_id": source_id})
+    # Also prefer explicitly configured IT1 associations for other channels.
+    candidates.extend(s for s in configured
+                      if s["format"] == "xmltv" and s["source_url"] == EPGSHARE_IT1)
+    candidates.extend(configured)
+    result, seen = [], set()
+    for source in candidates:
+        key = (source["format"], source["source_url"], source["source_id"],
+               source.get("provider") if source["format"] == "zappr" else None)
+        if key not in seen:
+            seen.add(key)
+            result.append(source)
+    return result
+
+
 def fetch_reviewed_sources(channels, cache, now):
     """Try reviewed sources in order, stopping at the first valid future guide."""
-    choices = {c["id"]: [c, *c.get("fallback_sources", [])] for c in channels}
+    choices = {c["id"]: source_choices(c) for c in channels}
     fetched, errors, selected, attempted = {}, {}, {}, defaultdict(list)
     for priority in range(max((len(s) for s in choices.values()), default=0)):
         groups = defaultdict(list)
@@ -277,7 +322,7 @@ def main(argv=None):
         with open(os.environ["GITHUB_STEP_SUMMARY"], "a", encoding="utf-8") as f:
             f.write(summary)
     print(summary)
-    if not accepted:
+    if missing:
         print(f"EPG mancanti ({missing}):", flush=True)
         for c in report:
             if c["status"] == "missing":
@@ -285,6 +330,7 @@ def main(argv=None):
                                     for s in c["sources_attempted"])
                 print(f"- {c['name']} [{c['id']}] - fonti EPG provate: {sources}",
                       flush=True)
+    if not accepted:
         raise RuntimeError("Coverage guard failed; published guide was not replaced")
     data = ET.tostring(xml, encoding="utf-8", xml_declaration=True)
     parsed = ET.fromstring(data)
