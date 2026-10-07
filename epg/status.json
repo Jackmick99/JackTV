@@ -1,9 +1,9 @@
 {
-  "checked_at": "2026-10-07T20:56:33.188868+00:00",
+  "checked_at": "2026-10-07T20:58:16.415655+00:00",
   "accepted": true,
   "channels": 228,
-  "fresh": 226,
-  "previous": 0,
+  "fresh": 217,
+  "previous": 9,
   "missing": 2,
   "unknown_playlist_ids": [],
   "source_errors": {},
@@ -300,13 +300,10 @@
     {
       "id": "RDSSocialTv.it",
       "name": "RDS Social Tv",
-      "status": "fresh",
+      "status": "previous",
       "programmes": 101,
       "until": "20261014000000 +0200",
-      "source_used": {
-        "source_url": "https://epg.zappr.stream/it/dtt/national.json",
-        "source_id": "255"
-      },
+      "source_used": null,
       "sources_attempted": [
         {
           "source_url": "https://epg.zappr.stream/it/dtt/national.json",
@@ -726,13 +723,10 @@
     {
       "id": "105Tv.it",
       "name": "105 Tv",
-      "status": "fresh",
+      "status": "previous",
       "programmes": 510,
       "until": "20261009065900 +0200",
-      "source_used": {
-        "source_url": "https://epg.zappr.stream/it/dtt/national.json",
-        "source_id": "EC"
-      },
+      "source_used": null,
       "sources_attempted": [
         {
           "source_url": "https://epg.zappr.stream/it/dtt/national.json",
@@ -913,13 +907,10 @@
     {
       "id": "DiscoveryTurbo.it",
       "name": "Discovery Turbo",
-      "status": "fresh",
+      "status": "previous",
       "programmes": 162,
       "until": "20261014035000 +0200",
-      "source_used": {
-        "source_url": "https://epg.zappr.stream/it/dtt/national.json",
-        "source_id": "1384"
-      },
+      "source_used": null,
       "sources_attempted": [
         {
           "source_url": "https://epg.zappr.stream/it/dtt/national.json",
@@ -930,13 +921,10 @@
     {
       "id": "frisbee.it",
       "name": "frisbee",
-      "status": "fresh",
+      "status": "previous",
       "programmes": 586,
       "until": "20261014020500 +0200",
-      "source_used": {
-        "source_url": "https://epg.zappr.stream/it/dtt/national.json",
-        "source_id": "189"
-      },
+      "source_used": null,
       "sources_attempted": [
         {
           "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
@@ -951,13 +939,10 @@
     {
       "id": "K2.it",
       "name": "K2",
-      "status": "fresh",
+      "status": "previous",
       "programmes": 576,
       "until": "20261014022500 +0200",
-      "source_used": {
-        "source_url": "https://epg.zappr.stream/it/dtt/national.json",
-        "source_id": "225"
-      },
+      "source_used": null,
       "sources_attempted": [
         {
           "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
@@ -1040,13 +1025,10 @@
     {
       "id": "TV2000.it",
       "name": "TV2000",
-      "status": "fresh",
+      "status": "previous",
       "programmes": 256,
       "until": "20261014021500 +0200",
-      "source_used": {
-        "source_url": "https://epg.zappr.stream/it/dtt/national.json",
-        "source_id": "633"
-      },
+      "source_used": null,
       "sources_attempted": [
         {
           "source_url": "https://epg.zappr.stream/it/dtt/national.json",
@@ -1278,13 +1260,10 @@
     {
       "id": "AlmaTv.it",
       "name": "Alma Tv",
-      "status": "fresh",
+      "status": "previous",
       "programmes": 239,
       "until": "20261014060000 +0200",
-      "source_used": {
-        "source_url": "https://epg.zappr.stream/it/dtt/national.json",
-        "source_id": "16"
-      },
+      "source_used": null,
       "sources_attempted": [
         {
           "source_url": "https://epg.zappr.stream/it/dtt/national.json",
@@ -1384,13 +1363,10 @@
     {
       "id": "Sportitalia.it",
       "name": "Sportitalia",
-      "status": "fresh",
+      "status": "previous",
       "programmes": 176,
       "until": "20261014060000 +0200",
-      "source_used": {
-        "source_url": "https://epg.zappr.stream/it/dtt/national.json",
-        "source_id": "1387"
-      },
+      "source_used": null,
       "sources_attempted": [
         {
           "source_url": "https://epg.zappr.stream/it/dtt/national.json",
@@ -1452,13 +1428,10 @@
     {
       "id": "ClassTvModa.it",
       "name": "Class Tv Moda",
-      "status": "fresh",
+      "status": "previous",
       "programmes": 393,
       "until": "20261014063000 +0200",
-      "source_used": {
-        "source_url": "https://epg.zappr.stream/it/dtt/national.json",
-        "source_id": "101"
-      },
+      "source_used": null,
       "sources_attempted": [
         {
           "source_url": "https://epg.zappr.stream/it/dtt/national.json",
