@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-10-07T23:09:23.848536+00:00",
+  "checked_at": "2026-10-08T06:13:28.518426+00:00",
   "accepted": true,
   "channels": 228,
-  "fresh": 223,
+  "fresh": 226,
   "previous": 0,
-  "missing": 5,
+  "missing": 2,
   "unknown_playlist_ids": [],
   "source_errors": {},
   "coverage": [
@@ -12,7 +12,7 @@
       "id": "Rai1.it",
       "name": "Rai 1",
       "status": "fresh",
-      "programmes": 125,
+      "programmes": 122,
       "until": "20261010235600 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
@@ -46,7 +46,7 @@
       "id": "Rai3.it",
       "name": "Rai 3",
       "status": "fresh",
-      "programmes": 142,
+      "programmes": 138,
       "until": "20261010213000 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
@@ -301,8 +301,8 @@
       "id": "RDSSocialTv.it",
       "name": "RDS Social Tv",
       "status": "fresh",
-      "programmes": 101,
-      "until": "20261014000000 +0200",
+      "programmes": 168,
+      "until": "20261015000000 +0200",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/national.json",
         "source_id": "255"
@@ -318,7 +318,7 @@
       "id": "Rai4.it",
       "name": "Rai 4",
       "status": "fresh",
-      "programmes": 111,
+      "programmes": 110,
       "until": "20261010230100 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
@@ -335,7 +335,7 @@
       "id": "Rai5.it",
       "name": "Rai 5",
       "status": "fresh",
-      "programmes": 127,
+      "programmes": 125,
       "until": "20261010222200 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
@@ -352,7 +352,7 @@
       "id": "RaiMovie.it",
       "name": "Rai Movie",
       "status": "fresh",
-      "programmes": 56,
+      "programmes": 55,
       "until": "20261010235500 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
@@ -369,7 +369,7 @@
       "id": "RaiNews24.it",
       "name": "Rai News 24",
       "status": "fresh",
-      "programmes": 328,
+      "programmes": 323,
       "until": "20261010233000 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
@@ -386,7 +386,7 @@
       "id": "RaiSport.it",
       "name": "Rai Sport HD",
       "status": "fresh",
-      "programmes": 78,
+      "programmes": 76,
       "until": "20261010230000 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
@@ -420,7 +420,7 @@
       "id": "RaiGulp.it",
       "name": "Rai Gulp",
       "status": "fresh",
-      "programmes": 329,
+      "programmes": 321,
       "until": "20261010234500 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
@@ -455,7 +455,7 @@
       "id": "RaiStoria.it",
       "name": "Rai Storia",
       "status": "fresh",
-      "programmes": 134,
+      "programmes": 131,
       "until": "20261010230500 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
@@ -727,7 +727,7 @@
       "id": "105Tv.it",
       "name": "105 Tv",
       "status": "fresh",
-      "programmes": 510,
+      "programmes": 315,
       "until": "20261009065900 +0200",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/national.json",
@@ -812,7 +812,7 @@
       "id": "RealTime.it",
       "name": "Real Time",
       "status": "fresh",
-      "programmes": 98,
+      "programmes": 96,
       "until": "20261011000000 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
@@ -829,7 +829,7 @@
       "id": "DMAX.it",
       "name": "DMAX",
       "status": "fresh",
-      "programmes": 97,
+      "programmes": 96,
       "until": "20261011000000 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
@@ -846,7 +846,7 @@
       "id": "Discovery.it",
       "name": "Discovery",
       "status": "fresh",
-      "programmes": 100,
+      "programmes": 97,
       "until": "20261012000500 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
@@ -863,7 +863,7 @@
       "id": "Giallo.it",
       "name": "Giallo",
       "status": "fresh",
-      "programmes": 69,
+      "programmes": 68,
       "until": "20261011000000 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
@@ -880,7 +880,7 @@
       "id": "HGTV.it",
       "name": "HGTV",
       "status": "fresh",
-      "programmes": 125,
+      "programmes": 124,
       "until": "20261011000000 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
@@ -897,7 +897,7 @@
       "id": "FoodNetwork.it",
       "name": "Food Network",
       "status": "fresh",
-      "programmes": 147,
+      "programmes": 146,
       "until": "20261011000000 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
@@ -915,7 +915,7 @@
       "name": "Discovery Turbo",
       "status": "fresh",
       "programmes": 162,
-      "until": "20261014035000 +0200",
+      "until": "20261015023500 +0200",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/national.json",
         "source_id": "1384"
@@ -932,7 +932,7 @@
       "name": "frisbee",
       "status": "fresh",
       "programmes": 586,
-      "until": "20261014020500 +0200",
+      "until": "20261015020500 +0200",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/national.json",
         "source_id": "189"
@@ -952,8 +952,8 @@
       "id": "K2.it",
       "name": "K2",
       "status": "fresh",
-      "programmes": 576,
-      "until": "20261014022500 +0200",
+      "programmes": 575,
+      "until": "20261015022500 +0200",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/national.json",
         "source_id": "225"
@@ -1042,7 +1042,7 @@
       "name": "TV2000",
       "status": "fresh",
       "programmes": 256,
-      "until": "20261014021500 +0200",
+      "until": "20261015021000 +0200",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/national.json",
         "source_id": "633"
@@ -1093,7 +1093,7 @@
       "name": "A3 Nordest",
       "status": "fresh",
       "programmes": 70,
-      "until": "20261008042400 +0200",
+      "until": "20261009043300 +0200",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/fvg.json",
         "source_id": "A3"
@@ -1109,8 +1109,8 @@
       "id": "ReteVeneta.it",
       "name": "Rete Veneta",
       "status": "fresh",
-      "programmes": 67,
-      "until": "20261008045800 +0200",
+      "programmes": 56,
+      "until": "20261009031100 +0200",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/veneto.json",
         "source_id": "RV"
@@ -1126,8 +1126,8 @@
       "id": "Telenordest.it",
       "name": "Telenordest",
       "status": "fresh",
-      "programmes": 33,
-      "until": "20261008044800 +0200",
+      "programmes": 32,
+      "until": "20261009043100 +0200",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/fvg.json",
         "source_id": "TNE"
@@ -1144,7 +1144,7 @@
       "name": "Tv 12",
       "status": "fresh",
       "programmes": 48,
-      "until": "20261008031700 +0200",
+      "until": "20261009031600 +0200",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/fvg.json",
         "source_id": "TV12"
@@ -1161,7 +1161,7 @@
       "name": "TVA Vicenza",
       "status": "fresh",
       "programmes": 191,
-      "until": "20261014061000 +0200",
+      "until": "20261015061000 +0200",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/bolzano.json",
         "source_id": "E"
@@ -1178,7 +1178,7 @@
       "name": "Telechiara",
       "status": "fresh",
       "programmes": 159,
-      "until": "20261014002000 +0200",
+      "until": "20261015002000 +0200",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/bolzano.json",
         "source_id": "C"
@@ -1280,7 +1280,7 @@
       "name": "Alma Tv",
       "status": "fresh",
       "programmes": 239,
-      "until": "20261014060000 +0200",
+      "until": "20261015060000 +0200",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/national.json",
         "source_id": "16"
@@ -1297,7 +1297,7 @@
       "name": "Telenorba",
       "status": "fresh",
       "programmes": 165,
-      "until": "20261014000000 +0200",
+      "until": "20261015000000 +0200",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/puglia.json",
         "source_id": "11313512"
@@ -1314,7 +1314,7 @@
       "name": "Tg Norba 24",
       "status": "fresh",
       "programmes": 236,
-      "until": "20261014000000 +0200",
+      "until": "20261015000000 +0200",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/puglia.json",
         "source_id": "13292552"
@@ -1333,10 +1333,13 @@
     {
       "id": "TelecityLombardia.it",
       "name": "Telecity Lombardia",
-      "status": "missing",
-      "programmes": 0,
-      "until": null,
-      "source_used": null,
+      "status": "fresh",
+      "programmes": 29,
+      "until": "20261009000800 +0200",
+      "source_used": {
+        "source_url": "https://epg.zappr.stream/it/dtt/regional/lombardia.json",
+        "source_id": "tlu/TLU_CH22_2003"
+      },
       "sources_attempted": [
         {
           "source_url": "https://epg.zappr.stream/it/dtt/regional/lombardia.json",
@@ -1362,7 +1365,7 @@
       "id": "Cremona1.it",
       "name": "Cremona 1",
       "status": "fresh",
-      "programmes": 152,
+      "programmes": 129,
       "until": "20261014000000 +0200",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/lombardia.json",
@@ -1379,8 +1382,8 @@
       "id": "Sportitalia.it",
       "name": "Sportitalia",
       "status": "fresh",
-      "programmes": 176,
-      "until": "20261014060000 +0200",
+      "programmes": 168,
+      "until": "20261015060000 +0200",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/national.json",
         "source_id": "1387"
@@ -1396,7 +1399,7 @@
       "id": "SISolocalcio.it",
       "name": "SI Solocalcio",
       "status": "fresh",
-      "programmes": 74,
+      "programmes": 73,
       "until": "20261012000000 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
@@ -1448,7 +1451,7 @@
       "name": "Class Tv Moda",
       "status": "fresh",
       "programmes": 393,
-      "until": "20261014063000 +0200",
+      "until": "20261015063000 +0200",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/national.json",
         "source_id": "101"
@@ -1464,7 +1467,7 @@
       "id": "etvMarche.it",
       "name": "etv Marche",
       "status": "fresh",
-      "programmes": 143,
+      "programmes": 111,
       "until": "20261012000000 +0200",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/bolzano.json",
@@ -1497,10 +1500,13 @@
     {
       "id": "Canale8.it",
       "name": "Canale 8",
-      "status": "missing",
-      "programmes": 0,
-      "until": null,
-      "source_used": null,
+      "status": "fresh",
+      "programmes": 17,
+      "until": "20261009000600 +0200",
+      "source_used": {
+        "source_url": "https://epg.zappr.stream/it/dtt/regional/campania.json",
+        "source_id": "nap/NAP_CH41_8005"
+      },
       "sources_attempted": [
         {
           "source_url": "https://epg.zappr.stream/it/dtt/regional/campania.json",
@@ -1511,10 +1517,13 @@
     {
       "id": "Canale21.it",
       "name": "Canale 21",
-      "status": "missing",
-      "programmes": 0,
-      "until": null,
-      "source_used": null,
+      "status": "fresh",
+      "programmes": 31,
+      "until": "20261009065700 +0200",
+      "source_used": {
+        "source_url": "https://epg.zappr.stream/it/dtt/regional/campania.json",
+        "source_id": "nap/NAP_CH41_8001"
+      },
       "sources_attempted": [
         {
           "source_url": "https://epg.zappr.stream/it/dtt/regional/campania.json",
@@ -1560,7 +1569,7 @@
       "id": "TVSLO1.si",
       "name": "TV SLO 1",
       "status": "fresh",
-      "programmes": 186,
+      "programmes": 185,
       "until": "20261011011000 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_HR1.xml.gz",
@@ -1713,8 +1722,8 @@
       "id": "France2.fr",
       "name": "France 2",
       "status": "fresh",
-      "programmes": 147,
-      "until": "20261011030500 +0200",
+      "programmes": 143,
+      "until": "20261012034500 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz",
         "source_id": "France.2..fr"
@@ -1730,8 +1739,8 @@
       "id": "France3.fr",
       "name": "France 3",
       "status": "fresh",
-      "programmes": 221,
-      "until": "20261010224500 +0200",
+      "programmes": 232,
+      "until": "20261011224000 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz",
         "source_id": "France.3.fr"
@@ -1747,8 +1756,8 @@
       "id": "France3BasseNormandie.fr",
       "name": "France 3 Basse Normandie",
       "status": "fresh",
-      "programmes": 160,
-      "until": "20261010012000 +0000",
+      "programmes": 181,
+      "until": "20261011000000 +0000",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz",
         "source_id": "France.3.-.Basse-Normandie.fr"
@@ -1764,8 +1773,8 @@
       "id": "France4.fr",
       "name": "France 4",
       "status": "fresh",
-      "programmes": 335,
-      "until": "20261010011500 +0000",
+      "programmes": 334,
+      "until": "20261011003000 +0000",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz",
         "source_id": "France.4.fr"
@@ -1781,8 +1790,8 @@
       "id": "France5.fr",
       "name": "France 5",
       "status": "fresh",
-      "programmes": 251,
-      "until": "20261011034800 +0200",
+      "programmes": 248,
+      "until": "20261012034800 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz",
         "source_id": "France.5..fr"
@@ -1798,8 +1807,8 @@
       "id": "Franceinfo.fr",
       "name": "France:info",
       "status": "fresh",
-      "programmes": 73,
-      "until": "20261010225900 +0200",
+      "programmes": 76,
+      "until": "20261011225900 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz",
         "source_id": "Franceinfo.fr"
@@ -1815,8 +1824,8 @@
       "id": "France24Francais.fr",
       "name": "France 24 Français",
       "status": "fresh",
-      "programmes": 488,
-      "until": "20261010234000 +0200",
+      "programmes": 484,
+      "until": "20261011235600 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz",
         "source_id": "France.24.fr"
@@ -1832,8 +1841,8 @@
       "id": "France24Arabic.fr",
       "name": "France 24 Arabic",
       "status": "fresh",
-      "programmes": 526,
-      "until": "20261010000000 +0000",
+      "programmes": 512,
+      "until": "20261011000000 +0000",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz",
         "source_id": "France.24.Arabe.fr"
@@ -1849,8 +1858,8 @@
       "id": "France24English.fr",
       "name": "France 24 English",
       "status": "fresh",
-      "programmes": 475,
-      "until": "20261010000000 +0000",
+      "programmes": 471,
+      "until": "20261011000000 +0000",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz",
         "source_id": "France.24.Anglais.fr"
@@ -1866,8 +1875,8 @@
       "id": "France24Spanish.fr",
       "name": "France 24 Spanish",
       "status": "fresh",
-      "programmes": 422,
-      "until": "20261010000000 +0000",
+      "programmes": 433,
+      "until": "20261011000000 +0000",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz",
         "source_id": "France.24.Espanol.fr"
@@ -1883,8 +1892,8 @@
       "id": "BFMTv.fr",
       "name": "BFM Tv",
       "status": "fresh",
-      "programmes": 50,
-      "until": "20261010210000 +0200",
+      "programmes": 49,
+      "until": "20261011210000 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz",
         "source_id": "BFM.TV.fr"
@@ -1900,8 +1909,8 @@
       "id": "CNews.fr",
       "name": "CNews",
       "status": "fresh",
-      "programmes": 266,
-      "until": "20261010225900 +0200",
+      "programmes": 287,
+      "until": "20261011225900 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz",
         "source_id": "CNews.fr"
@@ -1917,8 +1926,8 @@
       "id": "TF1.fr",
       "name": "TF1",
       "status": "fresh",
-      "programmes": 112,
-      "until": "20261010035000 +0000",
+      "programmes": 107,
+      "until": "20261011035000 +0000",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz",
         "source_id": "TF1.fr"
@@ -1934,8 +1943,8 @@
       "id": "M6.fr",
       "name": "M6",
       "status": "fresh",
-      "programmes": 83,
-      "until": "20261010233500 +0200",
+      "programmes": 88,
+      "until": "20261011231500 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz",
         "source_id": "M6.fr"
@@ -1951,8 +1960,8 @@
       "id": "W9.fr",
       "name": "W9",
       "status": "fresh",
-      "programmes": 100,
-      "until": "20261010230000 +0200",
+      "programmes": 90,
+      "until": "20261011230000 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz",
         "source_id": "W9.fr"
@@ -1968,8 +1977,8 @@
       "id": "TMC.fr",
       "name": "TMC",
       "status": "fresh",
-      "programmes": 87,
-      "until": "20261010042700 +0000",
+      "programmes": 85,
+      "until": "20261011044000 +0000",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz",
         "source_id": "TMC.fr"
@@ -1985,8 +1994,8 @@
       "id": "TFX.fr",
       "name": "TFX",
       "status": "fresh",
-      "programmes": 79,
-      "until": "20261010034000 +0000",
+      "programmes": 95,
+      "until": "20261011033500 +0000",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz",
         "source_id": "TFX.fr"
@@ -2037,7 +2046,7 @@
       "name": "arte FR",
       "status": "fresh",
       "programmes": 121,
-      "until": "20261010002500 +0000",
+      "until": "20261011002500 +0000",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz",
         "source_id": "Arte.fr"
@@ -2070,8 +2079,8 @@
       "id": "La1.es",
       "name": "La 1",
       "status": "fresh",
-      "programmes": 73,
-      "until": "20261009235000 +0200",
+      "programmes": 80,
+      "until": "20261010235500 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
         "source_id": "La.1.es"
@@ -2087,8 +2096,8 @@
       "id": "La1Canarias.es",
       "name": "La 1 Canarias",
       "status": "fresh",
-      "programmes": 77,
-      "until": "20261009235000 +0200",
+      "programmes": 86,
+      "until": "20261010235500 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
         "source_id": "La.1.Canarias.es"
@@ -2104,8 +2113,8 @@
       "id": "La1Catalunya.es",
       "name": "La 1 Catalunya",
       "status": "fresh",
-      "programmes": 73,
-      "until": "20261009235000 +0200",
+      "programmes": 80,
+      "until": "20261010235500 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
         "source_id": "La.1.Catalunya.es"
@@ -2121,8 +2130,8 @@
       "id": "La2.es",
       "name": "La 2",
       "status": "fresh",
-      "programmes": 125,
-      "until": "20261009224000 +0200",
+      "programmes": 123,
+      "until": "20261010213000 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
         "source_id": "La.2.es"
@@ -2138,8 +2147,8 @@
       "id": "La2Canarias.es",
       "name": "La 2 Canarias",
       "status": "fresh",
-      "programmes": 128,
-      "until": "20261009224000 +0200",
+      "programmes": 125,
+      "until": "20261010213000 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
         "source_id": "La.2.Canarias.es"
@@ -2155,8 +2164,8 @@
       "id": "La2Catalunya.es",
       "name": "La 2 Catalunya",
       "status": "fresh",
-      "programmes": 122,
-      "until": "20261009224000 +0200",
+      "programmes": 119,
+      "until": "20261010213000 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
         "source_id": "La.2.Catalunya.es"
@@ -2172,8 +2181,8 @@
       "id": "24h.es",
       "name": "24h",
       "status": "fresh",
-      "programmes": 114,
-      "until": "20261009233000 +0200",
+      "programmes": 138,
+      "until": "20261010233000 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
         "source_id": "Canal.24.horas.es"
@@ -2189,8 +2198,8 @@
       "id": "teledeporte.es",
       "name": "teledeporte",
       "status": "fresh",
-      "programmes": 64,
-      "until": "20261009220000 +0200",
+      "programmes": 50,
+      "until": "20261010220000 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
         "source_id": "Teledeporte.es"
@@ -2206,8 +2215,8 @@
       "id": "clan.es",
       "name": "clan",
       "status": "fresh",
-      "programmes": 362,
-      "until": "20261009224500 +0200",
+      "programmes": 348,
+      "until": "20261010225900 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
         "source_id": "Clan.TVE.es"
@@ -2223,8 +2232,8 @@
       "id": "Antena3Internacional.es",
       "name": "Antena 3 Internacional",
       "status": "fresh",
-      "programmes": 38,
-      "until": "20261009040000 +0000",
+      "programmes": 37,
+      "until": "20261010040000 +0000",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
         "source_id": "Antena.3.Internacional.es"
@@ -2240,8 +2249,8 @@
       "id": "TV3.es",
       "name": "TV3",
       "status": "fresh",
-      "programmes": 76,
-      "until": "20261009220500 +0200",
+      "programmes": 78,
+      "until": "20261010230000 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
         "source_id": "TV3.es"
@@ -2257,8 +2266,8 @@
       "id": "TV3Cat.es",
       "name": "TV3 Cat",
       "status": "fresh",
-      "programmes": 76,
-      "until": "20261009220500 +0200",
+      "programmes": 78,
+      "until": "20261010230000 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
         "source_id": "TV3CAT.es"
@@ -2274,8 +2283,8 @@
       "id": "3CatInfo.es",
       "name": "3Cat Info",
       "status": "fresh",
-      "programmes": 63,
-      "until": "20261009233000 +0200",
+      "programmes": 61,
+      "until": "20261010230000 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
         "source_id": "3CatInfo.es"
@@ -2291,8 +2300,8 @@
       "id": "Esport3.es",
       "name": "Esport3",
       "status": "fresh",
-      "programmes": 75,
-      "until": "20261009220000 +0200",
+      "programmes": 99,
+      "until": "20261010220000 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
         "source_id": "Esport.3.es"
@@ -2308,8 +2317,8 @@
       "id": "CanalSurAndalucia.es",
       "name": "Canal Sur Andalucia",
       "status": "fresh",
-      "programmes": 64,
-      "until": "20261009225000 +0200",
+      "programmes": 62,
+      "until": "20261010220000 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
         "source_id": "Canal.Sur.Andalucía.es"
@@ -2325,8 +2334,8 @@
       "id": "CanalSur2Accessible.es",
       "name": "Canal Sur 2 Accessible",
       "status": "fresh",
-      "programmes": 74,
-      "until": "20261010024500 +0000",
+      "programmes": 68,
+      "until": "20261011040000 +0000",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
         "source_id": "Canal.Sur.2.es"
@@ -2343,7 +2352,7 @@
       "name": "Aragon Tv Internacional",
       "status": "fresh",
       "programmes": 77,
-      "until": "20261009225000 +0200",
+      "until": "20261010233000 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
         "source_id": "Aragón.TV.INT..es"
@@ -2359,8 +2368,8 @@
       "id": "etb1.es",
       "name": "etb 1",
       "status": "fresh",
-      "programmes": 126,
-      "until": "20261009232000 +0200",
+      "programmes": 116,
+      "until": "20261010225500 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
         "source_id": "ETB.1.es"
@@ -2376,8 +2385,8 @@
       "id": "etb2.es",
       "name": "etb 2",
       "status": "fresh",
-      "programmes": 109,
-      "until": "20261009233000 +0200",
+      "programmes": 112,
+      "until": "20261010234000 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
         "source_id": "ETB.2.es"
@@ -2478,7 +2487,7 @@
       "id": "RTL.de",
       "name": "RTL",
       "status": "fresh",
-      "programmes": 90,
+      "programmes": 91,
       "until": "20261011012500 +0000",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz",
@@ -2546,7 +2555,7 @@
       "id": "VOX.de",
       "name": "VOX",
       "status": "fresh",
-      "programmes": 97,
+      "programmes": 98,
       "until": "20261011000500 +0000",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz",
@@ -2563,8 +2572,8 @@
       "id": "SuperRTL.de",
       "name": "Super RTL",
       "status": "fresh",
-      "programmes": 260,
-      "until": "20261011000000 +0000",
+      "programmes": 197,
+      "until": "20261011033000 +0000",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz",
         "source_id": "SUPER.RTL.de"
@@ -2648,7 +2657,7 @@
       "id": "EurosportDE.de",
       "name": "Eurosport DE",
       "status": "fresh",
-      "programmes": 53,
+      "programmes": 38,
       "until": "20261010233000 +0000",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz",
@@ -2665,8 +2674,8 @@
       "id": "Sport1.de",
       "name": "Sport1",
       "status": "fresh",
-      "programmes": 69,
-      "until": "20261011001500 +0000",
+      "programmes": 48,
+      "until": "20261011050000 +0000",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz",
         "source_id": "SPORT1.de"
@@ -2682,8 +2691,8 @@
       "id": "DeluxeMusic.de",
       "name": "Deluxe Music",
       "status": "fresh",
-      "programmes": 53,
-      "until": "20261011000000 +0000",
+      "programmes": 41,
+      "until": "20261011040000 +0000",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz",
         "source_id": "DELUXE.MUSIC.de"
@@ -2767,8 +2776,8 @@
       "id": "SVT1.se",
       "name": "SVT 1",
       "status": "fresh",
-      "programmes": 126,
-      "until": "20261011050000 +0000",
+      "programmes": 129,
+      "until": "20261012080000 +0000",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_SE1.xml.gz",
         "source_id": "[SVT1HD].SVT1.HD.se"
@@ -2784,8 +2793,8 @@
       "id": "SVT2.se",
       "name": "SVT 2",
       "status": "fresh",
-      "programmes": 89,
-      "until": "20261011070000 +0000",
+      "programmes": 94,
+      "until": "20261012120000 +0000",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_SE1.xml.gz",
         "source_id": "[SVT2HD].SVT2.HD.se"
@@ -3566,7 +3575,7 @@
       "id": "HRT1.hr",
       "name": "HRT 1",
       "status": "fresh",
-      "programmes": 179,
+      "programmes": 178,
       "until": "20261011054000 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_HR1.xml.gz",
@@ -3600,7 +3609,7 @@
       "id": "HRT3.hr",
       "name": "HRT 3",
       "status": "fresh",
-      "programmes": 291,
+      "programmes": 289,
       "until": "20261011055800 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_HR1.xml.gz",
@@ -3617,7 +3626,7 @@
       "id": "HRT4.hr",
       "name": "HRT 4",
       "status": "fresh",
-      "programmes": 556,
+      "programmes": 549,
       "until": "20261011055800 +0200",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_HR1.xml.gz",
@@ -3787,7 +3796,7 @@
       "id": "TRT1.tr",
       "name": "TRT 1",
       "status": "fresh",
-      "programmes": 42,
+      "programmes": 41,
       "until": "20261010001500 +0300",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz",
@@ -3804,7 +3813,7 @@
       "id": "TRTTurk.tr",
       "name": "TRT Turk",
       "status": "fresh",
-      "programmes": 106,
+      "programmes": 105,
       "until": "20261010011500 +0300",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz",
@@ -3821,7 +3830,7 @@
       "id": "TV8.tr",
       "name": "TV8",
       "status": "fresh",
-      "programmes": 30,
+      "programmes": 20,
       "until": "20261010001500 +0300",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz",
@@ -3839,7 +3848,7 @@
       "name": "TRT Spor",
       "status": "fresh",
       "programmes": 58,
-      "until": "20261010010000 +0300",
+      "until": "20261011010000 +0300",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz",
         "source_id": "TRT.SPOR.HD.tr"
@@ -3872,7 +3881,7 @@
       "id": "BNT4BNTWorld.bg",
       "name": "BNT 4 - BNT World",
       "status": "fresh",
-      "programmes": 134,
+      "programmes": 131,
       "until": "20261011000000 +0300",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_BG1.xml.gz",
