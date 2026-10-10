@@ -90,6 +90,7 @@
 | Inter 24 7 | <img src="https://i.postimg.cc/3Ncnmx0w/Inter-24-7.png" width="50"> |
 | Inter Tv | <img src="https://i.postimg.cc/GpZ75x22/Inter-Tv.png" width="50"> |
 | Italia 136 | <img src="https://i.postimg.cc/XJbBF4nt/Italia-136.png" width="50"> |
+| Italiana | <img src="https://i.ibb.co/TMbz8hG8/Italiana.png" width="50"> |
 | Itv 1 | <img src="https://i.postimg.cc/Gm7qCcJz/ITV-1.png" width="50"> |
 | Itv 2 | <img src="https://i.postimg.cc/j5Zj8FYG/ITV-2.png" width="50"> |
 | Itv 3 | <img src="https://i.postimg.cc/kM2V17Bq/ITV-3.png" width="50"> |
