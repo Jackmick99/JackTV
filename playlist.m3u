@@ -481,27 +481,27 @@ https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-HLS8/raigulp.m3u8
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-logo="https://i.ibb.co/rkpnGB2/Senza-titolo-3.png",Rai Gulp (mpd/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
-#EXTINF:-1 tvg-id="RaiScuola.it" tvg-logo="https://i.ibb.co/C1c9S9G/Senza-titolo-1.png",Rai Scuola (Rai Play)
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-logo="https://i.ibb.co/TMbz8hG8/Italiana.png",Italiana (Rai Play)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-id="RaiScuola.it" tvg-logo="https://i.ibb.co/C1c9S9G/Senza-titolo-1.png",Rai Scuola (m3u8)
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-logo="https://i.ibb.co/TMbz8hG8/Italiana.png",Italiana (m3u8)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://raiscuola3-live.akamaized.net/hls/live/2018016/raiscuola3/raiscuola3/playlist.m3u8
-#EXTINF:-1 tvg-id="RaiScuola.it" tvg-logo="https://i.ibb.co/C1c9S9G/Senza-titolo-1.png",Rai Scuola (mpd)
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-logo="https://i.ibb.co/TMbz8hG8/Italiana.png",Italiana (mpd)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=910188661b9c3e228f0e54464d6b6ce3:d0a4dd15e0749f0121f1f560fe8afd92
 https://wp10-s-anp33343334-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV06534/stb-dash-fhd-avc/SV06534.mpd
-#EXTINF:-1 tvg-id="RaiScuola.it" tvg-logo="https://i.ibb.co/C1c9S9G/Senza-titolo-1.png",Rai Scuola (Tvheadend Veneto)
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-logo="https://i.ibb.co/TMbz8hG8/Italiana.png",Italiana (Tvheadend Veneto)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://tvheadend-veneto1.zappr.stream/stream/channel/b5a786820e0c1ea09ad269952cf56414?profile=webtv-vp8-vorbis-webm
-#EXTINF:-1 tvg-id="RaiScuola.it" tvg-logo="https://i.ibb.co/C1c9S9G/Senza-titolo-1.png",Rai Scuola (ilGlobo)
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-logo="https://i.ibb.co/TMbz8hG8/Italiana.png",Italiana (ilGlobo)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
-#EXTINF:-1 tvg-id="RaiScuola.it" tvg-logo="https://i.ibb.co/C1c9S9G/Senza-titolo-1.png",Rai Scuola (m3u8/VPN CH)
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-logo="https://i.ibb.co/TMbz8hG8/Italiana.png",Italiana (m3u8/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-HLS8/raiscuola.m3u8
-#EXTINF:-1 tvg-id="RaiScuola.it" tvg-logo="https://i.ibb.co/C1c9S9G/Senza-titolo-1.png",Rai Scuola (mpd/VPN CH)
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-logo="https://i.ibb.co/TMbz8hG8/Italiana.png",Italiana (mpd/VPN CH)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
 #EXTINF:-1 tvg-id="RaiStoria.it" tvg-logo="https://i.ibb.co/VwnyBsw/Senza-titolo-4.png",Rai Storia (Rai Play)
@@ -1509,7 +1509,7 @@ https://58d921499d3d3.streamlock.net/RPZ/livestream/playlist.m3u8
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-id="TRMH24.it" tvg-logo="https://i.ibb.co/LDT8qd5K/TRM-h24.png",TRM H24
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1791634175/ei/n9bJapKiHISdvPEPh5DTmQU/ip/20.221.69.177/id/88vVV1k84Qo.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-vgqsrndl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/siu/1/bui/AWzQHwp7PaRqa8xCWnGyi_elL-Owf-W8qPGprKuwUdF6D-BMKrrmQTDRILFBFPR-UzSUV1yeaA/spc/I-rgIaRkfNE13ghLPBA2JM4Rp5eire8vBhC3Q661a59C4mqUqodgd5sbkCVImnduD7y0aVzo4oq8yY46/vprv/1/ns/zfJOaknQkOZWbx97RTNXYoUZ/reg/0/playlist_type/DVR/met/1791612576,/mh/Hm/mm/44/mn/sn-vgqsrndl/ms/lva/mv/u/mvi/2/pl/16/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,52112905,52184231,52250513/n/L3fOQOWQd9EcTQ/mt/1791612185/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,siu,bui,spc,vprv,ns,reg,playlist_type/sig/AE0s2JYwRAIgP-0fP2GL3vxVA9u7yyzJOeSkwazKtGCbRhR8jbQYCN0CIGXPX30Mil4MQRDgBxzOjvIgPpwOOn4J4PulvE3yKtiF/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgKNboh9SQ4c0M_YXqT3gJpXbDoMo431GvKl4FmnuNyaoCIDjwy2FWVUaFfdeNXWeHyPvcMX1fXIMHz3qYTLGG9qXd/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1791166406/ei/ZrPCaoTKAcaWsfIPmLe2wA8/ip/20.172.111.114/id/88vVV1k84Qo.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-2imern7r.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/siu/1/bui/AWzQHwq2iTqiIqryuT897g1sfLQvNupClHXxhgytr740uwpJoDvfSYS8oz6-w0JPPArBubwLkg/spc/I-rgIVP3QN4qCq1vy0PF4IK4b1jD-L_T7GByorPisXcyvFe4c4_kSQVJF3ttm5Kc2AzxibCIDT8Txw/vprv/1/ns/tqu_3XK8r4DdxbZpXu_GWO8Y/reg/0/playlist_type/DVR/initcwndbps/13826375/met/1791144807,/mh/Hm/mm/44/mn/sn-2imern7r/ms/lva/mv/m/mvi/2/pl/16/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,52112904,52184226,52250513/n/HWb-rjZswqFicA/mt/1791144510/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,siu,bui,spc,vprv,ns,reg,playlist_type/sig/AE0s2JYwRgIhAONsX4xkrTWnaeyGXAgg-QNiz8qsWGLo--YuxkdKrC41AiEA-r4sng2n5BCm-bS8GvIuCLUEau8bP1LxSa2QGvp6y3g%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgREea94dsp-afcUhxiX42-Du9aRdPP4RE8ap_GVQADkICIQCHGOzhPHaGeJW8Y_G69frnLRCThB6-Jg2CRPGHPNqy4w%3D%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/1280px-Flag_of_Slovenia.svg.png",=== SLOVENIA ===
 https://github.com/Jackmick99/video-mp4/raw/refs/heads/main/SL.mp4
 #EXTINF:-1 tvg-id="TVSLO1.si" tvg-logo="https://i.ibb.co/Q3g96K52/TV-SLO-1.png",TV SLO 1 (SK)
