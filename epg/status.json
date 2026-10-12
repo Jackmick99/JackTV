@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-12T06:06:53.638801+00:00",
+  "checked_at": "2026-10-12T15:38:00.222858+00:00",
   "accepted": true,
   "channels": 228,
   "fresh": 226,
@@ -2234,8 +2234,8 @@
       "id": "Antena3Internacional.es",
       "name": "Antena 3 Internacional",
       "status": "fresh",
-      "programmes": 71,
-      "until": "20261014040000 +0000",
+      "programmes": 64,
+      "until": "20261015040000 +0000",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
         "source_id": "Antena.3.Internacional.es"
@@ -3560,8 +3560,8 @@
       "id": "RecordNews.br",
       "name": "Record News",
       "status": "fresh",
-      "programmes": 120,
-      "until": "20261015082000 +0000",
+      "programmes": 139,
+      "until": "20261016082000 +0000",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz",
         "source_id": "São.Paulo/SP.Record.News.br"
