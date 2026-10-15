@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-10-15T04:48:53.048378+00:00",
+  "checked_at": "2026-10-15T11:38:26.826401+00:00",
   "accepted": true,
   "channels": 228,
-  "fresh": 224,
+  "fresh": 227,
   "previous": 0,
-  "missing": 4,
+  "missing": 1,
   "unknown_playlist_ids": [
     "Italiana.it"
   ],
@@ -1146,7 +1146,7 @@
       "name": "Tv 12",
       "status": "fresh",
       "programmes": 49,
-      "until": "20261016031700 +0200",
+      "until": "20261016032200 +0200",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/fvg.json",
         "source_id": "TV12"
@@ -1335,10 +1335,13 @@
     {
       "id": "TelecityLombardia.it",
       "name": "Telecity Lombardia",
-      "status": "missing",
-      "programmes": 0,
-      "until": null,
-      "source_used": null,
+      "status": "fresh",
+      "programmes": 19,
+      "until": "20261016000800 +0200",
+      "source_used": {
+        "source_url": "https://epg.zappr.stream/it/dtt/regional/lombardia.json",
+        "source_id": "tlu/TLU_CH22_2003"
+      },
       "sources_attempted": [
         {
           "source_url": "https://epg.zappr.stream/it/dtt/regional/lombardia.json",
@@ -1349,10 +1352,13 @@
     {
       "id": "TelecityPiemonte.it",
       "name": "Telecity Piemonte",
-      "status": "missing",
-      "programmes": 0,
-      "until": null,
-      "source_used": null,
+      "status": "fresh",
+      "programmes": 18,
+      "until": "20261016000800 +0200",
+      "source_used": {
+        "source_url": "https://epg.zappr.stream/it/dtt/regional/piemonte.json",
+        "source_id": "tlu/TLU_CH21_1008"
+      },
       "sources_attempted": [
         {
           "source_url": "https://epg.zappr.stream/it/dtt/regional/piemonte.json",
@@ -1364,8 +1370,8 @@
       "id": "Cremona1.it",
       "name": "Cremona 1",
       "status": "fresh",
-      "programmes": 110,
-      "until": "20261021000000 +0200",
+      "programmes": 112,
+      "until": "20261022000000 +0200",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/lombardia.json",
         "source_id": "cr1"
@@ -1499,10 +1505,13 @@
     {
       "id": "Canale8.it",
       "name": "Canale 8",
-      "status": "missing",
-      "programmes": 0,
-      "until": null,
-      "source_used": null,
+      "status": "fresh",
+      "programmes": 2,
+      "until": "20261015230100 +0200",
+      "source_used": {
+        "source_url": "https://epg.zappr.stream/it/dtt/regional/campania.json",
+        "source_id": "nap/NAP_CH41_8005"
+      },
       "sources_attempted": [
         {
           "source_url": "https://epg.zappr.stream/it/dtt/regional/campania.json",
@@ -1515,7 +1524,7 @@
       "name": "Canale 21",
       "status": "fresh",
       "programmes": 4,
-      "until": "20261015081500 +0200",
+      "until": "20261015163400 +0200",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/campania.json",
         "source_id": "nap/NAP_CH41_8001"
@@ -3554,8 +3563,8 @@
       "id": "RecordNews.br",
       "name": "Record News",
       "status": "fresh",
-      "programmes": 132,
-      "until": "20261018053000 +0000",
+      "programmes": 125,
+      "until": "20261019050000 +0000",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz",
         "source_id": "São.Paulo/SP.Record.News.br"
