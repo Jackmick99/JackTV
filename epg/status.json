@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-10-15T17:07:04.406597+00:00",
+  "checked_at": "2026-10-15T21:29:18.394550+00:00",
   "accepted": true,
   "channels": 228,
-  "fresh": 226,
+  "fresh": 225,
   "previous": 0,
-  "missing": 2,
+  "missing": 3,
   "unknown_playlist_ids": [
     "Italiana.it"
   ],
@@ -1505,13 +1505,10 @@
     {
       "id": "Canale8.it",
       "name": "Canale 8",
-      "status": "fresh",
-      "programmes": 2,
-      "until": "20261015230100 +0200",
-      "source_used": {
-        "source_url": "https://epg.zappr.stream/it/dtt/regional/campania.json",
-        "source_id": "nap/NAP_CH41_8005"
-      },
+      "status": "missing",
+      "programmes": 0,
+      "until": null,
+      "source_used": null,
       "sources_attempted": [
         {
           "source_url": "https://epg.zappr.stream/it/dtt/regional/campania.json",
