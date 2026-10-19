@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-19T04:50:04.155190+00:00",
+  "checked_at": "2026-10-19T13:29:46.213806+00:00",
   "accepted": true,
   "channels": 228,
   "fresh": 225,
@@ -1092,7 +1092,7 @@
       "name": "A3 Nordest",
       "status": "fresh",
       "programmes": 62,
-      "until": "20261020045800 +0200",
+      "until": "20261020045900 +0200",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/fvg.json",
         "source_id": "A3"
@@ -1142,7 +1142,7 @@
       "id": "Tv12.it",
       "name": "Tv 12",
       "status": "fresh",
-      "programmes": 47,
+      "programmes": 46,
       "until": "20261020031800 +0200",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/fvg.json",
@@ -1333,7 +1333,7 @@
       "id": "TelecityLombardia.it",
       "name": "Telecity Lombardia",
       "status": "fresh",
-      "programmes": 32,
+      "programmes": 31,
       "until": "20261020000900 +0200",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/lombardia.json",
@@ -1350,7 +1350,7 @@
       "id": "TelecityPiemonte.it",
       "name": "Telecity Piemonte",
       "status": "fresh",
-      "programmes": 32,
+      "programmes": 31,
       "until": "20261020000900 +0200",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/piemonte.json",
@@ -1367,8 +1367,8 @@
       "id": "Cremona1.it",
       "name": "Cremona 1",
       "status": "fresh",
-      "programmes": 110,
-      "until": "20261025000000 +0200",
+      "programmes": 128,
+      "until": "20261026000000 +0100",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/lombardia.json",
         "source_id": "cr1"
@@ -3557,8 +3557,8 @@
       "id": "RecordNews.br",
       "name": "Record News",
       "status": "fresh",
-      "programmes": 133,
-      "until": "20261022082000 +0000",
+      "programmes": 139,
+      "until": "20261023082000 +0000",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz",
         "source_id": "São.Paulo/SP.Record.News.br"
