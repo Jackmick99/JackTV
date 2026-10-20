@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-20T04:58:08.271592+00:00",
+  "checked_at": "2026-10-20T11:47:00.919894+00:00",
   "accepted": true,
   "channels": 228,
   "fresh": 224,
@@ -1350,7 +1350,7 @@
       "id": "TelecityPiemonte.it",
       "name": "Telecity Piemonte",
       "status": "fresh",
-      "programmes": 32,
+      "programmes": 30,
       "until": "20261021000900 +0200",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/piemonte.json",
@@ -1367,8 +1367,8 @@
       "id": "Cremona1.it",
       "name": "Cremona 1",
       "status": "fresh",
-      "programmes": 123,
-      "until": "20261026000000 +0100",
+      "programmes": 160,
+      "until": "20261027000000 +0100",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/lombardia.json",
         "source_id": "cr1"
@@ -3554,8 +3554,8 @@
       "id": "RecordNews.br",
       "name": "Record News",
       "status": "fresh",
-      "programmes": 139,
-      "until": "20261023082000 +0000",
+      "programmes": 137,
+      "until": "20261024082000 +0000",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz",
         "source_id": "São.Paulo/SP.Record.News.br"
