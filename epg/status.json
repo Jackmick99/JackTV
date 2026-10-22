@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-10-22T12:01:13.655490+00:00",
+  "checked_at": "2026-10-22T17:16:15.484607+00:00",
   "accepted": true,
   "channels": 228,
-  "fresh": 225,
+  "fresh": 226,
   "previous": 0,
-  "missing": 3,
+  "missing": 2,
   "unknown_playlist_ids": [
     "Italiana.it"
   ],
@@ -726,8 +726,8 @@
       "id": "105Tv.it",
       "name": "105 Tv",
       "status": "fresh",
-      "programmes": 310,
-      "until": "20261023065900 +0200",
+      "programmes": 500,
+      "until": "20261024065900 +0200",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/national.json",
         "source_id": "EC"
@@ -1040,7 +1040,7 @@
       "id": "TV2000.it",
       "name": "TV2000",
       "status": "fresh",
-      "programmes": 244,
+      "programmes": 246,
       "until": "20261029012000 +0100",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/national.json",
@@ -1092,7 +1092,7 @@
       "name": "A3 Nordest",
       "status": "fresh",
       "programmes": 70,
-      "until": "20261023043500 +0200",
+      "until": "20261023043700 +0200",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/fvg.json",
         "source_id": "A3"
@@ -1108,8 +1108,8 @@
       "id": "ReteVeneta.it",
       "name": "Rete Veneta",
       "status": "fresh",
-      "programmes": 55,
-      "until": "20261023030300 +0200",
+      "programmes": 57,
+      "until": "20261023032000 +0200",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/veneto.json",
         "source_id": "RV"
@@ -1125,8 +1125,8 @@
       "id": "Telenordest.it",
       "name": "Telenordest",
       "status": "fresh",
-      "programmes": 36,
-      "until": "20261023045200 +0200",
+      "programmes": 35,
+      "until": "20261023045600 +0200",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/fvg.json",
         "source_id": "TNE"
@@ -1143,7 +1143,7 @@
       "name": "Tv 12",
       "status": "fresh",
       "programmes": 47,
-      "until": "20261023031700 +0200",
+      "until": "20261023031000 +0200",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/fvg.json",
         "source_id": "TV12"
@@ -1176,7 +1176,7 @@
       "id": "Telechiara.it",
       "name": "Telechiara",
       "status": "fresh",
-      "programmes": 159,
+      "programmes": 157,
       "until": "20261029002000 +0100",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/bolzano.json",
@@ -1333,7 +1333,7 @@
       "id": "TelecityLombardia.it",
       "name": "Telecity Lombardia",
       "status": "fresh",
-      "programmes": 32,
+      "programmes": 31,
       "until": "20261023000800 +0200",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/lombardia.json",
@@ -1502,10 +1502,13 @@
     {
       "id": "Canale8.it",
       "name": "Canale 8",
-      "status": "missing",
-      "programmes": 0,
-      "until": null,
-      "source_used": null,
+      "status": "fresh",
+      "programmes": 8,
+      "until": "20261023001100 +0200",
+      "source_used": {
+        "source_url": "https://epg.zappr.stream/it/dtt/regional/campania.json",
+        "source_id": "nap/NAP_CH41_8005"
+      },
       "sources_attempted": [
         {
           "source_url": "https://epg.zappr.stream/it/dtt/regional/campania.json",
@@ -1517,8 +1520,8 @@
       "id": "Canale21.it",
       "name": "Canale 21",
       "status": "fresh",
-      "programmes": 30,
-      "until": "20261023013200 +0200",
+      "programmes": 5,
+      "until": "20261023012900 +0200",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/campania.json",
         "source_id": "nap/NAP_CH41_8001"
