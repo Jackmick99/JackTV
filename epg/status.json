@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-22T04:58:13.251794+00:00",
+  "checked_at": "2026-10-22T12:01:13.655490+00:00",
   "accepted": true,
   "channels": 228,
   "fresh": 225,
@@ -1142,7 +1142,7 @@
       "id": "Tv12.it",
       "name": "Tv 12",
       "status": "fresh",
-      "programmes": 48,
+      "programmes": 47,
       "until": "20261023031700 +0200",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/fvg.json",
@@ -1295,7 +1295,7 @@
       "id": "Telenorba.it",
       "name": "Telenorba",
       "status": "fresh",
-      "programmes": 174,
+      "programmes": 178,
       "until": "20261029000000 +0100",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/puglia.json",
@@ -1350,7 +1350,7 @@
       "id": "TelecityPiemonte.it",
       "name": "Telecity Piemonte",
       "status": "fresh",
-      "programmes": 33,
+      "programmes": 31,
       "until": "20261023000800 +0200",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/piemonte.json",
@@ -1367,8 +1367,8 @@
       "id": "Cremona1.it",
       "name": "Cremona 1",
       "status": "fresh",
-      "programmes": 132,
-      "until": "20261028000000 +0100",
+      "programmes": 151,
+      "until": "20261029000000 +0100",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/lombardia.json",
         "source_id": "cr1"
