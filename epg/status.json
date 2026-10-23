@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-23T04:59:27.783583+00:00",
+  "checked_at": "2026-10-23T11:46:51.315075+00:00",
   "accepted": true,
   "channels": 228,
   "fresh": 225,
@@ -1142,7 +1142,7 @@
       "id": "Tv12.it",
       "name": "Tv 12",
       "status": "fresh",
-      "programmes": 46,
+      "programmes": 45,
       "until": "20261024031600 +0200",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/fvg.json",
@@ -1333,7 +1333,7 @@
       "id": "TelecityLombardia.it",
       "name": "Telecity Lombardia",
       "status": "fresh",
-      "programmes": 32,
+      "programmes": 31,
       "until": "20261024000900 +0200",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/lombardia.json",
@@ -1367,8 +1367,8 @@
       "id": "Cremona1.it",
       "name": "Cremona 1",
       "status": "fresh",
-      "programmes": 128,
-      "until": "20261029000000 +0100",
+      "programmes": 148,
+      "until": "20261030000000 +0100",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/lombardia.json",
         "source_id": "cr1"
