@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-10-24T16:01:58.722082+00:00",
+  "checked_at": "2026-10-24T20:55:31.570373+00:00",
   "accepted": true,
   "channels": 228,
-  "fresh": 224,
+  "fresh": 217,
   "previous": 0,
-  "missing": 4,
+  "missing": 11,
   "unknown_playlist_ids": [
     "Italiana.it"
   ],
@@ -1094,8 +1094,8 @@
       "id": "A3Nordest.it",
       "name": "A3 Nordest",
       "status": "fresh",
-      "programmes": 67,
-      "until": "20261025045400 +0100",
+      "programmes": 65,
+      "until": "20261025044300 +0100",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/fvg.json",
         "source_id": "A3"
@@ -1111,8 +1111,8 @@
       "id": "ReteVeneta.it",
       "name": "Rete Veneta",
       "status": "fresh",
-      "programmes": 56,
-      "until": "20261025021600 +0200",
+      "programmes": 71,
+      "until": "20261025045200 +0100",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/veneto.json",
         "source_id": "RV"
@@ -1146,7 +1146,7 @@
       "name": "Tv 12",
       "status": "fresh",
       "programmes": 53,
-      "until": "20261025041800 +0100",
+      "until": "20261025042300 +0100",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/fvg.json",
         "source_id": "TV12"
@@ -1370,7 +1370,7 @@
       "id": "Cremona1.it",
       "name": "Cremona 1",
       "status": "fresh",
-      "programmes": 144,
+      "programmes": 145,
       "until": "20261031000000 +0100",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/lombardia.json",
@@ -2128,13 +2128,10 @@
     {
       "id": "La2.es",
       "name": "La 2",
-      "status": "fresh",
-      "programmes": 60,
-      "until": "20261024220000 +0200",
-      "source_used": {
-        "source_url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
-        "source_id": "La.2.es"
-      },
+      "status": "missing",
+      "programmes": 0,
+      "until": null,
+      "source_used": null,
       "sources_attempted": [
         {
           "source_url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
@@ -2145,13 +2142,10 @@
     {
       "id": "La2Canarias.es",
       "name": "La 2 Canarias",
-      "status": "fresh",
-      "programmes": 61,
-      "until": "20261024220000 +0200",
-      "source_used": {
-        "source_url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
-        "source_id": "La.2.Canarias.es"
-      },
+      "status": "missing",
+      "programmes": 0,
+      "until": null,
+      "source_used": null,
       "sources_attempted": [
         {
           "source_url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
@@ -2162,13 +2156,10 @@
     {
       "id": "La2Catalunya.es",
       "name": "La 2 Catalunya",
-      "status": "fresh",
-      "programmes": 55,
-      "until": "20261024220000 +0200",
-      "source_used": {
-        "source_url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
-        "source_id": "La.2.Catalunya.es"
-      },
+      "status": "missing",
+      "programmes": 0,
+      "until": null,
+      "source_used": null,
       "sources_attempted": [
         {
           "source_url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
@@ -2196,13 +2187,10 @@
     {
       "id": "teledeporte.es",
       "name": "teledeporte",
-      "status": "fresh",
-      "programmes": 11,
-      "until": "20261024220000 +0200",
-      "source_used": {
-        "source_url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
-        "source_id": "Teledeporte.es"
-      },
+      "status": "missing",
+      "programmes": 0,
+      "until": null,
+      "source_used": null,
       "sources_attempted": [
         {
           "source_url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
@@ -2244,13 +2232,10 @@
     {
       "id": "TV3.es",
       "name": "TV3",
-      "status": "fresh",
-      "programmes": 40,
-      "until": "20261024220500 +0200",
-      "source_used": {
-        "source_url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
-        "source_id": "TV3.es"
-      },
+      "status": "missing",
+      "programmes": 0,
+      "until": null,
+      "source_used": null,
       "sources_attempted": [
         {
           "source_url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
@@ -2261,13 +2246,10 @@
     {
       "id": "TV3Cat.es",
       "name": "TV3 Cat",
-      "status": "fresh",
-      "programmes": 41,
-      "until": "20261024220500 +0200",
-      "source_used": {
-        "source_url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
-        "source_id": "TV3CAT.es"
-      },
+      "status": "missing",
+      "programmes": 0,
+      "until": null,
+      "source_used": null,
       "sources_attempted": [
         {
           "source_url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
@@ -2312,13 +2294,10 @@
     {
       "id": "CanalSurAndalucia.es",
       "name": "Canal Sur Andalucia",
-      "status": "fresh",
-      "programmes": 27,
-      "until": "20261024215500 +0200",
-      "source_used": {
-        "source_url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
-        "source_id": "Canal.Sur.Andalucía.es"
-      },
+      "status": "missing",
+      "programmes": 0,
+      "until": null,
+      "source_used": null,
       "sources_attempted": [
         {
           "source_url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
@@ -3265,8 +3244,8 @@
       "id": "ABCKABCLosAngeles.us",
       "name": "ABC KABC Los Angeles",
       "status": "fresh",
-      "programmes": 106,
-      "until": "20261027050000 +0000",
+      "programmes": 107,
+      "until": "20261028050000 +0000",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz",
         "source_id": "KABC-DT.us_locals1"
@@ -3283,7 +3262,7 @@
       "name": "CBS KCBS Los Angeles",
       "status": "fresh",
       "programmes": 124,
-      "until": "20261027050000 +0000",
+      "until": "20261028050000 +0000",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz",
         "source_id": "KCBS-DT.us_locals1"
@@ -3299,8 +3278,8 @@
       "id": "NBCKNBCLosAngeles.us",
       "name": "NBC KNBC Los Angeles",
       "status": "fresh",
-      "programmes": 112,
-      "until": "20261027050000 +0000",
+      "programmes": 111,
+      "until": "20261028060000 +0000",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz",
         "source_id": "KNBC-DT.us_locals1"
@@ -3368,7 +3347,7 @@
       "name": "FOX KTTV Los Angeles",
       "status": "fresh",
       "programmes": 112,
-      "until": "20261027050000 +0000",
+      "until": "20261028050000 +0000",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz",
         "source_id": "KTTV-DT.us_locals1"
