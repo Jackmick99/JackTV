@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-10-25T04:51:22.498517+00:00",
+  "checked_at": "2026-10-25T11:41:03.484136+00:00",
   "accepted": true,
   "channels": 228,
-  "fresh": 225,
+  "fresh": 226,
   "previous": 0,
-  "missing": 3,
+  "missing": 2,
   "unknown_playlist_ids": [
     "Italiana.it"
   ],
@@ -1094,8 +1094,8 @@
       "id": "A3Nordest.it",
       "name": "A3 Nordest",
       "status": "fresh",
-      "programmes": 58,
-      "until": "20261026042300 +0100",
+      "programmes": 60,
+      "until": "20261026045600 +0100",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/fvg.json",
         "source_id": "A3"
@@ -1111,8 +1111,8 @@
       "id": "ReteVeneta.it",
       "name": "Rete Veneta",
       "status": "fresh",
-      "programmes": 75,
-      "until": "20261026041900 +0100",
+      "programmes": 79,
+      "until": "20261026045900 +0100",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/veneto.json",
         "source_id": "RV"
@@ -1128,8 +1128,8 @@
       "id": "Telenordest.it",
       "name": "Telenordest",
       "status": "fresh",
-      "programmes": 39,
-      "until": "20261026043400 +0100",
+      "programmes": 41,
+      "until": "20261026045700 +0100",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/fvg.json",
         "source_id": "TNE"
@@ -1352,10 +1352,13 @@
     {
       "id": "TelecityPiemonte.it",
       "name": "Telecity Piemonte",
-      "status": "missing",
-      "programmes": 0,
-      "until": null,
-      "source_used": null,
+      "status": "fresh",
+      "programmes": 26,
+      "until": "20261026000900 +0100",
+      "source_used": {
+        "source_url": "https://epg.zappr.stream/it/dtt/regional/piemonte.json",
+        "source_id": "tlu/TLU_CH21_1008"
+      },
       "sources_attempted": [
         {
           "source_url": "https://epg.zappr.stream/it/dtt/regional/piemonte.json",
@@ -1367,8 +1370,8 @@
       "id": "Cremona1.it",
       "name": "Cremona 1",
       "status": "fresh",
-      "programmes": 122,
-      "until": "20261031000000 +0100",
+      "programmes": 127,
+      "until": "20261101000000 +0100",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/lombardia.json",
         "source_id": "cr1"
@@ -3557,8 +3560,8 @@
       "id": "RecordNews.br",
       "name": "Record News",
       "status": "fresh",
-      "programmes": 116,
-      "until": "20261028082000 +0000",
+      "programmes": 114,
+      "until": "20261029082000 +0000",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz",
         "source_id": "São.Paulo/SP.Record.News.br"
