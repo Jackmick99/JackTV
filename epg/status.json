@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-25T11:41:03.484136+00:00",
+  "checked_at": "2026-10-25T16:30:21.428311+00:00",
   "accepted": true,
   "channels": 228,
   "fresh": 226,
@@ -1094,7 +1094,7 @@
       "id": "A3Nordest.it",
       "name": "A3 Nordest",
       "status": "fresh",
-      "programmes": 60,
+      "programmes": 61,
       "until": "20261026045600 +0100",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/fvg.json",
@@ -1336,7 +1336,7 @@
       "id": "TelecityLombardia.it",
       "name": "Telecity Lombardia",
       "status": "fresh",
-      "programmes": 26,
+      "programmes": 25,
       "until": "20261026000900 +0100",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/lombardia.json",
@@ -1353,7 +1353,7 @@
       "id": "TelecityPiemonte.it",
       "name": "Telecity Piemonte",
       "status": "fresh",
-      "programmes": 26,
+      "programmes": 25,
       "until": "20261026000900 +0100",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/piemonte.json",
@@ -1520,8 +1520,8 @@
       "id": "Canale21.it",
       "name": "Canale 21",
       "status": "fresh",
-      "programmes": 24,
-      "until": "20261026055400 +0100",
+      "programmes": 4,
+      "until": "20261025225800 +0100",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/campania.json",
         "source_id": "nap/NAP_CH41_8001"
