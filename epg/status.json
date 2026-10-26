@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-10-26T04:55:45.601243+00:00",
+  "checked_at": "2026-10-26T13:13:27.215761+00:00",
   "accepted": true,
   "channels": 228,
-  "fresh": 225,
+  "fresh": 226,
   "previous": 0,
-  "missing": 3,
+  "missing": 2,
   "unknown_playlist_ids": [
     "Italiana.it"
   ],
@@ -1098,8 +1098,8 @@
       "id": "A3Nordest.it",
       "name": "A3 Nordest",
       "status": "fresh",
-      "programmes": 63,
-      "until": "20261027042100 +0100",
+      "programmes": 66,
+      "until": "20261027045600 +0100",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/fvg.json",
         "source_id": "A3"
@@ -1132,8 +1132,8 @@
       "id": "Telenordest.it",
       "name": "Telenordest",
       "status": "fresh",
-      "programmes": 32,
-      "until": "20261027042200 +0100",
+      "programmes": 34,
+      "until": "20261027045400 +0100",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/fvg.json",
         "source_id": "TNE"
@@ -1149,8 +1149,8 @@
       "id": "Tv12.it",
       "name": "Tv 12",
       "status": "fresh",
-      "programmes": 45,
-      "until": "20261027030400 +0100",
+      "programmes": 46,
+      "until": "20261027032000 +0100",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/fvg.json",
         "source_id": "TV12"
@@ -1183,7 +1183,7 @@
       "id": "Telechiara.it",
       "name": "Telechiara",
       "status": "fresh",
-      "programmes": 157,
+      "programmes": 155,
       "until": "20261102002000 +0100",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/bolzano.json",
@@ -1374,8 +1374,8 @@
       "id": "Cremona1.it",
       "name": "Cremona 1",
       "status": "fresh",
-      "programmes": 107,
-      "until": "20261101000000 +0100",
+      "programmes": 117,
+      "until": "20261102000000 +0100",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/lombardia.json",
         "source_id": "cr1"
@@ -1523,10 +1523,13 @@
     {
       "id": "Canale21.it",
       "name": "Canale 21",
-      "status": "missing",
-      "programmes": 0,
-      "until": null,
-      "source_used": null,
+      "status": "fresh",
+      "programmes": 27,
+      "until": "20261027031600 +0100",
+      "source_used": {
+        "source_url": "https://epg.zappr.stream/it/dtt/regional/campania.json",
+        "source_id": "nap/NAP_CH41_8001"
+      },
       "sources_attempted": [
         {
           "source_url": "https://epg.zappr.stream/it/dtt/regional/campania.json",
@@ -3561,8 +3564,8 @@
       "id": "RecordNews.br",
       "name": "Record News",
       "status": "fresh",
-      "programmes": 114,
-      "until": "20261029082000 +0000",
+      "programmes": 123,
+      "until": "20261030082000 +0000",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz",
         "source_id": "São.Paulo/SP.Record.News.br"
