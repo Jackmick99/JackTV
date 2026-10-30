@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-10-30T05:56:43.189791+00:00",
+  "checked_at": "2026-10-30T13:05:14.113177+00:00",
   "accepted": true,
   "channels": 228,
-  "fresh": 226,
+  "fresh": 225,
   "previous": 0,
-  "missing": 2,
+  "missing": 3,
   "unknown_playlist_ids": [
     "Italiana.it"
   ],
@@ -1519,13 +1519,10 @@
     {
       "id": "Canale21.it",
       "name": "Canale 21",
-      "status": "fresh",
-      "programmes": 3,
-      "until": "20261030073000 +0100",
-      "source_used": {
-        "source_url": "https://epg.zappr.stream/it/dtt/regional/campania.json",
-        "source_id": "nap/NAP_CH41_8001"
-      },
+      "status": "missing",
+      "programmes": 0,
+      "until": null,
+      "source_used": null,
       "sources_attempted": [
         {
           "source_url": "https://epg.zappr.stream/it/dtt/regional/campania.json",
@@ -3560,8 +3557,8 @@
       "id": "RecordNews.br",
       "name": "Record News",
       "status": "fresh",
-      "programmes": 111,
-      "until": "20261102050000 +0000",
+      "programmes": 114,
+      "until": "20261103082000 +0000",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz",
         "source_id": "São.Paulo/SP.Record.News.br"
