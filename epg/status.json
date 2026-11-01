@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-11-01T17:57:01.422200+00:00",
+  "checked_at": "2026-11-01T22:07:41.241775+00:00",
   "accepted": true,
   "channels": 228,
-  "fresh": 225,
+  "fresh": 224,
   "previous": 1,
-  "missing": 2,
+  "missing": 3,
   "unknown_playlist_ids": [
     "Italiana.it"
   ],
@@ -1091,8 +1091,8 @@
       "id": "A3Nordest.it",
       "name": "A3 Nordest",
       "status": "fresh",
-      "programmes": 58,
-      "until": "20261102043400 +0100",
+      "programmes": 59,
+      "until": "20261102045600 +0100",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/fvg.json",
         "source_id": "A3"
@@ -1108,8 +1108,8 @@
       "id": "ReteVeneta.it",
       "name": "Rete Veneta",
       "status": "fresh",
-      "programmes": 73,
-      "until": "20261102045600 +0100",
+      "programmes": 71,
+      "until": "20261102045700 +0100",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/veneto.json",
         "source_id": "RV"
@@ -1142,8 +1142,8 @@
       "id": "Tv12.it",
       "name": "Tv 12",
       "status": "fresh",
-      "programmes": 53,
-      "until": "20261102031000 +0100",
+      "programmes": 52,
+      "until": "20261102030900 +0100",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/fvg.json",
         "source_id": "TV12"
@@ -1333,8 +1333,8 @@
       "id": "TelecityLombardia.it",
       "name": "Telecity Lombardia",
       "status": "fresh",
-      "programmes": 27,
-      "until": "20261102000800 +0100",
+      "programmes": 28,
+      "until": "20261102000900 +0100",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/lombardia.json",
         "source_id": "tlu/TLU_CH22_2003"
@@ -1351,7 +1351,7 @@
       "name": "Telecity Piemonte",
       "status": "fresh",
       "programmes": 28,
-      "until": "20261102000800 +0100",
+      "until": "20261102000900 +0100",
       "source_used": {
         "source_url": "https://epg.zappr.stream/it/dtt/regional/piemonte.json",
         "source_id": "tlu/TLU_CH21_1008"
@@ -1516,13 +1516,10 @@
     {
       "id": "Canale21.it",
       "name": "Canale 21",
-      "status": "fresh",
-      "programmes": 5,
-      "until": "20261101230200 +0100",
-      "source_used": {
-        "source_url": "https://epg.zappr.stream/it/dtt/regional/campania.json",
-        "source_id": "nap/NAP_CH41_8001"
-      },
+      "status": "missing",
+      "programmes": 0,
+      "until": null,
+      "source_used": null,
       "sources_attempted": [
         {
           "source_url": "https://epg.zappr.stream/it/dtt/regional/campania.json",
