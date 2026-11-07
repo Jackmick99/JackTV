@@ -1027,7 +1027,7 @@ https://tvheadend-sardegna1.zappr.stream/stream/channel/3f1fae683e4dd4784cf6498c
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fv0Ppfh/Senza-titolo-3.png",Sky TG24 Web
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12220/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556&CMCD=cid%3D1%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22d08319ef-c1cf-4c62-aeaa-114fe98a7af0%22%2Csu
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fv0Ppfh/Senza-titolo-3.png",Sky Sport Web
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cQpNmkG/sky.png",Sky Sport Web
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14)
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11222/skysportweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556&CMCD=cid%3D4%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%229049e59f-b193-4949-aa9d-36e36e2528d7%22%2Csu
 #EXTINF:-1 tvg-id="Euronews.it" tvg-logo="https://i.ibb.co/xmtxhJ6/euronews.png",Euronews
