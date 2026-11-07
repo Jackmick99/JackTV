@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-07T06:07:54.084263+00:00",
+  "checked_at": "2026-11-07T13:12:48.407525+00:00",
   "accepted": true,
   "channels": 228,
   "fresh": 223,
@@ -3551,8 +3551,8 @@
       "id": "RecordNews.br",
       "name": "Record News",
       "status": "fresh",
-      "programmes": 110,
-      "until": "20261110082000 +0000",
+      "programmes": 115,
+      "until": "20261111060000 +0000",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz",
         "source_id": "São.Paulo/SP.Record.News.br"
