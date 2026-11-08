@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-11-08T06:12:43.380921+00:00",
+  "checked_at": "2026-11-08T13:36:08.454025+00:00",
   "accepted": true,
   "channels": 228,
   "fresh": 222,
-  "previous": 1,
-  "missing": 5,
+  "previous": 0,
+  "missing": 6,
   "unknown_playlist_ids": [
     "Italiana.it"
   ],
@@ -1516,9 +1516,9 @@
     {
       "id": "Canale21.it",
       "name": "Canale 21",
-      "status": "previous",
-      "programmes": 3,
-      "until": "20261108105500 +0100",
+      "status": "missing",
+      "programmes": 0,
+      "until": null,
       "source_used": null,
       "sources_attempted": [
         {
@@ -3548,8 +3548,8 @@
       "id": "RecordNews.br",
       "name": "Record News",
       "status": "fresh",
-      "programmes": 115,
-      "until": "20261111060000 +0000",
+      "programmes": 121,
+      "until": "20261112060000 +0000",
       "source_used": {
         "source_url": "https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz",
         "source_id": "São.Paulo/SP.Record.News.br"
